@@ -5,7 +5,6 @@ modified: 2023-12-26 09:22
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
@@ -28,19 +27,19 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Rhinorrhea, diaphoresis, piloerection, thermoregulation disturbances (e.g., chills)</span>
 	- Myalgia, arthralgia
 - Gastrointestinal symptoms
-	- Nausea, vomiting, diarrhea
+	- Nausea, vomiting, [[../GI/Diarrhea|diarrhea]]
 	- Abdominal pain
 
 >[!Mnemonic] 
 >Opioid yawning![[../../assets/img/Pasted image 20240107153212.png|Pasted image 20240107153212.png]]
 # Neonatal abstinence syndrome
-Neonatal abstinence syndrome is caused by maternal drug use during pregnancy (typically opioids) that subsequently leads to a withdrawal reaction in the infant.
+Neonatal abstinence syndrome is caused by maternal drug use during [[../Reproductive/Pregnancy|pregnancy]] (typically [[../Pharmacology/Opioids|opioids]]) that subsequently leads to a withdrawal reaction in the infant.
 ## Clinical features 
 - <span style="background:rgba(240, 200, 0, 0.2)">Symptoms usually manifest in the first days of life.</span>
 - Flu-like symptoms: fever and sweating
 - Gastrointestinal symptoms
 	- <span style="background:rgba(240, 200, 0, 0.2)">Poor feeding</span>
-	- Vomiting, diarrhea
+	- Vomiting, [[../GI/Diarrhea|diarrhea]]
 	- Failure to thrive
 - Respiratory symptoms
 	- Tachypnea, apnea
@@ -61,15 +60,15 @@ Neonatal abstinence syndrome is caused by maternal drug use during pregnancy (ty
 # Treatment
 - Naloxone
 	- A competitive <span style="background:rgba(240, 200, 0, 0.2)">opioid receptor antagonist</span> with high binding affinity to the mu (μ) opioid receptor. 
-	- Used to <span style="background:rgba(240, 200, 0, 0.2)">reverse opioid overdose.</span> 
-	- It has a relatively short duration of action, which can lead to renewed effect of opioids.
+	- Used to <span style="background:rgba(240, 200, 0, 0.2)">reverse [[../Neurology/Opioid overdose|opioid overdose]].</span> 
+	- It has a relatively short duration of action, which can lead to renewed effect of [[../Pharmacology/Opioids|opioids]].
 - Naltrexone
 	- <span style="background:rgba(240, 200, 0, 0.2)">Maintenance therapy for patients who have completed opioid withdrawal and want to abstain from opioid use</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Acute opioid withdrawal: methadone/buprenorphine</span>
 	- Methadone 
 		- <span style="background:rgba(240, 200, 0, 0.2)">full mu-opioid receptor agonist</span>
 		- It has a <span style="background:rgba(240, 200, 0, 0.2)">long half-life, which allows it to effectively suppress cravings and withdrawal symptoms</span>
-		- It also blocks the euphoric effects of other opioids by maintaining high tolerance levels
+		- It also blocks the euphoric effects of other [[../Pharmacology/Opioids|opioids]] by maintaining high tolerance levels
 	- Buprenorphine is an <span style="background:rgba(240, 200, 0, 0.2)">opioid partial agonist</span> used for opioid use disorder
 
 >[!Mnemonic] 

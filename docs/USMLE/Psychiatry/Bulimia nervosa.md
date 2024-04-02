@@ -36,6 +36,8 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">↓ Potassium, ↓ sodium, ↓ chloride, and ↓ calcium</span>
 - Metabolic alkalosis 
 - Possible ↑ serum α-amylase 
+# Differential diagnostics
+![[../../assets/img/Pasted image 20240327205238.png|Pasted image 20240327205238.png]]
 
 ---
 # Treatment

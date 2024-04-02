@@ -6,9 +6,9 @@ aliases:
   - Sturge-Weber syndrome
   - Tuberous sclerosis
   - neurofibromatosis
+  - von Hippel-Lindau syndrome
 share: true
 ---
-
 # Sturge-Weber syndrome
 - <span style="background:rgba(240, 200, 0, 0.2)">Somatic mosaic mutation of GNAQ gene → malformation of capillaries</span>
 ![[../../assets/img/Pasted image 20231228172205.png|Pasted image 20231228172205.png]]

@@ -7,10 +7,9 @@ aliases:
   - rheumatic fever
 share: true
 ---
-
 # Etiology
 - Previous infection with group A β-hemolytic streptococcus (GAS), also referred to as [[../Infective disease/Streptococcus pyogenes|Streptococcus pyogenes]]
-	- Usually acute tonsillitis or pharyngitis (“strep throat”)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Usually acute tonsillitis or pharyngitis (“strep throat”)</span>
 	- GAS infections of the skin (e.g., erysipelas, impetigo, cellulitis) tend to be complicated by [[../Renal/Poststreptococcal glomerulonephritis|poststreptococcal glomerulonephritis]] rather than rheumatic fever.
 
 ---
@@ -57,7 +56,7 @@ share: true
 	- ECG features of pericarditis
 
 >[!tip] 
->Whenever you see marked <span style="background:rgba(240, 200, 0, 0.2)">left atrial abnormality or [[./Atrial fibrillation|atrial fibrillation]] in the presence of right ventricular hypertrophy signs</span>, always think about rheumatic mitral valve disease. Mitral stenosis is the only single lesion that can readily account for the combination of left atrial enlargement and right ventricular hypertrophy.
+>Whenever you see marked <span style="background:rgba(240, 200, 0, 0.2)">left atrial abnormality or [[./Atrial fibrillation|atrial fibrillation]] in the presence of right ventricular hypertrophy signs</span>, always think about rheumatic mitral valve disease. [[./Mitral valve stenosis|Mitral stenosis]] is the only single lesion that can readily account for the combination of left atrial enlargement and right ventricular hypertrophy.
 ## Pathology
 - Myocardial findings
 	- Aschoff bodies 

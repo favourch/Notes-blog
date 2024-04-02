@@ -5,6 +5,8 @@ modified: 2023-12-04 11:22
 aliases:
   - Diabetes
   - DM
+  - Type 1 diabetes
+  - Type 2 diabetes
 share: true
 ---
 # Epidemiology
@@ -119,6 +121,10 @@ share: true
 ## T2DM
 ![[../../assets/img/Pasted image 20240229113037.png|Pasted image 20240229113037.png]]
 - Metformin![[../../assets/img/Pasted image 20231209113337.png|Pasted image 20231209113337.png]]
+	- Contraindications
+		- <span style="background:rgba(240, 200, 0, 0.2)">Renal failure, heart failure (NYHA III and IV), respiratory failure, shock, sepsis</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Decreased renal blood flow, cannot be excreted</span>
+
 >[!Mnemonic] 
 ><font color="#ffc000">Met</font>formin accumulation will cause <font color="#ffc000">met</font>abolic acidosis (lactic acidosis), so stop it before contrast CT scan.
 - Sulfonylureas![[../../assets/img/Pasted image 20231209134835.png|Pasted image 20231209134835.png]]
@@ -129,7 +135,7 @@ share: true
 			- Increased risk under the following circumstances:
 				- <span style="background:rgba(240, 200, 0, 0.2)">Simultaneous intake of CYP2C9 inhibitors (e.g., amiodarone, trimethoprim, fluconazole) </span>
 				- <span style="background:rgba(240, 200, 0, 0.2)">Patients with renal failure </span>
-					- Because sulfonylureas are excreted via the kidneys, renal failure can result in accumulation. Hypoglycemia due to accumulation of long-acting glyburide may persist for several days, requiring extensive glucose substitution.
+					- Because sulfonylureas are excreted via the kidneys, renal failure can result in accumulation. [[./Hypoglycemia|Hypoglycemia]] due to accumulation of long-acting glyburide may persist for several days, requiring extensive glucose substitution.
 				- <span style="background:rgba(240, 200, 0, 0.2)">Decreased carbohydrate intake (diets or periods of fasting)</span>
 				- Elevated glucose utilization (e.g., unaccustomed physical activity)
 				- Sulfonylurea overdose

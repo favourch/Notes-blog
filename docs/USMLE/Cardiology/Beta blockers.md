@@ -8,8 +8,7 @@ aliases:
   - Beta blocker
 share: true
 ---
-
 # β1
 - Heart
 - <span style="background:rgba(240, 200, 0, 0.2)">Kidneys</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">β1 blockade of the juxtaglomerular cells → ↓ renin release → ↓ angiotensin II conversion → ↓ H2O resorption → ↓ BP</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">β1 blockade of the juxtaglomerular cells → ↓ renin release → ↓ angiotensin II conversion → ↓ H<sub>2</sub>O resorption → ↓ BP</span>

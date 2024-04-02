@@ -6,7 +6,6 @@ aliases:
   - SLE
 share: true
 ---
-
 # Epidemiology
 
 
@@ -18,7 +17,7 @@ share: true
 - Hormonal factors: <span style="background:rgba(240, 200, 0, 0.2)">Hyperestrogenic states (e.g., due to oral contraceptive use, postmenopausal hormonal therapy</span>, [[../Reproductive/Endometriosis|endometriosis]]) are associated with an increased risk of SLE.
 - Environmental factors
 	- Cigarette smoking and silica exposure increase the risk of developing SLE.
-	- <span style="background:rgba(240, 200, 0, 0.2)">UV light and EBV infection may trigger disease flares</span>, but there is insufficient evidence on whether they cause SLE.
+	- <span style="background:rgba(240, 200, 0, 0.2)">UV light and [[../Infective disease/Infectious mononucleosis|EBV]] infection may trigger disease flares</span>, but there is insufficient evidence on whether they cause SLE.
 	- Drugs such as procainamide or hydralazine (see “[[../Cardiology/Drug-induced lupus erythematosus|Drug-induced lupus erythematosus]]”)
 
 ---
@@ -64,6 +63,7 @@ share: true
 		- Levels correlate with disease activity (especially lupus nephritis activity). 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-Sm antibodies</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Autoantibodies against Smith antigens (nonhistone nuclear proteins)</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Smith can bond to snRNAs to form snRNPs, which can form a spliceosome.</span>
 		- Positive in < 30% of patients, but highly specific for SLE
 - Antiphospholipid antibodies: Screen all patients for [[../MSK/Antiphospholipid syndrome|antiphospholipid syndrome]].
 - Laboratory markers of disease activity and/or organ damage in SLE

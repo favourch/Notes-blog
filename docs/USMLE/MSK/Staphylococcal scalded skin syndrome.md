@@ -5,7 +5,6 @@ modified: 2024-01-07 17:13
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
@@ -20,7 +19,7 @@ share: true
 		- Bullous impetigo is also caused by staphylococcal exfoliative toxins but remains localized, in contrast to SSSS.
 
 >[!tip] 
->SSSS belongs to the spectrum of diseases mediated by specific staphylococcal toxins, which also includes bullous impetigo, toxic shock syndrome (TSS), and Staphylococcus aureus [[../Infective disease/Food poisoning|food poisoning]]. <span style="background:rgba(240, 200, 0, 0.2)">Unlike TSS, SSSS does not have systemic manifestations (involvement of, e.g., liver, kidney, bone marrow, CNS).</span>
+>SSSS belongs to the spectrum of diseases mediated by specific staphylococcal toxins, which also includes bullous impetigo, toxic shock syndrome (TSS), and [[../Infective disease/Staphylococcus aureus|Staphylococcus aureus]] [[../Infective disease/Food poisoning|food poisoning]]. <span style="background:rgba(240, 200, 0, 0.2)">Unlike TSS, SSSS does not have systemic manifestations (involvement of, e.g., liver, kidney, bone marrow, CNS).</span>
 
 ---
 # Pathophysiology

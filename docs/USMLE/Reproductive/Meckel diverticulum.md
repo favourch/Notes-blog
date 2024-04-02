@@ -2,10 +2,11 @@
 author: Harvey Guo
 created: 2023-12-13 09:25
 modified: 2023-12-13 09:25
-aliases: []
+aliases:
+  - Vitelline duct
+  - Vitelline duct abnormalities
 share: true
 ---
-
 # Epidemiology
 - Prevalence: most common congenital gastrointestinal tract anomaly
 
@@ -19,6 +20,9 @@ share: true
 	- Ectopic mucosa
 		- <span style="background:rgba(240, 200, 0, 0.2)">Most common: acid-producing gastric mucosa</span> (∼ 60%)
 		- Other types include pancreatic, colonic, and duodenal mucosa.
+
+>[!tip] 
+>Similar to [[../Renal/Urachal abnormalities|Urachal abnormalities]]![[../../assets/img/Pasted image 20240325091238.png|Pasted image 20240325091238.png]]![[../../assets/img/highresdefault_L90023.jpg|highresdefault_L90023.jpg]]
 
 ---
 # Pathophysiology

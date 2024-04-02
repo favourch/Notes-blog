@@ -7,7 +7,6 @@ aliases:
   - Polymyositis
 share: true
 ---
-
 # Definition
 - Dermatomyositis (DM): an inflammatory myopathy characterized by <span style="background:rgba(240, 200, 0, 0.2)">progressive symmetrical proximal muscle weakness and distinctive skin findings</span>
 - Polymyositis (PM): an inflammatory myopathy <span style="background:rgba(240, 200, 0, 0.2)">affecting the proximal skeletal muscles</span>, with evidence of elevated CK and myositis on EMG and biopsy in the absence of any of the characteristic findings of the other IIM (a rare diagnosis of exclusion)
@@ -19,7 +18,7 @@ share: true
 ---
 # Etiology
 - Polymyositis (PM): <span style="background:rgba(240, 200, 0, 0.2)">cell-mediated cytotoxicity</span> against unidentified skeletal muscle antigens, chiefly affecting the endomysium
-- Dermatomyositis (DM): idiopathic or paraneoplastic <span style="background:rgba(240, 200, 0, 0.2)">antibody-mediated </span>vasculopathy, associated with malignancies ([[../Blood/Non-Hodgkin lymphomas|non-Hodgkin lymphoma]]; lung, stomach, colorectal, or ovarian cancer )
+- Dermatomyositis (DM): idiopathic or paraneoplastic <span style="background:rgba(240, 200, 0, 0.2)">antibody-mediated </span>vasculopathy, associated with malignancies ([[../Blood/Non-Hodgkin lymphomas|non-Hodgkin lymphoma]]; lung, stomach, colorectal, or [[../Reproductive/Ovarian cancer|ovarian cancer]] )
 
 ---
 # Pathophysiology
@@ -33,9 +32,9 @@ share: true
 
 ---
 # Diagnostics
-↑ CK
-Antinuclear antibodies (ANAs)
-Myositis-specific antibodies
+- ↑ CK
+- Antinuclear antibodies (ANAs)
+- Myositis-specific antibodies
 
 ---
 # Treatment

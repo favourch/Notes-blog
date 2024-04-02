@@ -26,12 +26,27 @@ share: true
 >[[../Cardiology/Hypercalcemia|Hypercalcemia]] in MM is nor related to [[../Renal/Parathyroid hormone-related protein|PTHrP]]!
 # Clinical features
 ---
-
+- Often asymptomatic
+- <span style="background:rgba(240, 200, 0, 0.2)">Bone pain, especially back pain (most common symptom)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Symptoms of [[../Cardiology/Hypercalcemia|hypercalcemia]], e.g. constipation</span>
+- Foamy urine (caused by Bence Jones proteins in urine)
 
 # Diagnostics
 ---
-<% tp.file.cursor() %>
+- Calcium > 11 mg/dL or > 1 mg/dL above the ULN
+- Renal insufficiency: GFR < 40 mL/min or serum creatinine > 2 mg/dL 
+- [[./Anemia|Anemia]]: Hb < 10 g/dL or more than 2 g/dL below the LLN
+	- Normocytic anemia
+- Bone lesions: ≥ 1 osteolytic lesions on imaging
 
 # Treatment
 ---
-<% tp.file.cursor() %>
+
+# Complications
+---
+- <span style="background:rgba(240, 200, 0, 0.2)">Myeloma cast nephropathy (i.e., myeloma kidney): most common cause of renal injury and renal failure in patients with multiple myeloma</span>
+	- Clinical features: oliguria, peripheral edema, dyspnea
+	- Pathophysiology: excessive production and filtration of light chains into the urine → <span style="background:rgba(240, 200, 0, 0.2)">precipitation of light chains</span> in renal tubules → tubular obstruction
+	- Diagnosis: markedly positive urine sulfosalicylic acid test  and/or urine protein electrophoresis
+		- <span style="background:rgba(240, 200, 0, 0.2)">On light microscopy, numerous large, glassy eosinophilic [[../Renal/Urine sediment|casts]] are seen.</span>
+	- May progress to end-stage renal disease (ESRD)

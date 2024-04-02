@@ -6,16 +6,15 @@ aliases:
   - RA
 share: true
 ---
-
 # Epidemiology
-- Genetic predisposition and association with HLA-B27 (see “Seronegative spondyloarthritis”)
+- Genetic predisposition and association with <span style="background:rgba(240, 200, 0, 0.2)">HLA-B27</span> (see “Seronegative spondyloarthritis”)
 - Commonly affects young men
 
 ---
 # Etiology
 <span style="background:rgba(240, 200, 0, 0.2)">Postinfectious autoimmune disorder</span>  
-- Posturethritis: after infection with <span style="background:rgba(240, 200, 0, 0.2)">Chlamydia (common)</span> or Ureaplasma urealyticum
-- Postenteritis: after infection with Shigella, Yersinia, Salmonella, or Campylobacter
+- <span style="background:rgba(240, 200, 0, 0.2)">Posturethritis</span>: after infection with <span style="background:rgba(240, 200, 0, 0.2)">Chlamydia (common)</span> or Ureaplasma urealyticum
+- <span style="background:rgba(240, 200, 0, 0.2)">Postenteritis</span>: after infection with Shigella, Yersinia, Salmonella, or Campylobacter
 
 ---
 # Pathophysiology
@@ -23,8 +22,11 @@ share: true
 
 ---
 # Clinical features
+>[!tip] 
+><span style="background:rgba(240, 200, 0, 0.2)">The clinical manifestations are caused by immune complexes involving bacterial antigens.  However, it does not represent disseminated infection, and joint aspirates are sterile (ie, it is a 'reactive' not infectious arthritis).</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Recent [[../Renal/Urinary tract infections|UTI]] or GI infections</span>
 - Musculoskeletal symptoms
-	- Oligoarthritis (sometimes polyarthritis)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Oligoarthritis (sometimes polyarthritis)</span>
 		- Acute onset
 		- Often asymmetrical with a migratory character
 		- Occurs predominantly in the lower extremities 
@@ -32,11 +34,11 @@ share: true
 	- Enthesitis
 	- Dactylitis
 - Extra‑articular symptoms
-	- Conjunctivitis, iritis, episcleritis, or keratitis 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Conjunctivitis</span>, iritis, episcleritis, or keratitis 
 	- Dermatologic manifestations
-	- Balanitis circinata: skin lesions of the glans resembling psoriasis 
+	- Balanitis circinata: skin lesions of the glans resembling [[./Psoriasis|psoriasis]] 
 	- Keratoderma blenorrhagicum: hyperkeratinization of the palms and soles 
-	- [[../Renal/Urethritis|Urethritis]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Renal/Urethritis|Urethritis]]</span>
 - Symptoms from preceding infection 
 	- [[../GI/Diarrhea|Diarrhea]]
 	- Urogenital tract symptoms (dysuria, pelvic pain, prostatitis)

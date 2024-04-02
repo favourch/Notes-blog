@@ -10,5 +10,5 @@ share: true
 - Emotions or behaviors in response to a stressor that occur within 3 months of onset
 - Symptoms last ≤ 6 months following resolution of the stressor.
 ## Differential diagnostics
-- Generalized anxiety disorder: If symptoms of adjustment disorder last > 6 months the diagnosis is changed to GAD.
+- [[./Anxiety disorders|Generalized anxiety disorder]]: If symptoms of adjustment disorder last > 6 months the diagnosis is changed to [[./Anxiety disorders|GAD]].
 ![[../../assets/img/Pasted image 20240317194857.png|Pasted image 20240317194857.png]]

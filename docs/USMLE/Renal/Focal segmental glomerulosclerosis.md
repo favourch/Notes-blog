@@ -5,14 +5,13 @@ modified: 2023-08-23 15:40
 aliases: FSGC
 share: true
 ---
-
 # Epidemiology
 <span style="background:rgba(240, 200, 0, 0.2)">Most common cause of [[./Nephrotic syndrome|nephrotic syndrome]] in adults, especially in African American and Hispanic populations</span>
 
 ---
 # Etiology
 - Heroin use
-- HIV infection
+- [[../Infective disease/Human immunodeficiency virus|HIV]] infection
 - [[../Blood/Sickle cell disease|Sickle cell disease]]
 - Massive obesity
 - Interferon treatment

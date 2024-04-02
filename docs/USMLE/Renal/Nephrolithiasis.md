@@ -22,7 +22,7 @@ share: true
 #### Etiology
 - Hypercalciuria
 - Hyperoxaluria
-	- Increased intestinal absorption of oxalate, e.g., due to fatty acid malabsorption (e.g., [[../GI/Crohn disease|Crohn disease]], [[../GI/Ulcerative colitis|ulcerative colitis]], short bowel syndrome)
+	- Increased intestinal absorption of oxalate, e.g., due to fatty acid [[../GI/Malabsorption|malabsorption]] (e.g., [[../GI/Crohn disease|Crohn disease]], [[../GI/Ulcerative colitis|ulcerative colitis]], short bowel syndrome)
 	 - [[../Blood/Vitamin C# Vitamin C toxicity|Vitamin C >  Vitamin C toxicity]]
 		 - <span style="background:rgba(240, 200, 0, 0.2)">[[../Blood/Vitamin C|Vitamin C]] is metabolized to oxalate</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypocitraturia</span>
@@ -42,7 +42,7 @@ share: true
 	- Reduced intake of salt (mainly sodium) and animal protein *(Low sodium enhances renal tubular reabsorption of sodium and calcium, decreasing urinary calcium levels. Animal protein consumption increases calcium excretion in urine.)*
 	- Reduced intake of oxalate-rich foods and supplemental [[../Blood/Vitamin C|vitamin C]]
 	- Calcium intake should not be restricted (restriction increases risk of hyperoxaluria, and thereby, the risk for [[../MSK/Osteoporosis|osteoporosis]]) 
-- <span style="background:rgba(240, 200, 0, 0.2)">Thiazide diuretics</span> for recurrent calcium-containing stones with idiopathic hypercalciuria (i.e., no [[../Cardiology/Hypercalcemia|hypercalcemia]])
+- <span style="background:rgba(240, 200, 0, 0.2)">Thiazide [[../Pharmacology/Diuretics|diuretics]]</span> for recurrent calcium-containing stones with idiopathic hypercalciuria (i.e., no [[../Cardiology/Hypercalcemia|hypercalcemia]])
 - Urine alkalinization (e.g., with potassium citrate)
 - Possibly citrate supplementation
 ### Calcium phosphate stones
@@ -55,7 +55,7 @@ share: true
 - X-ray (or CT): radiopaque stones
 #### Prevention
 - Hydration
-- Thiazide diuretics
+- Thiazide [[../Pharmacology/Diuretics|diuretics]]
 - Diet low in sodium
 ## Uric acid stones
 ### Etiology
@@ -81,7 +81,7 @@ share: true
 >Uricosuric agents (e.g., probenecid) increase the excretion of uric acid, which can accelerate the formation of stones.
 ## Cystine stones
 ### Etiology
-- <span style="background:rgba(240, 200, 0, 0.2)">Autosomal recessive defect in cystine-reabsorbing PCT transporter</span> → impaired proximal renal tubular absorption of dibasic amino acids → [[../Biochemistry/cystinuria|cystinuria]] → cystine stone formation (as cystine is poorly soluble)
+- <span style="background:rgba(240, 200, 0, 0.2)">Autosomal recessive defect in cystine-reabsorbing PCT transporter</span> → impaired proximal renal tubular absorption of <span style="background:rgba(240, 200, 0, 0.2)">dibasic amino acids</span> → [[../Biochemistry/cystinuria|cystinuria]] → cystine stone formation (as cystine is poorly soluble)
 - Develop in <span style="background:rgba(240, 200, 0, 0.2)">persistently acidic urine</span>
 ### Clinical features
 <span style="background:rgba(240, 200, 0, 0.2)">Recurrent kidney stones (manifesting with e.g., flank pain) starting <u>in childhood</u></span>
@@ -95,6 +95,10 @@ share: true
 ### Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Upper [[./Urinary tract infections|UTI]] with urease-producing bacteria</span> such as Proteus mirabilis, Klebsiella, Staphylococcus saprophyticus, and/or Pseudomonas
 	- <span style="background:rgba(240, 200, 0, 0.2)">These bacteria convert urea to ammonia → elevated ammonia causing alkaline urine → precipitation of the ammonium magnesium phosphate salt → crystal and stone formation</span>
+		- Urea → 2 NH3 + CO2
+		- NH3 + H<sub>2</sub>O → NH4+ + OH−
+	- Grow rapidly into a branched staghorn calculus that fills the renal calyces and pelvis.
+	- Over time, the affected kidney can atrophy due to recurrent infection and chronic obstructive nephropathy.
 ### Treatment
 - Antibiotic treatment of [[./Urinary tract infections|urinary tract infections]]
 - Hydration

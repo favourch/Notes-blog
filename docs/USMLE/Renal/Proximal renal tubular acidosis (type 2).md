@@ -5,24 +5,28 @@ modified: 2023-08-19 16:58
 aliases: Fanconi syndrome
 share: true
 ---
-
->[!Mnemonic] Remember these alphabetically 
->![[../../assets/img/Pasted image 20230829160609.png|Pasted image 20230829160609.png]]
 # Etiology
 - Drugs: acetazolamide
 
 ---
 # Pathophysiology
-Type 2 renal tubular acidosis is characterized by a dysfunctional <span style="background:rgba(240, 200, 0, 0.2)">proximal convoluted tubule (PCT)</span> that is unable to reabsorb HCO3<sup>-</sup>.
-![[../../assets/img/Pasted image 20230819170056.png|Pasted image 20230819170056.png]]
+- Isolated proximal RTA: The proximal convoluted tubule cells are unable to reabsorb HCO3-.
+- <span style="background:rgba(240, 200, 0, 0.2)">Fanconi syndrome</span>: Impaired reabsorption of HCO3- <span style="background:rgba(240, 200, 0, 0.2)">and other compounds (e.g., potassium, glucose, phosphate, and amino acid reabsorption)</span> in the PCT
 
 ---
 # Clinical features
-
+- Vitamin D-resistant hypophosphatemic rickets/osteomalacia (caused by phosphaturia and hypophosphatemia; individuals with Fanconi syndrome typically have more severe symptoms)
+- Short stature
+- <span style="background:rgba(240, 200, 0, 0.2)">Polyuria</span> → polydipsia, dehydration
+>[!tip] 
+>Excessive tubular glucose impairs renal concentrating ability by acting as an osmotic diuretic, contributing to development of polyuria (eg, more wet diapers) and episodes of hypovolemia .  However, plasma glucose is tightly regulated by mechanisms (eg, insulin, glucagon) independent of renal reabsorption.  Therefore, <span style="background:rgba(240, 200, 0, 0.2)">serum glucose remains normal.</span>
 
 ---
 # Diagnostics
-<% tp.file.cursor() %>
+- Fanconi syndrome
+	- Aminoaciduria
+	- Glucosuria despite normal or low serum glucose
+	- Phosphaturia
 
 ---
 # Differential diagnosis
@@ -30,6 +34,6 @@ Type 2 renal tubular acidosis is characterized by a dysfunctional <span style="b
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

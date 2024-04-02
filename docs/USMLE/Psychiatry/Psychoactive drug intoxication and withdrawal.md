@@ -7,16 +7,38 @@ aliases:
   - Drug overdose
 share: true
 ---
+![[../../assets/img/Pasted image 20240326204402.png|Pasted image 20240326204402.png]]Consistent with 交大附小
+# Stimulants
+>[!warning] 
+>Stimulants can trigger <span style="background:rgba(240, 200, 0, 0.2)">substance-induced psychosis</span>, especially in individuals with high-dose, daily use, and/or other risk factors for psychosis.
+## Caffeine
+- Has [[./Antidepressants|MAOI]] effects → ↑ levels of epinephrine, norepinephrine, serotonin, and dopamine
+## Nicotine
+- Effects of caffeine + [[../Pharmacology/Opioids|opioids]] receptor
+### Smoking cessation
+- <span style="background:rgba(240, 200, 0, 0.2)">Varenicline</span>
+	- Nicotine receptor (alpha-4-beta-2 nACHR) partial agonist
+	- Reduces positive symptoms, cravings, and withdrawal symptoms
+- [[./Antidepressants|Bupropion]]
+	- Reduces craving and withdrawal symptoms
 
-# Opioids
-## ![[./Opioid withdrawal|Opioid withdrawal]]
-# [[./Sedative-hypnotic drugs|Benzodiazepines]]
+>[!Mnemonic] 
+>Vare<font color="#ffc000">nic</font>line helps to quit <font color="#ffc000">nic</font>otine.
+## [[../Neurology/MDMA|MDMA]]
+>[!tip] 
+>Withdrawal from stimulants will not cause morbidity or morality. However, withdrawal from depressants like benzodiazepines or alcohol will. 
+# Depressants
+## [[../Pharmacology/Opioids|Opioids]]
+### [[./Opioid withdrawal|Opioid withdrawal]]
+## [[./Sedative-hypnotic drugs|Benzodiazepines]]
 - Benzos increase the FREQUENCY of chloride channel opening
 - Barbiturates increase the DURATION of chloride channel opening
 >[!Mnemonic] 
 ><font color="#ffc000">Ben</font> wants it to happen more often <font color="#ffc000">(frequency)</font>
 ><font color="#ffc000">Barbie</font> wants it to last longer <font color="#ffc000">(duration)</font>
-# Phencyclidine (PCP)
+# Hallucinogens
+## [[./Cannabis-induced disorders|Cannabis]]
+## Phencyclidine (PCP)
 - Street names: angel dust, peace pill, elephant tranquilizer, hog
 - Mechanism of action 
 	- Inhibits [[../Neurology/Neurotransmitters|dopamine]], [[../Neurology/Neurotransmitters|serotonin]], and [[../Neurology/Neurotransmitters|norepinephrine]] reuptake
@@ -25,7 +47,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Violence</span>
 		- K 粉 -> Kick
 	- <span style="background:rgba(240, 200, 0, 0.2)">Rotary [[../Neurology/Internuclear ophthalmoplegia|nystagmus]]</span>![[../../assets/img/Pasted image 20240107155450.png|Pasted image 20240107155450.png]]
-	- impulsivity, psychomotor agitation, tachycardia, hypertension, analgesia, psychosis, delirium, seizures.
+	- impulsivity, psychomotor agitation, tachycardia, hypertension, analgesia, psychosis, [[./Delirium|delirium]], seizures.
 
 >[!Mnemonic] 
 >Phen<font color="#ffc000">cycl</font>idine -> <font color="#ffc000">Rotary</font> [[../Neurology/Internuclear ophthalmoplegia|nystagmus]]

@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-12-29 11:02
 modified: 2023-12-29 11:02
-aliases: []
+aliases:
+  - Cyclothymic disorder
 share: true
 ---
 # Epidemiology
@@ -14,10 +15,13 @@ share: true
 
 ---
 # Subtypes and variants
-## Cyclothymia 
-- <span style="background:rgba(240, 200, 0, 0.2)">Persistent instability of mood</span> involving numerous periods of depressive symptoms and periods of hypomanic symptoms
-- <span style="background:rgba(240, 200, 0, 0.2)">Symptoms are not sufficiently severe or persistent enough to diagnose bipolar disorder</span> (symptoms never meet the criteria for a major depressive or hypomanic episode)
-- <span style="background:rgba(240, 200, 0, 0.2)">Symptoms last at least 2 years, are present at least half of the time, and are never absent for more than 2 months at a time.</span>
+## Cyclothymia (Cyclothymic disorder) 
+Basically a milder form of bipolar disorder
+- <span style="background:rgba(240, 200, 0, 0.2)">Symptoms are not severe enough to diagnose bipolar disorder</span>, with
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hypomania: not enough for mania</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Major depressive disorder|Dysthymia]]: not enough for depression</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">But symptoms are more persistent than regular bipolar</span> 
+- Symptoms last at least 2 years, are present at least half of the time, and are never absent for more than 2 months at a time.
 
 
 ---
@@ -40,7 +44,7 @@ share: true
 	- Valproic acid, <span style="background:rgba(240, 200, 0, 0.2)">lamotrigine</span>
 - Refractory or severe bipolar episodes
 	- Combination therapy with a mood stabilizer (e.g., lithium or valproic acid)
-	- PLUS atypical antipsychotics (e.g., quetiapine, olanzapine, aripiprazole)
+	- PLUS atypical [[./Antipsychotics|antipsychotics]] (e.g., quetiapine, olanzapine, aripiprazole)
 - Severe depression or predominantly depressive bipolar II disorder: [[./Antidepressants|Antidepressants]] may be started after initiating mood stabilizers.
 
 ---

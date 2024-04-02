@@ -6,6 +6,6 @@ aliases:
   - Branchial apparatus
 share: true
 ---
-
+![[../../assets/img/highresdefault_L92012.jpg|highresdefault_L92012.jpg]]
 ![[../../assets/img/Pasted image 20231126161859.png|Pasted image 20231126161859.png]]
 ![[../../assets/img/Pasted image 20231126163855.png|Pasted image 20231126163855.png]](Medical school 2 problems)

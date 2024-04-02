@@ -6,6 +6,16 @@ aliases: []
 share: true
 ---
 ![[../../assets/img/Pasted image 20240322215128.png|Pasted image 20240322215128.png]]
+# Carbonic anhydrase inhibitors
+---
+## Agents
+Acetazolamide
+## Mechanism of action
+- Inhibition of carbonic anhydrase  in the following organs:
+	- Kidney (in the proximal convoluted tubule): → ↑ H+ reabsorption and inhibition of Na+/H+ exchange → ↑ NaHCO3 diuresis and ↑ HCO3- elimination  → compensatory hyperventilation; disinhibition of central chemoreceptors → ↑ oxygenation 
+	- Eyes: ↓ production of aqueous humor
+	- Brain: ↓ CSF production
+	- <span style="background:rgba(240, 200, 0, 0.2)">Acid-base effects: alkalinizes urine and acidifies blood</span>
 # Thiazide diuretics
 ---
 ## Mechanism of action
@@ -26,7 +36,7 @@ share: true
 ---
 ## Loop diuretics
 - Hypokalemia
-- Hypomagnesemia
+- [[../Renal/Hypomagnesemia|Hypomagnesemia]]
 - Hypocalcemia
 - Ototoxicity
 ## Thiazide diuretics
@@ -38,7 +48,14 @@ share: true
 - All: hyperkalemia
 - Spironolactone: gynecomastia, antiandrogen effects
 ## Carbonic anhydrase inhibitors
-Metabolic acidosis
+- [[../Biochemistry/Hyperammonemia|Hyperammonemia]] with paresthesias 
+- Proximal [[../Renal/Renal tubular disorders|renal tubular acidosis]] → hyperchloremic, nonanion gap metabolic acidosis
+- <span style="background:rgba(240, 200, 0, 0.2)">Hypokalemia</span>
+	- Caused by increased sodium delivery to the distal nephron and its reabsorption there in exchange for potassium.
+- Sulfonamide hypersensitivity
+- Calcium phosphate stone formation (alkaline urine promotes precipitation)
+	- Because paracellular calcium (Ca2+) reabsorption is coupled to Na+ reabsorption in the proximal tubule, <span style="background:rgba(240, 200, 0, 0.2)">urinary Ca2+ excretion is slightly increased (total serum Ca2+ is slightly reduced).</span>
 ## Osmotic diuretics
 - Hypernatremia
 - Pulmonary edema
+	- Mannitol is an osmotic diuretic, it increases osmolarity of blood and extracts fluid from intracellular compartments into Extracellular compartment. <span style="background:rgba(240, 200, 0, 0.2)">This leads to ECF expansion, and volume overload before diuresis begins</span>.

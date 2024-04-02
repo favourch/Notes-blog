@@ -6,7 +6,6 @@ aliases:
   - Huntington‘s disease
 share: true
 ---
-
 # Epidemiology
 - Peak incidence
 	- <span style="background:rgba(240, 200, 0, 0.2)">∼ 40 years of age (symptom onset usually between 20 and 50 years of age)</span>
@@ -30,17 +29,17 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Dysfunction of cholinergic transmission (early stage) and loss of cholinergic neurons (late stage) → decreased [[./Neurotransmitters|acetylcholine]] ([[./Neurotransmitters|Ach]]) in the brain</span>
 
 >[!Mnemonic] 
->In Huntington disease, increased number of <font color="#ffc000">CAG</font> repeats leads to the damage to the <font color="#ffc000">C</font>audate nucleus and results in decreased <font color="#ffc000">A</font>ch and <font color="#ffc000">G</font>ABA.
+>![[../../assets/img/Pasted image 20240328162707.png|Pasted image 20240328162707.png]]
 
 ---
 # Clinical features
 - Initial stages
 	- Movement dysfunction
-		- <span style="background:rgba(240, 200, 0, 0.2)">Chorea: involuntary, sudden, irregular, nonrepetitive, arrhythmic movements of the limbs, neck, head, and/or face</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Chorea: involuntary, sudden, irregular, nonrepetitive, arrhythmic movements of the limbs, neck, head, and/or face</span>![[../../assets/img/Pasted image 20240328163130.png|Pasted image 20240328163130.png]][Neurological examination - AMBOSS](https://next.amboss.com/us/article/o500Og?q=Chorea#Z97d19ec1299d17fc7b63b0eb80ab9b1e)
 		- Athetosis: involuntary, writhing movements, particularly of the hands and fingers
 - Advanced stages
 	- Movement dysfunction
-		- <span style="background:rgba(240, 200, 0, 0.2)">Hypokinetic motor symptoms: dystonia, rigidity, bradykinesia </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Hypokinetic motor symptoms: dystonia, [[../MSK/Spasticity (Clonus) vs Rigidity|rigidity]], bradykinesia </span>
 		- Akinetic mutism: inability to move or speak
 		- Motor impersistence: inability to sustain simple voluntary acts (e.g., tongue protrusion)
 		- Dysarthria and dysphagia
@@ -48,7 +47,7 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[./Dementia|Dementia]]</span> (particularly executive dysfunction)
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[../Psychiatry/Major depressive disorder|Major depressive disorder]]</span> (possibly including suicidal tendencies)
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[../Psychiatry/Schizophrenia|Schizophrenia]]-like psychosis</span> (∼ 10% of cases)
-			- Paranoid delusions (most common), delusions of infidelity
+			- <span style="background:rgba(240, 200, 0, 0.2)">Paranoid delusions (most common)</span>, delusions of infidelity
 			- Auditory hallucinations
 		- Aggression
 

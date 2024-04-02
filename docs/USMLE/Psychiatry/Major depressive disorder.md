@@ -17,8 +17,10 @@ share: true
 
 ---
 # Subtypes
+>[!tip] 
+>Each one of the diagnosis is superseded by the one above it: Bipolar I > Bipolar II > Depression > Cyclothymia > Dysthemia
 ## Persistent depressive disorder (dysthymia)
-- Clinical features: Unlike in MDD, thoughts of suicide, loss of interest, and psychomotor agitation or retardation are not typical features of persistent depressive disorder; therefore, dysthymia is often regarded as a milder form of MDD.
+- Clinical features: Unlike in MDD, thoughts of suicide, loss of interest, and psychomotor agitation or retardation are not typical features of persistent depressive disorder; therefore, dysthymia is often regarded as <span style="background:rgba(240, 200, 0, 0.2)">a milder form of MDD</span>.
 - Diagnostic criteria
 	- Depressed mood in addition to ≥ 2 of the clinical features mentioned above
 	- <span style="background:rgba(240, 200, 0, 0.2)">The symptoms are present for most of the day, and for the majority of days, for ≥ 2 years in adults.</span>

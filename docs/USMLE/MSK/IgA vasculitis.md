@@ -7,12 +7,11 @@ aliases:
   - HSP
 share: true
 ---
-
 # Epidemiology
 - Sex: ♂ > ♀
 - Age: <span style="background:rgba(240, 200, 0, 0.2)">more common in children</span>
 	- 90% of affected individuals < 10 years
-	- <span style="background:rgba(240, 200, 0, 0.2)">Other small vessel vasculitides mainly affect adults</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Other small vessel [[./Vasculitides|vasculitides]] mainly affect adults</span>
 
 ---
 # Etiology
@@ -28,6 +27,7 @@ Hypothesized pathophysiological mechanism: exposure to allergen/antigen (e.g., i
 
 ---
 # Clinical features
+![[../../assets/img/L41662.jpg|L41662.jpg]]
 An upper respiratory tract infection often precedes symptom onset by 1–3 weeks.
 - Skin (∼ 100% of cases)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Symmetrically distributed erythematous papules or urticarial lesions that coalesce into palpable purpura</span>![[../../assets/img/Pasted image 20231010165500.png|Pasted image 20231010165500.png]]
@@ -52,7 +52,7 @@ An upper respiratory tract infection often precedes symptom onset by 1–3 weeks
 # Diagnostics
 ## Biopsy
 - IgA and C3 complex deposition (hallmark) in small vessels of the superficial dermis
-- ANCA negative vasculitis
+- ANCA negative [[./Vasculitides|vasculitis]]
 
 ---
 # Differential Diagnosis

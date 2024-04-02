@@ -5,9 +5,11 @@ modified: 2023-12-28 15:40
 aliases:
   - MAOI
   - SSRI
+  - SSRIs
+  - Bupropion
 share: true
 ---
-# Selective serotonin reuptake inhibitors (SSRI)
+# Selective [[../Neurology/Neurotransmitters|serotonin]] reuptake inhibitors (SSRI)
 - Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">inhibition of serotonin reuptake in synaptic cleft → ↑ serotonin levels</span>
 - Drugs
 	- Fluoxetine
@@ -46,6 +48,8 @@ share: true
 - Sertraline has more GI side effects but is safe when pregnant or breastfeeding.
 >[!Mnemonic] 
 >Think <font color="#ffc000">squirt</font> raline to remember <font color="#ffc000">diarrhea and breast milk</font>.
+## Citalopram
+- QT prolongation![[../../assets/img/Pasted image 20240325102934.png|Pasted image 20240325102934.png]]
 # Atypical antidepressants
 ## Mirtazapine
 - Mechanism of action 
@@ -86,6 +90,12 @@ share: true
 >- <font color="#ffc000">Bu</font>propion should be avoided in patients with <font color="#ffc000">bu</font>limia.
 # Monoamine oxidase inhibitors
 <span style="background:rgba(240, 200, 0, 0.2)">Most powerful among these drugs, also has worst adverse effects</span>
+- Mechanism of action 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Nonselective inhibition of monoamine oxidase → ↓ breakdown of epinephrine, norepinephrine, serotonin, and dopamine → ↑ levels of epinephrine, norepinephrine, serotonin, and dopamine</span>
+	- Selegiline: selective MAO-B inhibitor → mainly ↓ breakdown of dopamine → ↑ levels of dopamine
+
+>[!tip] 
+>Monoamines include dopamine, serotonin, and epinephrine.
 - Drugs
 	- <font color="#ffc000">Tranylcypromine</font>
 	- Phenelzine
@@ -100,10 +110,15 @@ share: true
 	- Weight gain
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Cardiology/Hypertensive crises|Hypertensive crisis]] with ingestion of foods containing tyramine</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Examples: aged cheeses, smoked/cured meats, alcoholic beverages (especially beer and red wine), dried fruits, fava beans, chocolate</span>
+		- Tyramine is an indirect sympathomimetic found in certain foods (eg, aged cheeses, cured meats, draft beer) that is <span style="background:rgba(240, 200, 0, 0.2)">usually broken down in the gastrointestinal tract by MAO. In MAO inhibitor–treated patients, tyramine escapes degradation and enters the systemic circulation, leading to a hypertensive crisis.</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Tyramine stimulates the sympathetic nervous system by releasing other [[../Neurology/Neurotransmitters|neurotransmitters]], such as noradrenaline, from vesicles into the synaptic cleft.</span>
 
 >[!Mnemonic] 
->Think of trazodone as trazo <font color="#ffc000">bone</font> to remember priapism![[../../assets/img/Pasted image 20240315203328.png|Pasted image 20240315203328.png]]
+>- Picture being on a date with <font color="#ffc000">Tyra</font> Banks over <font color="#ffc000">wines and cheeses</font> at a resort in <font color="#ffc000">Maui</font> (an island in Hawaii). (This will be nervous and your blood pressure sky high)![[../../assets/img/Pasted image 20240325171042.png|Pasted image 20240325171042.png]]
+>- Think of trazodone as trazo <font color="#ffc000">bone</font> to remember priapism![[../../assets/img/Pasted image 20240315203328.png|Pasted image 20240315203328.png]]
+- Additional information
+	- <span style="background:rgba(240, 200, 0, 0.2)">Before starting new serotonergic drugs or ceasing dietary restrictions (e.g., foods containing tyramine), MAOI therapy has to be stopped for at least 2 weeks.</span>
+		- To wait for MAO is resynthesized to a level adequate for normal monoamine degradation
 # Tricyclic antidepressants (TCA)
 - Mechanism of action: inhibition of serotonin and norepinephrine reuptake in synaptic cleft → ↑ serotonin and norepinephrine levels ![[../../assets/img/Pasted image 20240315204406.png|Pasted image 20240315204406.png]]
 - Drugs

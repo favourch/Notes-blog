@@ -5,6 +5,7 @@ modified: 2024-02-24 21:58
 aliases:
   - Complement
   - Complements
+  - Complement disorders
 share: true
 ---
 ![[../../assets/img/Pasted image 20240318194037.png|Pasted image 20240318194037.png]]
@@ -15,7 +16,7 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">C3b and IgG are the two main opsonins for bacteria</span>![[../../assets/img/L16733.jpg|L16733.jpg]]
 		- <span style="background:rgba(240, 200, 0, 0.2)">C3b is also involved in eliminating immune complexes.</span>
 			- Deficiency of C3b will increase risk of [[./Systemic lupus erythematosus|SLE]]
-			- C3 is decreased in [[../Renal/Poststreptococcal glomerulonephritis|PSGN]]
+			- C3 is decreased in [[../Renal/Poststreptococcal glomerulonephritis|PSGN]], [[../Renal/Diffuse proliferative glomerulonephritis|DPGN]]
 	- Membrane attack complex (MAC)
 		- Formed by C5b–C9
 		- Lysis of bacteria (especially gram‑negative bacteria) by perforation of the cell wall
@@ -25,3 +26,15 @@ share: true
 >[!Mnemonic] 
 >- C3<font color="#ffc000">b</font> binds to <font color="#ffc000">b</font>acteria.
 >- C3<font color="#ffc000">a</font>, C4<font color="#ffc000">a</font>, C5<font color="#ffc000">a</font> lead to mast-cell <font color="#ffc000">a</font>ctivation and <font color="#ffc000">a</font>naphylaxis.
+# Complement disorders
+## C1 esterase inhibitor deficiency
+- Etiology
+	- Autosomal dominant inheritance
+	- <span style="background:rgba(240, 200, 0, 0.2)">Unregulated activation of kallikrein → ↑ bradykinin → angioedema</span>![[../../assets/img/Pasted image 20240326213914.png|Pasted image 20240326213914.png]]
+- Clinical features
+	- <span style="background:rgba(240, 200, 0, 0.2)">Causes hereditary angioedema</span>
+		- Recurrent angioedemas provoked by triggers (e.g., trauma, surgery, infections, and drugs)
+- Diagnostic findings
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Bradykinin levels</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Low C4 levels</span>
+	- Strong contraindication for ACE inhibitors

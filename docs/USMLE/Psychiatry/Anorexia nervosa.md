@@ -5,7 +5,6 @@ modified: 2023-11-26 17:31
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
@@ -35,7 +34,7 @@ share: true
 - Endocrine	
 	- <span style="background:rgba(240, 200, 0, 0.2)">Stress hormones: ↑ cortisol, ↑ adrenaline</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Thyroid: [[../Endocrine/Euthyroid sick syndrome|euthyroid sick syndrome]]</span>
-	- Secondary amenorrhea (severe weight loss suppresses the hypothalamic-pituitary-gonadal axis → hypogonadotropic hypogonadism)
+	- Secondary [[../Reproductive/Amenorrhea|amenorrhea]] (severe weight loss suppresses the hypothalamic-pituitary-gonadal axis → hypogonadotropic hypogonadism)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Impaired glucose tolerance, [[../Endocrine/Hypoglycemia|hypoglycemia]]</span>
 - Musculoskeletal	
 	- Muscle weakness
@@ -49,9 +48,8 @@ share: true
 	- Lanugo body hair
 
 ![[../../assets/img/Pasted image 20231126173215.png|Pasted image 20231126173215.png]]
-
----
 # Diagnostics
+---
 >[!tip] 
 >Consider screening the following individuals at increased risk:
 >- Preteens and adolescents
@@ -64,8 +62,11 @@ share: true
 >	- Chronic disease requiring dietary management 
 >	- Psychiatric disorder and those undergoing an initial psychiatric evaluation
 
+# Differential diagnostics
 ---
+![[../../assets/img/Pasted image 20240327205238.png|Pasted image 20240327205238.png]]
 # Treatment
+---
 
 
 ---

@@ -5,13 +5,12 @@ modified: 2023-08-24 16:39
 aliases: Untitled
 share: true
 ---
-
 # [[./Nephrotic syndrome|Nephrotic syndrome]]
 ## [[./Membranous nephropathy|Membranous nephropathy]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Subepithelial (aka on basement membrane)</span> deposits of IgG and C3 (dense deposits) → spike and dome appearance![[../../assets/img/Pasted image 20231210142203.png|Pasted image 20231210142203.png]]
 - ![[../../assets/img/Pasted image 20230825144153.png|Pasted image 20230825144153.png]]![[../../assets/img/Pasted image 20230825151926.png|Pasted image 20230825151926.png]]
 - ![[../../assets/img/Pasted image 20230824164048.png|Pasted image 20230824164048.png]]
-## Minimal change disease
+## [[./Minimal change disease|Minimal change disease]]
 - EM: effacement of podocyte foot processes![[../../assets/img/Pasted image 20231210142052.png|Pasted image 20231210142052.png]]![[../../assets/img/Pasted image 20231210141840.png|Pasted image 20231210141840.png]]
 
 
@@ -29,7 +28,7 @@ Characteristic by granular (​ lumpy-bumpy​ ) pattern of staining of the GBM!
 - Is characterised by deposition of dark, ribbon like electron dense material in the central layer of (Lamina Densa) of glomerular basement membrane![[../../assets/img/Pasted image 20230825153751.png|Pasted image 20230825153751.png]]
 - Immunofluorescence – C3 deposition on both sides of the basement membrane in irregular granular or linear pattern
 - C3 can also be identified in mesangium in the ring shaped aggregates
-# Diffuse proliferative glomerulonephritis
+# [[./Diffuse proliferative glomerulonephritis|Diffuse proliferative glomerulonephritis]]
 ![[./Diffuse proliferative glomerulonephritis#Diagnostics|Diffuse proliferative glomerulonephritis > Diagnostics]]
 
 # [[./IgA nephropathy|IgA nephropathy]]

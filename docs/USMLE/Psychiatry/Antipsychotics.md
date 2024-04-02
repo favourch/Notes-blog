@@ -7,12 +7,21 @@ aliases:
 share: true
 ---
 >[!Mnemonic] 
->Antipsychotics are thought to work by blocking the <font color="#ffc000">D2</font> receptor .
+>Antipsychotics are thought to work by blocking the <font color="#ffc000">D2</font> receptor.
 >Psychotic patients sometimes take a <font color="#ffc000">DetouR</font> from reality.![[../../assets/img/Pasted image 20240315135310.png|Pasted image 20240315135310.png]]
+
+
+- First-generation antipsychotics (also called typical antipsychotics): block D2 receptor → ↑ cAMP
+	- High-potency antipsychotics have a strong antipsychotic effect even at relatively low doses, but they also more commonly cause neurologic side effects (e.g., extrapyramidal symptoms) than low-potency antipsychotics.
+	- Low-potency antipsychotics more commonly cause anticholinergic, antihistamine, and sympathetic α1-blockade effects.
+	- Stored in fat tissue (lipid soluble) and, therefore, only slowly eliminated from the body.
+- <span style="background:rgba(240, 200, 0, 0.2)">Second-generation antipsychotics (also called atypical antipsychotics): most are 5-HT2 and D2 antagonists with varying α and H1 receptor effects</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Serotonin antagonism can help modulate dopamine, reducing its EPS side effect.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Also can improved negative and cognitive symptoms</span>
 # First-generation antipsychotics (FGAs)
 ## Chlorpromazine
 - Low-potency antipsychotics
-	- Dopamine antagonism
+	- [[../Neurology/Neurotransmitters|Dopamine]] antagonism
 	- Anticholinergic
 	- Antihistaminergic
 - First discovered, wide range of indications
@@ -22,7 +31,7 @@ share: true
 ## Haloperidol
 - Brand name: <span style="background:rgba(240, 200, 0, 0.2)">Haldol</span>
 - High-potency antipsychotics
-	- Dopamine-specific antagonism (D2 receptor)
+	- [[../Neurology/Neurotransmitters|Dopamine]]-specific antagonism (D2 receptor)
 - Extrapyramidal symptoms most common in high-potency FGAs
 	- <font color="#ffc000">HOLD</font>-ol![[../../assets/img/Pasted image 20240315150139.png|Pasted image 20240315150139.png]]
 # Second-generation antipsychotics (SGAs)

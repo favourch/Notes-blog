@@ -4,6 +4,7 @@ created: 2024-03-17 14:51
 modified: 2024-03-17 14:51
 aliases:
   - Class I Antiarrhythmics
+  - Antiarrhythmics
 share: true
 ---
 ![[../../assets/img/Pasted image 20240317145409.png|Pasted image 20240317145409.png]]

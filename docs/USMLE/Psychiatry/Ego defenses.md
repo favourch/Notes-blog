@@ -7,7 +7,6 @@ aliases:
   - Acting out
 share: true
 ---
-
 # Immature
 - Acting out: Expressing unacceptable feelings through actions
 - Denial: Behaving as if an aspect of reality does not exist
@@ -16,6 +15,7 @@ share: true
 - Passive aggression: Avoiding conflict by expressing hostility covertly
 - [[./Displacement|Projection]]: Attributing one’s own feelings to others
 - Rationalization: Justifying behavior to avoid difficult truths
+	- Common in OCD
 - [[./Reaction formation|Reaction formation]]: Transforming unacceptable feelings/impulses into the opposite
 - Regression: Reverting to earlier developmental stage
 - Splitting: Experiencing a person/situation as either all positive or all negative

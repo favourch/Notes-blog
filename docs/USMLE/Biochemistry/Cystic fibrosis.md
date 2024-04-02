@@ -16,7 +16,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 - In sweat glands
 	- Defective ATP-gated chloride channel →<span style="background:rgba(240, 200, 0, 0.2)"> inability to reabsorb Cl<sup>-</sup> from the lumen of the sweat glands → reduced reabsorption of Na<sup>+</sup> and H<sup>2</sup>O → excessive loss of salt and elevated levels of NaCl in sweat</span>
 - In all other exocrine glands (e.g., in the GI tract or lungs)
-	- Defective ATP-gated chloride channel → inability to transport intracellular Cl<sup>-</sup> across the cell membrane → reduced secretion of Cl<sup>-</sup> and H2O → accumulation of intracellular Cl<sup>-</sup> → ↑ Na<sup>+</sup> reabsorption (via ENaC)  → ↑ H2O reabsorption  →<mark style="background: #FFF3A34A;"> formation of hyperviscous mucus → accumulation of secretions and blockage of small passages of affected organs → chronic inflammation and remodeling </mark>→ organ damage (see “Clinical features” below) 
+	- Defective ATP-gated chloride channel → inability to transport intracellular Cl<sup>-</sup> across the cell membrane → reduced secretion of Cl<sup>-</sup> and H<sub>2</sub>O → accumulation of intracellular Cl<sup>-</sup> → ↑ Na<sup>+</sup> reabsorption (via ENaC)  → ↑ H<sub>2</sub>O reabsorption  →<mark style="background: #FFF3A34A;"> formation of hyperviscous mucus → accumulation of secretions and blockage of small passages of affected organs → chronic inflammation and remodeling </mark>→ organ damage (see “Clinical features” below) 
 	- ↑ Na<sup>+</sup> reabsorption → transepithelial potential difference between interstitial fluid and the epithelial surface increases (i.e., negative charge increases; e.g., from normal -13 mv to abnormal -25 mv)
 
 ---
@@ -57,7 +57,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
  - Hemoptysis (Recurrent infections lead to increased vulnerability of the lung tissue)
  - Signs of chronic respiratory insufficiency: digital clubbing
  >[!warning] 
->The main determinant of life expectancy is the severity of pulmonary disease: chronic respiratory infections and mucus plugging → bronchiectasis (irreversible) → progressive respiratory failure → death
+>The main determinant of life expectancy is the severity of pulmonary disease: chronic respiratory infections and mucus plugging → [[../Respiratory/Bronchiectasis|bronchiectasis]] (irreversible) → progressive respiratory failure → death
 ## Sweat glands
 - Particularly salty sweat
 - Possible electrolyte wasting
@@ -80,7 +80,7 @@ Newborn screening (NBS) for CF is essential for early detection and treatment, w
 - Screening tests
 	- <span style="background:rgba(240, 200, 0, 0.2)">Immunoreactive trypsinogen (IRT</span>) : initial screening test
 		- <span style="background:rgba(240, 200, 0, 0.2)">IRT levels are thought to become elevated due to mucus plugs</span>, which cause pancreatic duct obstruction, preventing the conversion of trypsinogen to trypsin. This can occur in neonates with or without pancreatic insufficiency.
-		- An immunofluorescence assay that measures levels of IRT
+		- An [[../Renal/Immunofluorescence|immunofluorescence]] assay that measures levels of IRT
 		- Normal IRT levels: CF unlikely
 		- Elevated IRT levels: CF possible; additional screening tests required
 	- CFTR mutation testing (DNA testing): second-tier screening test

@@ -5,10 +5,9 @@ modified: 2023-08-18 15:53
 aliases: Berger disease
 share: true
 ---
-
 # Etiology
-IgA nephropathy is the <span style="background:rgba(240, 200, 0, 0.2)">most common primary glomerulonephritis in adults.</span>
-Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old</span>
+- IgA nephropathy is the <span style="background:rgba(240, 200, 0, 0.2)">most common primary glomerulonephritis in adults.</span>
+- Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old</span>
 
 ---
 # Pathophysiology
@@ -18,7 +17,7 @@ Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old<
 # Clinical features
 - Recurring episodes of:
 	- <span style="background:rgba(240, 200, 0, 0.2)">Gross or microscopic hematuria</span>
-	- Flank pain
+	- <span style="background:rgba(240, 200, 0, 0.2)">Flank pain</span>
 	- Low-grade fever
 	- And/or [[./Nephritic syndrome|nephritic syndrome]] (including hypertension)
 	- Usually during or immediately following a respiratory or gastrointestinal infection
@@ -32,7 +31,8 @@ Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old<
 # Diagnostics
 - Laboratory tests
 	- Serum IgA level is elevated in 50% of patients.
-	- [[../Immunology/Complement system|Complement]] levels (e.g., C3 level) are generally normal.
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Immunology/Complement system|Complement]] levels (e.g., C3 level) are generally normal.</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Because IgA has weak [[../Immunology/Complement system|complement]]-fixing activity. IgA is mainly in mucosa, where excessive inflammation needs to be avoided.</span>
 
  >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">C3 levels help rule out [[./Poststreptococcal glomerulonephritis|poststreptococcal glomerulonephritis]], [[./Membranoproliferative glomerulonephritis|membranoproliferative glomerulonephritis]], and lupus nephritis.</span>
@@ -45,6 +45,7 @@ Peak incidence: <span style="background:rgba(240, 200, 0, 0.2)">20-30 years old<
 >[!tip] 
 >1. IgA nephropathy typically occurs <span style="background:rgba(240, 200, 0, 0.2)">immediately following or during a mucosal infection</span> (e.g., upper respiratory tract and gastrointestinal infections), <span style="background:rgba(240, 200, 0, 0.2)">not several weeks after a skin infection in [[./Poststreptococcal glomerulonephritis|PSGN]]</span>. 
 >2. Most patients also have flank pain and a low-grade fever, which are absent in [[./Poststreptococcal glomerulonephritis|PSGN]].
+>3. <span style="background:rgba(240, 200, 0, 0.2)">Reoccurrence is common in IgA nephropathy, while it's rare in [[./Poststreptococcal glomerulonephritis|PSGN]].</span> 
 
 ---
 # Treatment

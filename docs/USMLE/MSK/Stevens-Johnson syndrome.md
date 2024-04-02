@@ -6,7 +6,6 @@ aliases:
   - SJS
 share: true
 ---
-
 # Epidemiology
 
 
@@ -14,12 +13,12 @@ share: true
 # Etiology
 - Drugs (most common trigger, ∼ 80% of cases) 
 	- Antibiotics: sulfonamides (e.g., TMP/SMX), aminopenicillins, rifampicin
-	- <span style="background:rgba(240, 200, 0, 0.2)">Antiepileptics: phenytoin, phenobarbital, lamotrigine, valproic acid, carbamazepine, ethosuximide</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Neurology/Anticonvulsant drugs|Antiepileptics]]: phenytoin, phenobarbital, lamotrigine, valproic acid, carbamazepine, ethosuximide</span>
 	- Oxicam NSAIDs (e.g., piroxicam)
 	- Allopurinol
 	- Sulfasalazine
 - Risk factors
-	- HIV infection
+	- [[../Infective disease/Human immunodeficiency virus|HIV]] infection
 
 ---
 # Pathophysiology

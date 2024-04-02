@@ -31,7 +31,7 @@ share: true
 ![[../../assets/img/Pasted image 20240317154135.png|Pasted image 20240317154135.png]]
 
 - <span style="background:rgba(240, 200, 0, 0.2)">≥ 2 weeks of psychosis without prominent manic/depressive symptoms during the illness episode</span>, to differentiate from a mood disorder with psychotic features (Like [[./Major depressive disorder|MDD]])
-	- <span style="background:rgba(240, 200, 0, 0.2)">They don't have psychotic symptoms alone without mood symptoms</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Major depressive disorder|MDD]] doesn't have psychotic symptoms alone without mood symptoms</span>
 - A single illness episode where both of the following occur concurrently:
 	- Psychotic symptoms that meet the criteria for [[./Schizophrenia|schizophrenia]]
 	- Features of a major mood episode (major depressive episode OR manic episode OR mixed episode)

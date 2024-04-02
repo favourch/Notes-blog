@@ -10,6 +10,11 @@ share: true
 
 # Radiation injury
 High doses of ionizing radiation (e.g., radiotherapy, nuclear accidents) cause DNA and cellular damage via reactive oxygen species and photons or particles, which cause inflammation and progressive tissue damage. <span style="background:rgba(240, 200, 0, 0.2)">Certain rapidly regenerating tissues (e.g., skin, gastrointestinal tissue, bone marrow) are more susceptible due to the depletion of immature parenchymal stem cells.</span> Cancerous cells are more susceptible to radiation than healthy cells due to their high replication rates and dysfunctional DNA repair mechanisms.
+Easily affected cells:
+- <span style="background:rgba(240, 200, 0, 0.2)">GI: Intestinal crypt stem cells</span>
+- Bone marrow: hematopoietic progenitors (pancytopenia)
+- Gonads: spermatogonia (infertility)
+- Skin: basal keratinocytes, hair follicle stem cells (desquamation, hair loss)
 ## Acute radiation syndrome
 ### <span style="background:rgba(240, 200, 0, 0.2)">Skin and mucosa (these are rapidly regenerating tissues)</span>
 - Erythema, desquamation, blisters, ulcers, necrosis

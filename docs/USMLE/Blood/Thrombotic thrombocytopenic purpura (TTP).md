@@ -8,7 +8,6 @@ aliases:
 share: true
 ---
 
-
 # Etiology
 ADAMTS13 deficiency
 # Pathophysiology
@@ -42,4 +41,4 @@ TTP is a thrombotic microangiopathy, a condition in which microthrombi form and 
 	- Hematuria, proteinuria
 
 >[!Mnemonic] 
->The typical patient is a previously healthy adult presenting with mental status changes, fever, petechiae, fatigue, and pallor. Laboratory tests will then indicate hemolytic anemia and possibly [[../Renal/Acute kidney injury|acute kidney injury]] (AKI). Impaired kidney function may not be present, and only a minority of patients will present with all five clinical findings.
+>The typical patient is a previously healthy adult presenting with mental status changes, fever, petechiae, fatigue, and pallor. Laboratory tests will then indicate hemolytic anemia and possibly [[../Renal/Acute kidney injury|acute kidney injury]] ([[../Renal/Acute kidney injury|AKI]]). Impaired kidney function may not be present, and only a minority of patients will present with all five clinical findings.

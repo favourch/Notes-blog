@@ -2,7 +2,13 @@
 author: Harvey Guo
 created: 2024-03-28 10:08
 modified: 2024-03-28 10:08
-aliases: []
+aliases:
+  - Oppositional defiant disorder
+  - Conduct disorder
+  - "Intermittent explosive\rdisorder"
+  - Disruptive mood dysregulation disorder
+  - DMDD
+  - ODD
 share: true
 ---
 >[!Mnemonic] 

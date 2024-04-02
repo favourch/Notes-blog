@@ -5,9 +5,9 @@ modified: 2023-12-29 10:48
 aliases:
   - Anticonvulsants
   - Antiepileptic drugs
+  - Antiepileptics
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240315154449.png|Pasted image 20240315154449.png]]
 # First-generation anticonvulsants
 ## Carbamazepine

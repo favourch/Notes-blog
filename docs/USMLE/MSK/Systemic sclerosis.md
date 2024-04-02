@@ -6,6 +6,7 @@ aliases:
   - Scleroderma
 share: true
 ---
+Systemic sclerosis (SSc) is a systemic autoimmune disease characterized by vasculopathy and fibrosis of the skin and other organs.
 # Epidemiology
 - ♀ > ♂ (∼ 5:1)
 - Peak incidence: 30–50 years
@@ -16,7 +17,7 @@ share: true
 
 ---
 # Pathophysiology
-
+![[../../assets/img/highresdefault_L83817.jpg|highresdefault_L83817.jpg]]
 
 ---
 # Clinical features
@@ -47,7 +48,7 @@ CREST syndrome refers to a constellation of symptoms traditionally associated wi
 		- <span style="background:rgba(240, 200, 0, 0.2)">Hypertension with or without symptoms of hypertensive emergency</span>
 		- Microangiopathic hemolytic [[../Blood/Anemia|anemia]] (<span style="background:rgba(240, 200, 0, 0.2)">MAHA</span>) and thrombocytopenia
 	- Treatment: ACE inhibitors
-- Chronic kidney disease: reduced kidney function due to abnormal [[../Biochemistry/Collagen|collagen]] deposition → thickening of renal arteriolar walls → decreased renal blood flow
+- [[../Renal/Chronic kidney disease|Chronic kidney disease]]: reduced kidney function due to abnormal [[../Biochemistry/Collagen|collagen]] deposition → thickening of renal arteriolar walls → decreased renal blood flow
 ## Pulmonary
 - <span style="background:rgba(240, 200, 0, 0.2)">[[../Respiratory/Interstitial lung diseases|Interstitial lung disease]] </span>
 - Pulmonary artery hypertension 

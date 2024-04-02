@@ -6,7 +6,6 @@ aliases:
   - UC
 share: true
 ---
-
 # Epidemiology
 - Higher in White populations than in Black, Hispanic, or Asian populations
 - Highest among individuals of Ashkenazi Jewish descent
@@ -46,7 +45,7 @@ share: true
 	- Tenesmus
 - Extraintestinal symptoms of ulcerative colitis
 	- General: fatigue, fever
-	- Skeletal (most common extraintestinal manifestation of ulcerative colitis): [[../MSK/Osteoarthritis|osteoarthritis]], ankylosing spondylitis, sacroiliitis
+	- Skeletal (most common extraintestinal manifestation of ulcerative colitis): [[../MSK/Osteoarthritis|osteoarthritis]], ankylosing [[../MSK/Spinal infections|spondylitis]], sacroiliitis
 	- Ocular: uveitis, episcleritis, iritis
 	- Biliary: <span style="background:rgba(240, 200, 0, 0.2)">[[./Primary sclerosing cholangitis|primary sclerosing cholangitis]] (it is rare for patients with ulcerative colitis to develop [[./Primary sclerosing cholangitis|PSC]], but up to 90% of all patients with [[./Primary sclerosing cholangitis|PSC]] will also have ulcerative colitis)</span>
 	- Cutaneous

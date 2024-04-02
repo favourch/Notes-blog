@@ -5,7 +5,6 @@ modified: 2023-08-13 15:28
 aliases: Untitled
 share: true
 ---
-
 # Basic metabolic panel
 [Tricks to Remember Normal Lab Values: Nursing Chart, NCLEX, USMLE Cheat Sheet — EZmed (ezmedlearning.com)](https://www.ezmedlearning.com/blog/lab-value-nursing-chart-nclex)
 ![[../assets/img/Pasted image 20230813153046.png|Pasted image 20230813153046.png]]
@@ -50,6 +49,9 @@ This will help you remember the normal range for glucose is 70-100 [[./MSK/Myast
 ---
 # Comprehensive metabolic panel
 ![[../assets/img/Pasted image 20231022111024.png|Pasted image 20231022111024.png]]
+## Protein
+- Total: 6-8 g/fL
+- Albumin: 60% of total protein
 
 ---
 # Coagulation studies

@@ -5,7 +5,6 @@ modified: 2023-08-18 15:32
 aliases: ATIN
 share: true
 ---
-
 # Definition
 Acute tubulointerstitial nephritis (ATIN) is an acute inflammation of the renal interstitium and tubules that causes a decline in renal function over a period of days to weeks.
 
@@ -14,7 +13,7 @@ Acute tubulointerstitial nephritis (ATIN) is an acute inflammation of the renal 
 <span style="background:rgba(240, 200, 0, 0.2)">Medications (most common)</span>
 - Antibiotics: β-lactams, sulfonamides, rifampin, fluoroquinolones
 - NSAIDs
-- Proton pump inhibitors and H2 blockers
+- [[../GI/Proton pump inhibitors|Proton pump inhibitors]] and H2 blockers
 - Loop diuretics and [[../Cardiology/Thiazides|thiazides]]
 - [[../Neurology/Anticonvulsant drugs|Anticonvulsants]]: phenytoin, valproate, carbamazepine, phenobarbital
 - Other: allopurinol
@@ -23,7 +22,7 @@ Acute tubulointerstitial nephritis (ATIN) is an acute inflammation of the renal 
 # Pathophysiology
 - Immune-mediated tubulointerstitial damage (<span style="background:rgba(240, 200, 0, 0.2)">allergic interstitial nephritis</span>) is the most widely accepted theory.
 	- Inflammatory infiltrates → tissue edema and tubular cell damage → compromised tubular flow
-	- <span style="background:rgba(240, 200, 0, 0.2)">Allergic interstitial nephritis: drugs act as haptens → type IV hypersensitivity reaction </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Allergic interstitial nephritis: drugs act as haptens → [[../Immunology/Type IV hypersensitivity reaction|type IV hypersensitivity reaction]] </span>
 - Acute obstruction: crystals (from e.g., uric acid, medications) or proteins (e.g., light chains) obstruct tubules
 
 ---

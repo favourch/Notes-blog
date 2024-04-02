@@ -5,7 +5,6 @@ modified: 2024-02-22 10:02
 aliases: []
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240222100232.png|Pasted image 20240222100232.png]]
 # Pathophysiology
 ## Hyperacute rejection
@@ -20,3 +19,10 @@ share: true
 ## Chronic rejection
 - <span style="background:rgba(240, 200, 0, 0.2)">Combination of humoral rejection (type II hypersensitivity reaction) and cellular rejection ([[./Type IV hypersensitivity reaction|type IV hypersensitivity reaction]])</span>
 - Donor MHC class II antigens react with recipient CD4+ T cells → differentiation into Th1 helper T cells → cytokine (INF-γ) release → macrophage recruitment → <span style="background:rgba(240, 200, 0, 0.2)">parenchymal and endothelial inflammation</span>
+# Graft-versus-host disease
+---
+## Etiology
+- Graft-versus-host disease (GvHD) is common in <span style="background:rgba(240, 200, 0, 0.2)">transplantation of lymphocyte-rich organs</span>, including:
+	- <span style="background:rgba(240, 200, 0, 0.2)">Allogeneic hematopoietic stem cell transplantation </span>
+	- Transfusion of nonirradiated blood products
+- HLA mismatch (especially HLA-A, HLA-B, and HLA-DR) is associated with an increased risk of GvHD.
