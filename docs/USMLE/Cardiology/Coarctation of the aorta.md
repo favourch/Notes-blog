@@ -5,7 +5,6 @@ modified: 2024-01-20 17:31
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
@@ -19,7 +18,7 @@ share: true
 	- Coarctation is most commonly juxtaductal.
 	- <span style="background:rgba(240, 200, 0, 0.2)">The coarctation most commonly occurs distal to the left subclavian artery, where the ductus arteriosus originates.</span>
 	- Rarely, the coarctation occurs in the lower segments of the thoracic aorta or in the abdominal aorta
-- In discrete coarctation: <span style="background:rgba(240, 200, 0, 0.2)">left ventricular outflow obstruction → myocardial hypertrophy and increased collateral blood flow (e.g., intercostal vessels, scapular vessels).</span>
+- In discrete coarctation: left ventricular outflow obstruction → myocardial hypertrophy and <span style="background:rgba(240, 200, 0, 0.2)">increased collateral blood flow (e.g., intercostal vessels, scapular vessels).</span>
 - In long-segment coarctation: closure of PDA after birth → left ventricular pressure and volume overload → hypoperfusion of organs and extremities distal to the stenosis
 
 ---
@@ -37,6 +36,8 @@ share: true
 - Auscultation
 	- <span style="background:rgba(240, 200, 0, 0.2)">Systolic ejection murmur over left posterior hemithorax</span>
 		- Due to blood flow through the aortic narrowing
+	- <span style="background:rgba(240, 200, 0, 0.2)">Continuous murmur below the left clavicula and between the shoulder blades </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Due to collateral flow</span>
 
 ---
 # Diagnostics

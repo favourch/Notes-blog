@@ -6,7 +6,6 @@ aliases:
   - Type IV HSR
 share: true
 ---
-
 # Epidemiology
 
 
@@ -24,8 +23,10 @@ Compared to type I-III hypersensitivity reactions, which are antibody-mediated, 
 
 ---
 # Examples
-- Skin tests
-	- Candida skin test (to test the immune function of T cells)
+- <span style="background:rgba(240, 200, 0, 0.2)">Skin tests</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Candida skin test (to test the immune function of T cells)</span>
+		- A diagnostic test in which Candida albicans antigen is injected intradermally to the arm. The injection site is examined 48 hours later. <span style="background:rgba(240, 200, 0, 0.2)">Induration ≥5 mm in diameter is considered a positive reaction and indicates prior exposure to antigen and an intact immune response mediated by T cells.</span>
+		- This test requires patients to have encountered Candida before. Luckily, **nearly everyone** encounters Candida at some point in their lives.
 	- Mantoux tuberculin skin test for latent tuberculosis
 
 ---
@@ -34,6 +35,6 @@ Compared to type I-III hypersensitivity reactions, which are antibody-mediated, 
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

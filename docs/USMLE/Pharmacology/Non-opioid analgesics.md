@@ -4,6 +4,7 @@ created: 2024-03-17 22:00
 modified: 2024-03-17 22:00
 aliases:
   - Celecoxib
+  - Acetaminophen
 share: true
 ---
 ![[../../assets/img/Pasted image 20240317220254.png|Pasted image 20240317220254.png]]
@@ -31,7 +32,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Works fast</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Naproxen</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Strong and long-lasting</span>
-	- May affect wound healing
+	- May affect [[../Pathology/Wound healing|wound healing]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Aspirin</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Not usually for analgesic</span>
 	- Anti-platelet
@@ -60,4 +61,18 @@ Celecoxib
 - Antipyretic
 - Analgesic
 - <span style="background:rgba(240, 200, 0, 0.2)">No anti-inflammatory effect</span>
+## Side effects
+- Hepatotoxicity due to acetaminophen overdose (drug-induced hepatitis)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Leading cause of acute hepatic failure in the US</span>
+- Pathophysiology
+	- Exhaustion of hepatic metabolic pathways causes <span style="background:rgba(240, 200, 0, 0.2)">increased formation of a toxic metabolite of acetaminophen</span>, N-acetyl-p-benzoquinoneimine (<span style="background:rgba(240, 200, 0, 0.2)">NAPQI</span>).
+		- Glutathione initially inactivates NAPQI, but its reserves are eventually depleted, leading to <span style="background:rgba(240, 200, 0, 0.2)">NAPQI build-up</span>.
+		- NAPQI → irreversible oxidative hepatocyte injury → <span style="background:rgba(240, 200, 0, 0.2)">liver cell necrosis</span>
+- Clinical features
+	- Nonspecific symptoms (nausea, vomiting, pallor lethargy) or asymptomatic in the first 24 hours after ingestion
+	- Progressive liver impairment (RUQ pain, liver enlargement and tenderness, abnormal liver function tests)
+	- If acute liver failure does not develop, patients typically begin to recover within 2 weeks after ingestion.
+	- Acute kidney failure occurs in approx. 50% of patients with acute hepatic failure. 
+- Antidote: PO or IV <span style="background:rgba(240, 200, 0, 0.2)">N-acetylcysteine (NAC)</span>
+	- NAC replenishes glutathione stores in the liver
 

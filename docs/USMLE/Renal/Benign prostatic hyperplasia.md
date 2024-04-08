@@ -6,7 +6,6 @@ aliases:
   - BPH
 share: true
 ---
-
 # Epidemiology
 
 
@@ -44,7 +43,7 @@ share: true
 >[!tip] 
 >-steride (“testosterone reductase inhibitor”)
 ### Phosphodiesterase type 5 inhibitors (PDE-5 inhibitors)
-- <span style="background:rgba(240, 200, 0, 0.2)">Increase in intracellular cGMP → ↓ detrusor, prostate, and urethra muscle tone → improvement of LUTS</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Increase in intracellular [[../Biochemistry/Signal transduction|cGMP]] → ↓ detrusor, prostate, and urethra muscle tone → improvement of LUTS</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Tadalafil</span>
 
 ---

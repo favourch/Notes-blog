@@ -5,7 +5,6 @@ modified: 2023-12-31 11:35
 aliases: []
 share: true
 ---
-
 - **Pacinian.** Pace = **vibration**. I imagine a running coach giving me **pressure** by saying "keep up the pace!" as I'm running **fast.**
 - **Ruffini**. Sounds like an Italian noodle. I imagine an Italian playing with a **stretch**y noodle after eating a large pasta meal, so now he is **slow.**
 - **Meiss.** Mess. I imagine my mother telling me in a **light** yet threatening voice to clean up my mess **fast.**

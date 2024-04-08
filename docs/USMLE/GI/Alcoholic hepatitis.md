@@ -5,7 +5,6 @@ modified: 2023-10-28 09:18
 aliases: Untitled
 share: true
 ---
-
 # Epidemiology
 
 
@@ -19,8 +18,8 @@ share: true
 
 ---
 # Clinical features
-- Acute hepatitis: tender hepatomegaly, <span style="background:rgba(240, 200, 0, 0.2)">acute jaundice</span>, malaise, nausea, anorexia, fatigue, fever, weight loss, tachypnea
-- Acute alcohol withdrawal: tremor, agitation, tachycardia, alcohol withdrawal seizures, alcohol withdrawal delirium
+- Acute hepatitis: tender [[./Hepatomegaly|hepatomegaly]], <span style="background:rgba(240, 200, 0, 0.2)">acute jaundice</span>, malaise, nausea, anorexia, fatigue, fever, weight loss, tachypnea
+- Acute [[../Psychiatry/Alcohol withdrawal|alcohol withdrawal]]: tremor, agitation, tachycardia, [[../Psychiatry/Alcohol withdrawal|alcohol withdrawal]] seizures, [[../Psychiatry/Alcohol withdrawal|alcohol withdrawal]] [[../Psychiatry/Delirium|delirium]]
 
 ---
 # Diagnostics

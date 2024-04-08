@@ -6,7 +6,6 @@ aliases:
   - Mitral stenosis
 share: true
 ---
-
 # Epidemiology
 
 
@@ -14,7 +13,7 @@ share: true
 # Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Most commonly due to [[./Acute rheumatic fever|rheumatic fever]]</span>
 - Calcification of the mitral valve annulus
-- Degenerative aortic stenosis
+- Degenerative [[./Aortic valve stenosis|aortic stenosis]]
 	- Degenerative calcific deposits most commonly develop in the mitral valve annulus <span style="background:rgba(240, 200, 0, 0.2)">in women over age 60 and generally do not impair valve function.</span>
 
 ---

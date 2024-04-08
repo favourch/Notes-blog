@@ -5,7 +5,6 @@ modified: 2024-02-28 10:14
 aliases: []
 share: true
 ---
-
 # Epidemiology
 ---
 
@@ -16,7 +15,7 @@ share: true
 
 # Pathophysiology
 ---
-
+![[../../assets/img/L10813.jpg|L10813.jpg]]
 
 # Clinical features
 ---

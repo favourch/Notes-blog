@@ -6,14 +6,13 @@ aliases:
   - DRESS syndrome
 share: true
 ---
-
 # Epidemiology
 
 
 ---
 # Etiology
 - Common triggers
-	- <span style="background:rgba(240, 200, 0, 0.2)">Antiepileptics: lamotrigine, phenytoin, carbamazepine</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Neurology/Anticonvulsant drugs|Antiepileptics]]: lamotrigine, phenytoin, carbamazepine</span>
 	- dapsone, sulfamethoxazole/trimethoprim; vancomycin, minocycline; sulfonamides
 	- allopurinol
 

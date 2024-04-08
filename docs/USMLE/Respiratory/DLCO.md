@@ -5,6 +5,5 @@ modified: 2023-08-07 17:29
 aliases: Untitled
 share: true
 ---
-
 >[!tip] 
->Certain activities, body positions, and physiologic states (e.g., exercise, supine position, pregnancy, obesity) can increase pulmonary blood volume thereby increasing DLCO.
+>Certain activities, body positions, and physiologic states (e.g., exercise, supine position, [[../Reproductive/Pregnancy|pregnancy]], obesity) can increase pulmonary blood volume thereby increasing DLCO.

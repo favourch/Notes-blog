@@ -12,7 +12,6 @@ aliases:
   - Hunter syndrome
 share: true
 ---
-
 # Fabry disease
 ---
 ![[../../assets/img/Pasted image 20231110170141.png|Pasted image 20231110170141.png]]Fabrite -> favourite
@@ -43,3 +42,7 @@ share: true
 ---
 ![[../../assets/img/Pasted image 20231111101822.png|Pasted image 20231111101822.png]]
 1. Metapod can't walk, can't say, can demyelinate to butterfly
+
+---
+>[!tip] 
+>[[./Glycogen storage diseases#Pompe disease|Glycogen storage diseases > Pompe disease]] also affects lysosome.

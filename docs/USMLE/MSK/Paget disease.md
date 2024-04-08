@@ -5,9 +5,9 @@ modified: 2023-10-20 21:19
 aliases:
   - Paget's disease
   - Osteitis deformans
+  - Paget disease of bone
 share: true
 ---
-
 # Epidemiology
 - Prevalence: <span style="background:rgba(240, 200, 0, 0.2)">second most prevalent skeletal disease after [[./Osteoporosis|osteoporosis]] in individuals > 50 years of age</span>
 
@@ -19,12 +19,12 @@ share: true
 # Pathophysiology
 ## Overview
 Idiopathic disease 
-- <span style="background:rgba(240, 200, 0, 0.2)">Associated with a high rate of bone remodeling</span>: ↑ RANKL-RANK activity → ↑ NF-κB signaling → <span style="background:rgba(240, 200, 0, 0.2)">↑ osteoclast activity → ↑ osteoblast activity → formation of disorganized (woven) bone </span>
-	- The result is that newly remodeled bone is <span style="background:rgba(240, 200, 0, 0.2)">more vascular, and lacks the strength and shape of normal bone.</span> This weak bone can be <span style="background:rgba(240, 200, 0, 0.2)">easily deformed by stress (e.g., weight bearing) and is highly susceptible to fractures.</span> Furthermore, bone remodeling in Paget disease can result in enlargement of bone, which can result in<span style="background:rgba(240, 200, 0, 0.2)"> entrapment neuropathies</span> in regions where nerves pass through bony tunnels (e.g., cranial nerve canals, skull base foramina, spinal canal).
+- <span style="background:rgba(240, 200, 0, 0.2)">Associated with a high rate of [[./Bone remodeling|bone remodeling]]</span>: ↑ RANKL-RANK activity → ↑ NF-κB signaling → <span style="background:rgba(240, 200, 0, 0.2)">↑ osteoclast activity → ↑ osteoblast activity → formation of disorganized (woven) bone </span>
+	- The result is that newly remodeled bone is <span style="background:rgba(240, 200, 0, 0.2)">more vascular, and lacks the strength and shape of normal bone.</span> This weak bone can be <span style="background:rgba(240, 200, 0, 0.2)">easily deformed by stress (e.g., weight bearing) and is highly susceptible to fractures.</span> Furthermore, [[./Bone remodeling|bone remodeling]] in Paget disease can result in enlargement of bone, which can result in<span style="background:rgba(240, 200, 0, 0.2)"> entrapment neuropathies</span> in regions where nerves pass through bony tunnels (e.g., cranial nerve canals, skull base foramina, spinal canal).
 ## Stages of Paget disease
-Bone remodeling in Paget disease occurs in three phases, followed by a quiescent stage:
-- Lytic phase: ↑ number of osteoclasts appear in bone → ↑ osteoclastic activity → ↑ rate of bone resorption 
-- Mixed lytic and blastic phase: ↑ osteoclastic activity is accompanied by an ↑ number of osteoblasts, which infiltrate the lacunae  → ↑ rate of bone formation with haphazardly laid [[../Biochemistry/Collagen|collagen]] fibers  → formation of abnormal hypervascular woven bone 
+[[./Bone remodeling|Bone remodeling]] in Paget disease occurs in three phases, followed by a quiescent stage:
+- Lytic phase: ↑ number of [[./Bone remodeling|osteoclasts]] appear in bone → ↑ osteoclastic activity → ↑ rate of bone resorption 
+- Mixed lytic and blastic phase: ↑ osteoclastic activity is accompanied by an ↑ number of [[./Bone remodeling|osteoblasts]], which infiltrate the lacunae  → ↑ rate of bone formation with haphazardly laid [[../Biochemistry/Collagen|collagen]] fibers  → formation of abnormal hypervascular woven bone 
 - Sclerotic phase: Osteoblastic activity overtakes osteoclastic activity, which leads to formation of dense, sclerotic bone.
 - Quiescent stage: Both osteoclastic and osteoblastic activity cease (“quiet phase” of the disease).
 ## Disease localization
@@ -46,8 +46,9 @@ The pelvis, skull, vertebral column, and long bones of the lower extremities are
 
 ---
 # Diagnostics
-- Serum total [[../Blood/Alkaline phosphatase|ALP]]: often significantly increased; first-line test to assess disease severity 
-- Serum calcium, phosphate, and parathyroid hormone (PTH) levels: typically normal
+- <span style="background:rgba(240, 200, 0, 0.2)">Serum total [[../Blood/Alkaline phosphatase|ALP]]: often significantly increased</span>; first-line test to assess disease severity
+	- Due to increased osteoblast activity
+- <span style="background:rgba(240, 200, 0, 0.2)">Serum calcium, phosphate, and parathyroid hormone (PTH) levels: typically normal</span>
 	- Normal homeostasis is usually maintained despite the bone remodeling involved in PDB.
 - Bone biopsy
 	- <span style="background:rgba(240, 200, 0, 0.2)">Typically shows a chaotic, mosaic-like pattern of irregularly juxtaposed lamellar and woven bone</span>![[../../assets/img/Pasted image 20231020214727.png|Pasted image 20231020214727.png]]

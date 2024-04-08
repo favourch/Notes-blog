@@ -5,7 +5,6 @@ modified: 2023-07-20 14:38
 aliases: Untitled
 share: true
 ---
-
 # Lymphocytosis
 Lymphocytosis: > 33%
 ## Etiology
@@ -16,3 +15,4 @@ Lymphocytosis: > 33%
 >The lymphocyte count may be increased or decreased in lymphoma.
 # T cell differentiation
 ![[../../assets/img/Pasted image 20240222102853.png|Pasted image 20240222102853.png]]![[../../assets/img/Pasted image 20240222102955.png|Pasted image 20240222102955.png]]
+![[../../assets/img/L69431.jpg|L69431.jpg]]

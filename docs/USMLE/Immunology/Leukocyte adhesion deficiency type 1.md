@@ -5,7 +5,6 @@ modified: 2023-12-17 11:17
 aliases: []
 share: true
 ---
-
 - Definition: A genetic condition characterized by a <span style="background:rgba(240, 200, 0, 0.2)">defect in the leukocytic chemotaxis that results in decreased phagocyte activity</span>
 - Etiology
 	- Autosomal recessive inheritance

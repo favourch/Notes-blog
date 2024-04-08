@@ -5,12 +5,11 @@ modified: 2023-11-03 11:33
 aliases: Untitled
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231103113406.png|Pasted image 20231103113406.png]]See [[../MSK/Osteogenesis imperfecta|Osteogenesis imperfecta]]
 >[!tip]
 >- Compare with ligaments, which are made of elastin.
 >- Ligaments attach bone to bone, and tendons attach muscle to bone.
->- Connect presence of elastin with [[../Pathology/Ehlers-Danlos syndrome and Marfan syndrome|Marfan syndrome]]
+>- Connect presence of <span style="background:rgba(240, 200, 0, 0.2)">elastin with [[../Pathology/Ehlers-Danlos syndrome and Marfan syndrome|Marfan syndrome]]</span>
 >	- FBN1 can disrupt the normal regulation of TGF-β -> Tall stature
 >	- Skin -> Skin hyperextensibility
 >	- Large arteries -> aortic dilation, aneurysms, or dissection

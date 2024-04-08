@@ -6,7 +6,6 @@ aliases:
   - Vasculitis
 share: true
 ---
-
 ![[../../assets/img/ee0814073e46f50d728e9efdf46b0d4.jpg|ee0814073e46f50d728e9efdf46b0d4.jpg]]
 ![[../../assets/img/Pasted image 20230920172031.png|Pasted image 20230920172031.png]]
 # Large-vessel vasculitis
@@ -19,6 +18,7 @@ share: true
 # Medium-vessel vasculitis
 ![[../../assets/img/Pasted image 20231010160358.png|Pasted image 20231010160358.png]]
 See [[./Polyarteritis nodosa|Polyarteritis nodosa]]
+Also add [[./Thromboangiitis obliterans|Thromboangiitis obliterans]]
 
 ---
 # Small-vessel vasculitis

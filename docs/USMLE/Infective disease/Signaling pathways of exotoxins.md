@@ -5,8 +5,7 @@ modified: 2024-02-08 17:14
 aliases: []
 share: true
 ---
-
-# Activation of guanylate cyclase → ↑ cGMP
+# Activation of guanylate cyclase → ↑ [[../Biochemistry/Signal transduction|cGMP]]
 - Enterotoxigenic E. coli (ETEC): <span style="background:rgba(240, 200, 0, 0.2)">Heat-stable toxin</span>
 # cAMP
 ![[../../assets/img/Pasted image 20240208172919.png|Pasted image 20240208172919.png]]

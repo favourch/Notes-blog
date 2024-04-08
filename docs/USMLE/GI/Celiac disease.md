@@ -7,11 +7,10 @@ aliases:
   - gluten-sensitive enteropathy
 share: true
 ---
-
 # Etiology
 - Genetic predisposition with association to HLA antigens
-	- HLA-DQ2 in 90–95% of patients
-	- HLA-DQ8 in 5–10% of patients
+	- [[../Immunology/HLA system|HLA-DQ2]] in 90–95% of patients
+	- [[../Immunology/HLA system|HLA-DQ8]] in 5–10% of patients
 - Consuming gliadin from grains such as wheat, rye, and barley leads to an autoimmune reaction within the small intestinal wall.
 
 ---

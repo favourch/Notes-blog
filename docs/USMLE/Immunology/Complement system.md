@@ -6,6 +6,7 @@ aliases:
   - Complement
   - Complements
   - Complement disorders
+  - C1 inhibitor deficiency
 share: true
 ---
 ![[../../assets/img/Pasted image 20240318194037.png|Pasted image 20240318194037.png]]
@@ -28,6 +29,7 @@ share: true
 >- C3<font color="#ffc000">a</font>, C4<font color="#ffc000">a</font>, C5<font color="#ffc000">a</font> lead to mast-cell <font color="#ffc000">a</font>ctivation and <font color="#ffc000">a</font>naphylaxis.
 # Complement disorders
 ## C1 esterase inhibitor deficiency
+<span style="background:rgba(240, 200, 0, 0.2)">Just think it as C1 inhibitor, as it actually has nothing to do with esterase.</span>
 - Etiology
 	- Autosomal dominant inheritance
 	- <span style="background:rgba(240, 200, 0, 0.2)">Unregulated activation of kallikrein → ↑ bradykinin → angioedema</span>![[../../assets/img/Pasted image 20240326213914.png|Pasted image 20240326213914.png]]
@@ -38,3 +40,5 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Bradykinin levels</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Low C4 levels</span>
 	- Strong contraindication for ACE inhibitors
+## Complement deficiencies
+![[../../assets/img/Pasted image 20240405112726.png|Pasted image 20240405112726.png]]

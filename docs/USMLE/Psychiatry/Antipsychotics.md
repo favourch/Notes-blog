@@ -13,13 +13,34 @@ share: true
 
 - First-generation antipsychotics (also called typical antipsychotics): block D2 receptor → ↑ cAMP
 	- High-potency antipsychotics have a strong antipsychotic effect even at relatively low doses, but they also more commonly cause neurologic side effects (e.g., extrapyramidal symptoms) than low-potency antipsychotics.
-	- Low-potency antipsychotics more commonly cause anticholinergic, antihistamine, and sympathetic α1-blockade effects.
+		- <span style="background:rgba(240, 200, 0, 0.2)">Haloperidol</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Fluphenazine</span>
+		- Perphenazine
+		- Trifluoperazine
+		- Pimozide
+	- Low-potency antipsychotics more commonly cause anticholinergic, [[../Immunology/Antihistamines|antihistamine]], and sympathetic α1-blockade effects.
+		- <span style="background:rgba(240, 200, 0, 0.2)">Chlorpromazine</span>
+		- Thioridazine
 	- Stored in fat tissue (lipid soluble) and, therefore, only slowly eliminated from the body.
 - <span style="background:rgba(240, 200, 0, 0.2)">Second-generation antipsychotics (also called atypical antipsychotics): most are 5-HT2 and D2 antagonists with varying α and H1 receptor effects</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Serotonin antagonism can help modulate dopamine, reducing its EPS side effect.</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Also can improved negative and cognitive symptoms</span>
 # First-generation antipsychotics (FGAs)
-## Chlorpromazine
+## High-potency
+### Haloperidol
+- Brand name: <span style="background:rgba(240, 200, 0, 0.2)">Haldol</span>
+- High-potency antipsychotics
+	- [[../Neurology/Neurotransmitters|Dopamine]]-specific antagonism (D2 receptor)
+- Extrapyramidal symptoms most common in high-potency FGAs
+	- <font color="#ffc000">HOLD</font>-ol![[../../assets/img/Pasted image 20240315150139.png|Pasted image 20240315150139.png]]
+### Adverse effects
+- [[../Endocrine/Hyperprolactinemia|Hyperprolactinemia]] 
+	- Dopamine inhibits the release of prolactin via the D2 receptor in the [[../Neurology/Dopaminergic pathway|tuberoinfundibular pathway]]. Therefore, dopamine antagonists increase the effects of prolactin.
+- <span style="background:rgba(240, 200, 0, 0.2)">Extrapyramidal symptoms most common in high-potency FGAs</span>
+- Prolonged QT interval
+- [[./Neuroleptic malignant syndrome|Neuroleptic malignant syndrome]]
+## Low-potency
+### Chlorpromazine
 - Low-potency antipsychotics
 	- [[../Neurology/Neurotransmitters|Dopamine]] antagonism
 	- Anticholinergic
@@ -28,12 +49,12 @@ share: true
 - Corneal deposits
 >[!Mnemonic] 
 ><font color="#ffc000">Chlor</font>-neal deposits
-## Haloperidol
-- Brand name: <span style="background:rgba(240, 200, 0, 0.2)">Haldol</span>
-- High-potency antipsychotics
-	- [[../Neurology/Neurotransmitters|Dopamine]]-specific antagonism (D2 receptor)
-- Extrapyramidal symptoms most common in high-potency FGAs
-	- <font color="#ffc000">HOLD</font>-ol![[../../assets/img/Pasted image 20240315150139.png|Pasted image 20240315150139.png]]
+### Adverse effects
+- Anticholinergic effects, sympatholytic effects, metabolic effects, and <span style="background:rgba(240, 200, 0, 0.2)">sedation dominate</span>
+	- Sedation due to histamine receptor blockade, see [[../Immunology/Antihistamines|antihistamine]]
+
+>[!Mnemonic] Difference of Adverse Effects
+>Low-potency antipsychotics require higher doses to achieve the desired effect, which leads to more prominent blockage of other receptors except D2.
 # Second-generation antipsychotics (SGAs)
 ## Clozapine
 - <span style="background:rgba(240, 200, 0, 0.2)">Most effective antipsychotic</span>

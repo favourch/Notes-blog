@@ -43,5 +43,5 @@ share: true
 6. Lipid-laden macrophages and SMCs produce extracellular matrix (e.g., [[../Biochemistry/Collagen|collagen]]) deposition → development of a fibrous plaque (atheroma) 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Macrophages, smooth muscle cells, lymphocytes, and extracellular matrix form a fibrous cap, which covers a necrotic center, consisting of foam cells, free cholesterol crystals, and cellular debris.</span>
 7. Inflammatory cells in the atheroma (e.g., macrophages) secrete <span style="background:rgba(240, 200, 0, 0.2)">matrix metalloproteinases → weakening of the fibrous cap of the plaque due to the breakdown of extracellular matrix → minor stress ruptures the fibrous cap</span>
-8. Calcification of the intima (the amount and pattern of calcification affect the risk of complications) 
+8. <span style="background:rgba(240, 200, 0, 0.2)">Calcification of the intima</span> (the amount and pattern of calcification affect the risk of complications) 
 9. Plaque rupture → exposure of thrombogenic material (e.g., [[../Biochemistry/Collagen|collagen]]) → thrombus formation with vascular occlusion or spreading of thrombogenic material 

@@ -2,10 +2,11 @@
 author: Harvey Guo
 created: 2023-08-13 17:29
 modified: 2023-08-13 17:29
-aliases: DPGN
+aliases:
+  - DPGN
+  - Lupus nephritis
 share: true
 ---
-
 # Epidemiology
 - Most common and severe manifestation of <mark style="background: #FFF3A34A;">lupus nephritis in [[../Immunology/Systemic lupus erythematosus|systemic lupus erythematosus]] (SLE)</mark>
 - Also seen with [[./IgA nephropathy|IgA nephropathy]] and with other inflammatory, autoimmune, or infectious diseases

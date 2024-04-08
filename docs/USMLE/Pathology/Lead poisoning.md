@@ -6,7 +6,6 @@ aliases:
   - Lead toxicity
 share: true
 ---
-
 - Sources of exposure
 	- Battery manufacturing, metallurgy
 	- Drinking water (contaminated by lead plumbing)  or contaminated sources 
@@ -16,7 +15,7 @@ share: true
 - Pathophysiology: inhibition of aminolevulinate dehydratase and ferrochelatase → [[../Blood/Heme synthesis|heme synthesis]] disruption → <span style="background:rgba(240, 200, 0, 0.2)">↑ protoporphyrin and ↑ aminolevulinic acid in RBCs</span>
 - Clinical features
 	- Nervous system 
-		- <span style="background:rgba(240, 200, 0, 0.2)">[[../Neurology/Polyneuropathy|Polyneuropathy]], encephalopathy, headache</span>, fatigue, muscle weakness, paresthesias, delirium, seizures
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[../Neurology/Polyneuropathy|Polyneuropathy]], encephalopathy, headache</span>, fatigue, muscle weakness, paresthesias, [[../Psychiatry/Delirium|delirium]], seizures
 		- <span style="background:rgba(240, 200, 0, 0.2)">Demyelination of peripheral nerves→ peripheral neuropathy → paralysis of muscles supplied by the radial or peroneal nerve (wrist/foot drop)</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Cognitive impairment, memory loss</span>
 	- Kidneys: nephropathy
@@ -24,4 +23,4 @@ share: true
 	- Other:
 		- <span style="background:rgba(240, 200, 0, 0.2)">Purple-blue line on the gums (lead line or Burton line)</span> ![[../../assets/img/Pasted image 20240310222936.png|Pasted image 20240310222936.png]]
 		- <span style="background:rgba(240, 200, 0, 0.2)">Severe abdominal pain (lead colic)</span>
-		- Constipation
+		- <span style="background:rgba(240, 200, 0, 0.2)">Constipation</span>

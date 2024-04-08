@@ -2,10 +2,10 @@
 author: Harvey Guo
 created: 2023-09-06 20:42
 modified: 2023-09-06 20:42
-aliases: Untitled
+aliases:
+  - PNH
 share: true
 ---
-
 An acquired genetic defect of the hematopoietic stem cell characterized by <span style="background:rgba(240, 200, 0, 0.2)">a triad of hemolytic [[./Anemia|anemia]], pancytopenia, and thrombosis</span>
 # Epidemiology
 
@@ -17,7 +17,7 @@ An acquired genetic defect of the hematopoietic stem cell characterized by <span
 ---
 # Pathophysiology
 - Physiologically, a membrane-bound glycosylphosphatidylinositol (GPI) anchor protects RBCs against [[../Immunology/Complement system|complement]]-mediated hemolysis.
-- Acquired mutation on the PIGA gene located on the X chromosome → GPI anchor loses its protective effect → RBC destruction by [[../Immunology/Complement system|complement]] and reticuloendothelial system → intravascular and extravascular hemolysis![[../../assets/img/0c4abbceeb2a64bddf60c772faad8b4.jpg|0c4abbceeb2a64bddf60c772faad8b4.jpg]]
+- Acquired mutation on the PIGA gene located on the X chromosome → GPI anchor loses its protective effect → RBC destruction by [[../Immunology/Complement system|complement]] and reticuloendothelial system → intravascular and [[./Lab findings of hemolysis|extravascular hemolysis]]![[../../assets/img/0c4abbceeb2a64bddf60c772faad8b4.jpg|0c4abbceeb2a64bddf60c772faad8b4.jpg]]
 - PNH can also occur in patients with aplastic [[./Anemia|anemia]] and MDS.
 - <span style="background:rgba(240, 200, 0, 0.2)">Autoimmunity to HSCs, causing bone marrow failure → pancytopenia</span>
 
@@ -25,10 +25,10 @@ An acquired genetic defect of the hematopoietic stem cell characterized by <span
 # Clinical features
 - Pallor, excessive fatigue, weakness
 - Intermittent jaundice
-- Episodes of hemoglobinuria causing pink/red/dark urine which usually occurs in the morning due to the concentration of urine overnight.
+- Episodes of hemoglobinuria causing pink/red/[[../Renal/Urine color|dark urine]] which usually occurs in the morning due to the concentration of urine overnight.
 - Vasoconstriction
 	- The scavenging of nitric oxide by free Hb results in smooth muscle contraction.
-	- Headache, pulmonary hypertension
+	- Headache, [[../Respiratory/Pulmonary hypertension|pulmonary hypertension]]
 	- Abdominal pain, dysphagia, erectile dysfunction
 - <span style="background:rgba(240, 200, 0, 0.2)">Venous thrombosis in unusual locations (e.g., hepatic, cerebral, and/or abdominal veins)</span>
 	- Hemolysis generates free Hb, which scavenges serum nitric oxide (a vasodilator), causing vasoconstriction.

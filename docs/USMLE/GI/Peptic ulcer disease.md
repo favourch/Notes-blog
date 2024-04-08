@@ -6,7 +6,6 @@ aliases:
   - PUD
 share: true
 ---
-
 # Epidemiology
 
 
@@ -18,7 +17,7 @@ The <span style="background:rgba(240, 200, 0, 0.2)">two major contributing facto
 	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with 40–70% of duodenal ulcers and 25–50% of gastric ulcers</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Chronic NSAID use</span>
 >[!tip] 
->Unlike aspirin and other NSAIDS, acetaminophen is believed to be safe for people with ulcers. It is inactivated peripherally. Since it doesn't thin the blood, it doesn't increase the risk of bleeding either.
+>Unlike aspirin and other NSAIDS, [[../Pharmacology/Non-opioid analgesics|acetaminophen]] is believed to be safe for people with ulcers. It is inactivated peripherally. Since it doesn't thin the blood, it doesn't increase the risk of bleeding either.
 ## Associated risk factors
 - Shared risk factors for PUD, [[./Gastroesophageal reflux disease|GERD]] and gastritis (i.e., smoking, heavy alcohol use, glucocorticoids, caffeine)
 ## Rare causes of PUD
@@ -61,7 +60,7 @@ The <span style="background:rgba(240, 200, 0, 0.2)">two major contributing facto
 	- <span style="background:rgba(240, 200, 0, 0.2)">Duodenal ulcers of the anterior wall are more likely to perforate than ulcers of the posterior wall. </span>
 		- This is because less protection is provided by the surrounding anatomical structures.
 - Clinical features
-	- Sudden, diffuse abdominal pain and rigidity
+	- Sudden, diffuse abdominal pain and [[../MSK/Spasticity (Clonus) vs Rigidity|rigidity]]
 	- Fever, tachycardia, tachypnea, hypotension 
 	- Pneumoperitoneum
 	- Shoulder pain (irritation of the phrenic nerve)

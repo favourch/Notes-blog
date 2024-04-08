@@ -4,9 +4,10 @@ created: 2023-09-19 16:39
 modified: 2023-09-19 16:39
 aliases:
   - Ulnar nerve
+  - Cubital tunnel syndrome
+  - Guyon canal syndrome
 share: true
 ---
-
 # Epidemiology
 
 
@@ -16,7 +17,7 @@ share: true
 
 ---
 # Pathophysiology
-The ulnar nerve is most commonly compressed at or near the cubital tunnel of the elbow and Guyon canal of the wrist.![[../../assets/img/Pasted image 20230919165808.png|Pasted image 20230919165808.png]]![[../../assets/img/Pasted image 20240220113619.png|Pasted image 20240220113619.png]]
+The ulnar nerve is most commonly compressed at or near the <span style="background:rgba(240, 200, 0, 0.2)">cubital tunnel of the elbow and Guyon canal of the wrist.</span>![[../../assets/img/Pasted image 20230919165808.png|Pasted image 20230919165808.png]]![[../../assets/img/Pasted image 20240220113619.png|Pasted image 20240220113619.png]]
 
 ---
 # Clinical features

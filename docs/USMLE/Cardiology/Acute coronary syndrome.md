@@ -6,7 +6,6 @@ aliases:
   - ACS
 share: true
 ---
-
 # Etiology
 
 
@@ -34,6 +33,14 @@ share: true
 
 ---
 # Complications
+## 0–24 hours post-infarction
+- Arrhythmias: a common cause of death in MI patients in the first 24 hours 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Sinus bradycardia is the most common arrhythmia, especially in inferior wall myocardial infarction</span>
+		- Due to occlusion of the right coronary artery (RCA).  The RCA usually supplies blood to the sinoatrial node, the atrioventricular node, and most of the bundle of His
+		- <span style="background:rgba(240, 200, 0, 0.2)">Managed with intravenous atropine</span>
+	- Ventricular tachyarrhythmias
+	- [[./Atrioventricular block|Atrioventricular block]] (e.g., complete heart block)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Conduction blocks</span>
 ## 2 weeks to months post-infarction
 ### Postmyocardial infarction syndrome (<span style="background:rgba(240, 200, 0, 0.2)">Dressler syndrome</span>)
 <span style="background:rgba(240, 200, 0, 0.2)">**Pericarditis**</span> occurring 2–10 weeks post-MI without an infective cause 

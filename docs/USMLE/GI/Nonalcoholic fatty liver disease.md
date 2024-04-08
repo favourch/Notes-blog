@@ -8,7 +8,6 @@ aliases:
   - NASH
 share: true
 ---
-
 - Descriptions
 	- NAFLD: non-alcohol related <span style="background:rgba(240, 200, 0, 0.2)">accumulation of fat in the liver cells</span>
 	- NASH: NAFLD with chronic inflammation and damage of liver cells
@@ -18,6 +17,7 @@ share: true
 		- Due to excess supply of nutrients in the liver
 - Pathophysiology: ↑ Insulin resistance 
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Hepatic uptake of fatty acids</span>
+		- Essentially, insulin resistance creates a situation where fat storage in the designated areas (fat cells) is impaired, causing the liver to take on an excess burden of processing these fatty acids.
 	- ↑ Triglyceride synthesis
 	- ↑ Peripheral lipolysis
 - Clinical features 

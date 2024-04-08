@@ -11,7 +11,7 @@ share: true
 
 ---
 # Etiology
-Prior infection with group A beta-hemolytic streptococci (GAS)
+Prior infection with group A beta-hemolytic streptococci (GAS, S pyogenes)
 
 ---
 # Pathophysiology

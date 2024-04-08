@@ -61,7 +61,7 @@ share: true
 		- Anxiety
 		- [[./Huntington disease|Huntington disease]]
 - Histamine
-	- <span style="background:rgba(240, 200, 0, 0.2)">Wakefulness.</span> Think about benadryl (antihistamine) makes us drowsy and sleepy)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Wakefulness.</span> Think about benadryl ([[../Immunology/Antihistamines|antihistamine]]) makes us drowsy and sleepy)
 - Glutamate
 	- <span style="background:rgba(240, 200, 0, 0.2)">Excitatory in the brain, opposite to GABA</span>
 		- Gluta<font color="#ffc000">MATE</font>![[../../assets/img/Pasted image 20240315213851.png|Pasted image 20240315213851.png]]

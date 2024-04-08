@@ -6,13 +6,12 @@ aliases:
   - Polio
 share: true
 ---
-
 # Epidemiology
 - Poliovirus is still endemic in Afghanistan and Pakistan.
 
 ---
 # Etiology
-- Fecal-oral: absorption of poliovirus in the intestinal tract
+- <span style="background:rgba(240, 200, 0, 0.2)">Fecal-oral: absorption of poliovirus in the intestinal tract</span>
 - Incubation time: 7-14 days
 
 ---
@@ -33,7 +32,7 @@ The virus replicates in the gastrointestinal tract (oropharynx and small intesti
 
 ---
 # Diagnostics
-- Confirmatory test: PCR of CSF, stool, or oropharyngeal samples to test for poliovirus RNA  [8]
+- Confirmatory test: PCR of CSF, stool, or oropharyngeal samples to test for poliovirus RNA 
 - CSF will show:
 	- High protein levels
 	- Pleocytosis with either neutrophils (early infection) or lymphocytes (late infection)
@@ -47,11 +46,11 @@ The virus replicates in the gastrointestinal tract (oropharynx and small intesti
 ---
 # Treatment
 - Pain relief
-- Airway management and mechanical ventilation if needed
+- Airway management and mechanical [[../Respiratory/Ventilation|ventilation]] if needed
 
 ---
 # Complications
-- Post-polio syndrome (PPS) [7]
+- Post-polio syndrome (PPS) 
 	- Most frequent complication observed following poliovirus infection (up to 40% of survivors)
 	- Occurs decades after infection
 	- Manifests with progressive muscle weakness and pain

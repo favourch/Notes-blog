@@ -5,14 +5,13 @@ modified: 2024-03-03 09:42
 aliases: []
 share: true
 ---
-
 | Suffix              | Class                                                                      | Clinical Use                                        | Example                                                          |
 | ------------------- | -------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------- |
-| -afil               | Phosphodiesterase inhibitors                                               | Erectile dysfunction, pulmonary HTN                 | Sildenafil                                                       |
+| -afil               | [[./Phosphodiesterase inhibitors|Phosphodiesterase inhibitors]]                                               | Erectile dysfunction, pulmonary HTN                 | Sildenafil                                                       |
 | -ane                | Inhaled [[../Neurology/Inhalational anesthetics\|anesthetics]]                          | Anesthesia                                          | Halothane                                                        |
 | -artan              | Angiotensin receptor blockers                                              | Hypertension                                        | Losartan                                                         |
 | -azepam, -zolam     | Benzodiazepinea                                                            | Anxiety                                             | Lorazepam, midazolam                                             |
-| -azine              | Phenothiazines                                                             | Antipsychotic                                       | Chlorpromazine                                                   |
+| -azine              | Phenothiazines                                                             | [[Antipsychotics|Antipsychotic]]                                       | Chlorpromazine                                                   |
 | -azole              | Azole antifungals                                                          | Antifungal                                          | Ketoconazole                                                     |
 | -barbital           | Barbituates                                                                | Anxiety                                             | Phenobarbital                                                    |
 | -caine              | Local [[../Neurology/Inhalational anesthetics\|anesthetics]]                            | Anesthesia                                          | Lidocaine                                                        |

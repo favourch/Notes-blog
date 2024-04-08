@@ -6,7 +6,6 @@ aliases:
   - Pyruvate dehydrogenase deficiency
 share: true
 ---
-
 - Definition: inherited genetic disorder characterized by impaired [[./Pyruvate metabolism|pyruvate metabolism]]
 - Inheritance: X-linked recessive or autosomal recessive
 - Pathophysiology
@@ -30,4 +29,4 @@ share: true
 		- High in fat, low in carbohydrates
 		- <span style="background:rgba(240, 200, 0, 0.2)">High in ketogenic amino acids (lysine and leucine) </span>
 		- Avoidance of glucogenic acids (e.g., valine)
-	  - <span style="background:rgba(240, 200, 0, 0.2)">Avoid glucogenic amino acids: Methionine, histidine, valine.</span>
+	  - <span style="background:rgba(240, 200, 0, 0.2)">Avoid glucogenic amino acids: [[./Methionine|Methionine]], histidine, valine.</span>

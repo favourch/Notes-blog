@@ -5,7 +5,6 @@ modified: 2023-10-12 11:34
 aliases: Untitled
 share: true
 ---
-
 See also [[../Biochemistry/Lipid transport|Lipid transport]]
 ![[../../assets/img/Pasted image 20240208105331.png|Pasted image 20240208105331.png]]
 # Statins
@@ -13,6 +12,12 @@ See also [[../Biochemistry/Lipid transport|Lipid transport]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">↓↓ LDL cholesterol</span>
 	- ↑ HDL cholesterol
 	- ↓ Triglyceride level
+- Adverse effects
+	- <span style="background:rgba(240, 200, 0, 0.2)">Statin-associated myopathy</span>
+		- Muscle pain and weakness, <span style="background:rgba(240, 200, 0, 0.2)">especially when used alongside fibrates or niacin</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Myositis: ↑ CK</span> 
+		- May progress to rhabdomyolysis: rare but severe side-effect that may lead to myoglobinuria → AKI (↑ BUN and ↑ creatinine)
+		- Treatment must be discontinued if myopathy/rhabdomyolysis occurs.
 
 ![[../../assets/img/Pasted image 20231012113514.png|Pasted image 20231012113514.png]]
 # Ezetimibe
@@ -25,7 +30,7 @@ See also [[../Biochemistry/Lipid transport|Lipid transport]]
 - Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the peroxisome proliferator-activated receptor alpha (PPAR–α)</span> → ↑ lipoprotein lipase activity → <span style="background:rgba(240, 200, 0, 0.2)">more rapid degradation of LDL and triglycerides and induction of HDL synthesis</span> → ↓ LDL, ↑ HDL, <span style="background:rgba(240, 200, 0, 0.2)">↓↓↓ triglyceride</span>
 - Adverse effects
 	- Dyspepsia
-	- Myopathy, especially in combination with statins 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Myopathy, especially in combination with statins</span> 
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[../GI/Cholelithiasis|Cholelithiasis]]: fibrates inhibit cholesterol 7α hydroxylase → decreased bile acid synthesis → supersaturation of bile with cholesterol (↑ cholesterol:bile acid ratio)</span>
 	- ↑ LFTs (reversible)
  

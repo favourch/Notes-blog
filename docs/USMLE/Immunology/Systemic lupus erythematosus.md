@@ -12,7 +12,7 @@ share: true
 ---
 # Etiology
 - Genetic predisposition
-	- HLA-DR2 and HLA-DR3 are commonly present in individuals with SLE.
+	- HLA-DR2 and [[./HLA system|HLA-DR3]] are commonly present in individuals with SLE.
 	- Genetic deficiency of classical pathway [[./Complement system|complement]] proteins (C1q, C2, C4) in approx. 10% of affected individuals
 - Hormonal factors: <span style="background:rgba(240, 200, 0, 0.2)">Hyperestrogenic states (e.g., due to oral contraceptive use, postmenopausal hormonal therapy</span>, [[../Reproductive/Endometriosis|endometriosis]]) are associated with an increased risk of SLE.
 - Environmental factors
@@ -48,9 +48,15 @@ share: true
 
 >[!tip] 
 >Both [[../MSK/Rheumatoid arthritis|rheumatoid arthritis]] and SLE arthritis affect the MCP and PIP joints, but SLE does not usually lead to deformities.
-
----
+## Less common
+- Kidneys: <span style="background:rgba(240, 200, 0, 0.2)">nephritis with proteinuria (see “[[../Renal/Diffuse proliferative glomerulonephritis|Lupus nephritis]]”)</span>
+	- Mesangial and/or subendothelial deposition of immune complexes (e.g., anti-dsDNA antibodies, anti-Sm antibodies) → expansion and thickening of mesangium, capillary walls, and/or glomerular basement membrane
+- Heart
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pericarditis, myocarditis, endocarditis (Libman-Sacks endocarditis)</span>
+	- Aortic valve lesions
+	- [[../Cardiology/Coronary artery disease|Coronary artery disease]] 
 # Diagnostics
+---
 ## Laboratory studies
 ![[../../assets/img/Pasted image 20240116151535.png|Pasted image 20240116151535.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Antinuclear antibodies (ANAs)</span>
@@ -60,7 +66,7 @@ share: true
 		- Autoantibodies against double-stranded DNA
 		- Positive in 60–70% of patients
 		- Highly specific for SLE
-		- Levels correlate with disease activity (especially lupus nephritis activity). 
+		- Levels correlate with disease activity (especially [[../Renal/Diffuse proliferative glomerulonephritis|lupus nephritis]] activity). 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-Sm antibodies</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Autoantibodies against Smith antigens (nonhistone nuclear proteins)</span>
 			- <span style="background:rgba(240, 200, 0, 0.2)">Smith can bond to snRNAs to form snRNPs, which can form a spliceosome.</span>

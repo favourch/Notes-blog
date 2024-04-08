@@ -5,7 +5,6 @@ modified: 2023-07-29 15:30
 aliases: []
 share: true
 ---
-
 # Epidemiology
 - Onset of symptoms usually occurs at 3–6 months of age. 
 - Disease often improves with age.
@@ -16,11 +15,17 @@ share: true
 
 ---
 # Pathophysiology
-- Epidermal barrier dysfunction (due to filaggrin deficiency and decreased ceramide levels) → loss of moisture → dry skin
-- Inflammation of the skin → severe pruritus
+The pathogenesis of atopic dermatitis involves immune dysregulation and genetically mediated skin barrier dysfunction (eg, filaggrin mutation).  The epidermal dysfunction increases cutaneous exposure to environmental allergens, which induce a <span style="background:rgba(240, 200, 0, 0.2)">Th2-predominant immune response</span>.  Key Th2 cytokines that trigger acute inflammation in atopic dermatitis are <span style="background:rgba(240, 200, 0, 0.2)">IL-4 and IL-13</span>, and mechanisms include the following:
+- Stimulation of plasma cell <span style="background:rgba(240, 200, 0, 0.2)">IgE production</span>, which facilitates allergen sensitization and inflammation
+- Suppressed expression of epidermal barrier components, which enhances [[../Infective disease/Staphylococcus aureus|Staphylococcus aureus]] colonization and inflammation
+- Inhibition of Th1-type immune response and antimicrobial peptide production, which facilitate secondary microbial infections that complicate atopic dermatitis
 
 ---
 # Clinical features
+---
+>[!tip] 
+>The symptoms of atopic dermatitis are variable and often change in the course of a lifetime. <span style="background:rgba(240, 200, 0, 0.2)">Pruritus and dry skin are usually the main symptoms.</span>
+
 - <span style="background:rgba(240, 200, 0, 0.2)">Main symptoms: intense pruritus and dry skin </span>
 - Infantile AD (age < 2 years)
 	- Eczema involving the face, head, and extensor surfaces of the extremities that usually spares the diaper area 
@@ -42,9 +47,6 @@ share: true
 	- Keratosis pilaris: keratinized hair follicles (rough bumps) typically distributed over extensor arms and thighs
 	- Hertoghe sign: thinning or loss of the outer third of the eyebrows
  
->[!tip] 
->The symptoms of atopic dermatitis are variable and often change in the course of a lifetime. Pruritus and dry skin are usually the main symptoms.
-
 ---
 # Diagnostics
 - [[../Respiratory/Atopy|Atopy]]

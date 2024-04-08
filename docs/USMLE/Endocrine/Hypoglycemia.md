@@ -5,7 +5,6 @@ modified: 2023-12-21 17:31
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
@@ -38,9 +37,9 @@ share: true
 		- Glucagon therapy is only successful if the patient's glycogen reserves have not been depleted, as glucagon elevates endogenous glucose production via hepatic glycogenolysis and [[../Biochemistry/Gluconeogenesis|gluconeogenesis]].
 
 >[!tip] 
->For patients with type 1 diabetes presenting with hypoglycemia and using insulin pumps, <span style="background:rgba(240, 200, 0, 0.2)">do not discontinue insulin pumps</span> and treat hypoglycemia as usual. Removing the insulin pump puts patients at risk for diabetic ketoacidosis.
+>For patients with [[./Diabetes mellitus|type 1 diabetes]] presenting with hypoglycemia and using insulin pumps, <span style="background:rgba(240, 200, 0, 0.2)">do not discontinue insulin pumps</span> and treat hypoglycemia as usual. Removing the insulin pump puts patients at risk for [[./Hyperglycemic crises|diabetic ketoacidosis]].
 
 >[!warning] 
->Avoid giving orange juice to patients with CKD on a low-potassium diet as it is high in potassium.
+>Avoid giving orange juice to patients with [[../Renal/Chronic kidney disease|CKD]] on a low-potassium diet as it is high in potassium.
 
 ---

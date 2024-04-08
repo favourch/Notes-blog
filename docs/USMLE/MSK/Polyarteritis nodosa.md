@@ -6,9 +6,8 @@ aliases:
   - PAN
 share: true
 ---
-
 # Definition
-- Systemic vasculitis of medium-sized vessels and small muscular arteries, leading to tissue ischemia
+- Systemic [[./Vasculitides|vasculitis]] of medium-sized vessels and small muscular arteries, leading to tissue ischemia
 - Most commonly involves the skin, peripheral nerves, muscles, joints, gastrointestinal tract, and kidneys
 
 ---
@@ -29,13 +28,13 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Renal involvement (∼ 60%): hypertension, renal impairment</span> 
 	- Coronary artery involvement (∼ 35%); <span style="background:rgba(240, 200, 0, 0.2)">↑ risk of myocardial infarction</span>
 	- Skin involvement (∼ 40%): rash, ulcerations, nodules
-	- Neurological involvement: polyneuropathy (mononeuritis multiplex), <span style="background:rgba(240, 200, 0, 0.2)">stroke</span>
+	- Neurological involvement: [[../Neurology/Polyneuropathy|polyneuropathy]] (mononeuritis multiplex), <span style="background:rgba(240, 200, 0, 0.2)">stroke</span>
 	- GI involvement: abdominal pain, melena, nausea, vomiting
 	- <span style="background:rgba(240, 200, 0, 0.2)">Usually spares the lungs</span>
-		- Helps differentiate PAN from other forms of vasculitis
+		- <span style="background:rgba(240, 200, 0, 0.2)">Unlike [[../Blood/Granulomatosis with polyangiitis|GPA]]</span>
 
 >[!Mnemonic] 
->In PAN, the Pulmonary Artery is Not involved, PANmural inflammation of the arterial wall is present, and PAN may be associated with [[../GI/Hepatitis B|hePAtitis B]].
+>In <font color="#ffc000">PAN</font>, the <font color="#ffc000">P</font>ulmonary <font color="#ffc000">A</font>rtery is <font color="#ffc000">N</font>ot involved, PANmural inflammation of the arterial wall is present, and PAN may be associated with [[../GI/Hepatitis B|hePAtitis B]].
 
 
 >[!tip] 

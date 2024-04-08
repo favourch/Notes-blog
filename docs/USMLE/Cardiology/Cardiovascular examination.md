@@ -7,7 +7,6 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-
 # Jugular venous pressure
 | Wave      | Description                                                                                                                                     | Abnormalities                                  |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
@@ -40,5 +39,5 @@ Common abnormalities of the JVP waveform include:
 - Tricuspid regurgitation: prominent v wave as the blood from the right ventricle regurgitates into the right atrium during ventricular systole (atrial diastole), increasing interatrial pressure and volume  
 - Tricuspid stenosis: giant a wave due to high right atrial systolic pressure  
 - Atrial septal defect: v wave ≥ a wave due to the left-to-right shunting of blood  
-- Third-degree atrioventricular (AV) block: cannon a waves due to the loss of AV synchronization and contraction of the atria against a closed tricuspid valve  
+- <span style="background:rgba(240, 200, 0, 0.2)">Third-degree atrioventricular (AV) block: cannon a waves due to the loss of AV synchronization and contraction of the atria against a closed tricuspid valve</span>
 - Atrial fibrillation: absent a waves due to ineffective contraction of the atria

@@ -5,7 +5,6 @@ modified: 2023-10-14 08:56
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
@@ -43,6 +42,7 @@ share: true
 ![[../../assets/img/Pasted image 20240116151535.png|Pasted image 20240116151535.png]]
 # Differential diagnostics
 - <span style="background:rgba(240, 200, 0, 0.2)">Parvovirus B19 will presents with similar symptoms, except for rash, normal ESR, and acute onset</span>
+- See [[./Osteoarthritis#Differential diagnosis|Osteoarthritis > Differential diagnosis]]
 
 ---
 # Treatment

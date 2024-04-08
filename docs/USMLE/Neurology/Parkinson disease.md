@@ -23,7 +23,17 @@ share: true
 
 ---
 # Clinical features
-
+## Motor signs
+- Parkinsonism
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bradykinesia</span>: slowed movements in combination with decreased amplitude/speed when moving 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Resting tremor</span> (4–6 Hz)
+		- Oftentimes the presenting symptom
+		- Pill-rolling tremor that subsides with voluntary movements but increases with stress
+	- [[../MSK/Spasticity (Clonus) vs Rigidity|Rigidity]]: increased and persistent resistance to passive joint movement that is independent of speed
+		- Cogwheel rigidity
+- Postural instability 
+	- Imbalance and tendency to fall
+- Parkinsonian gait: shuffling gait with quickened and shortened steps
 
 ---
 # Diagnostics

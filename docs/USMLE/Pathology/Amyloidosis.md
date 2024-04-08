@@ -5,27 +5,26 @@ modified: 2023-08-23 14:55
 aliases: Untitled
 share: true
 ---
-
 - <span style="background:rgba(240, 200, 0, 0.2)">Amyloid: insoluble protein or protein fragments</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Amyloidosis: extracellular aggregation and subsequent deposition of amyloid in various organs</span>
 ![[../../assets/img/Pasted image 20231210144343.png|Pasted image 20231210144343.png]]
 # AL amyloidosis (primary amyloidosis)
 Most common form of amyloidosis
 ## Etiology
-Low-level expansion of a plasma cell dyscrasia (e.g., multiple myeloma, Waldenstrom macroglobulinemia)
+Low-level expansion of a plasma cell dyscrasia (e.g., [[../Blood/Multiple myeloma|multiple myeloma]], Waldenstrom macroglobulinemia)
 
 ---
 ## Pathophysiology
-Increased production of the light chains of immunoglobulins → deposition of amyloid light chain protein (AL protein)
+Increased production of the light chains of [[../Immunology/Immunoglobulins|immunoglobulins]] → deposition of amyloid light chain protein (AL protein)
 
 ---
 ## Clinical features
 - Heart: <span style="background:rgba(240, 200, 0, 0.2)">[[../Cardiology/Restrictive cardiomyopathy|restrictive cardiomyopathy]]</span>, HFpEF, [[../Cardiology/Atrioventricular block|atrioventricular block]]
-- Kidney: <span style="background:rgba(240, 200, 0, 0.2)">[[../Renal/Nephrotic syndrome|nephrotic syndrome]]</span>, type II renal tubular acidosis, nephrogenic [[../Renal/Diabetes insipidus|diabetes insipidus]]
-- Tongue: <span style="background:rgba(240, 200, 0, 0.2)">macroglossia</span> → obstructive sleep apnea 
+- Kidney: <span style="background:rgba(240, 200, 0, 0.2)">[[../Renal/Nephrotic syndrome|nephrotic syndrome]]</span>, type II [[../Renal/Renal tubular disorders|renal tubular acidosis]], nephrogenic [[../Renal/Diabetes insipidus|diabetes insipidus]]
+- Tongue: <span style="background:rgba(240, 200, 0, 0.2)">macroglossia</span> → [[../Respiratory/Obstructive sleep apnea|obstructive sleep apnea]] 
 - Autonomic nervous system: <span style="background:rgba(240, 200, 0, 0.2)">autonomic neuropathy</span>
 - Musculoskeletal system
-	- <span style="background:rgba(240, 200, 0, 0.2)">Carpal tunnel syndrome</span> (may be bilateral)
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[../MSK/Median nerve neuropathy|Carpal tunnel syndrome]]</span> (may be bilateral)
 
 ---
 ## Diagnostics
@@ -40,7 +39,7 @@ Increased production of the light chains of immunoglobulins → deposition of am
 # AA amyloidosis (secondary amyloidosis)
 ## Etiology
 <span style="background:rgba(240, 200, 0, 0.2)">AA amyloidosis is secondary to a chronic disease</span>, such as:
-- Chronic inflammatory conditions (e.g., IBD, [[../MSK/Rheumatoid arthritis|rheumatoid arthritis]], [[../Immunology/Systemic lupus erythematosus|SLE]], vasculitis, familial Mediterranean fever)
+- Chronic inflammatory conditions (e.g., IBD, [[../MSK/Rheumatoid arthritis|rheumatoid arthritis]], [[../Immunology/Systemic lupus erythematosus|SLE]], [[../MSK/Vasculitides|vasculitis]], familial Mediterranean fever)
 - Chronic infectious diseases (e.g., tuberculosis, [[../Respiratory/Bronchiectasis|bronchiectasis]], leprosy, osteomyelitis)
 
 ---
@@ -50,9 +49,9 @@ Increased production of the light chains of immunoglobulins → deposition of am
 ---
 ## Clinical features
 - Kidney: [[../Renal/Nephrotic syndrome|nephrotic syndrome]]
-- Liver and spleen: hepatomegaly, [[../Blood/Splenomegaly|splenomegaly]]
+- Liver and spleen: [[../GI/Hepatomegaly|hepatomegaly]], [[../Blood/Splenomegaly|splenomegaly]]
 >[!tip] 
->The main feature of AA amyloidosis at diagnosis is renal dysfunction (e.g., CKD, [[../Renal/Nephrotic syndrome|nephrotic syndrome]]). Cardiac involvement is rare.
+>The main feature of AA amyloidosis at diagnosis is renal dysfunction (e.g., [[../Renal/Chronic kidney disease|CKD]], [[../Renal/Nephrotic syndrome|nephrotic syndrome]]). Cardiac involvement is rare.
 
 ---
 ## Diagnostics
@@ -64,3 +63,9 @@ Increased production of the light chains of immunoglobulins → deposition of am
 
 
 ---
+# ATTRmt amyloidosis
+- Autosomal dominant disease (most common) that is due to <span style="background:rgba(240, 200, 0, 0.2)">mutated transthyretin</span> (ATTR)
+- <span style="background:rgba(240, 200, 0, 0.2)">Familial amyloid cardiomyopathy (FAC)</span>
+	- Common in African Americans (3% of African Americans carry the mutant allele for FAC)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Deposition in ventricular endomyocardium → [[../Cardiology/Restrictive cardiomyopathy|restrictive cardiomyopathy]]</span>
+	- Atrial deposition → arrhythmia

@@ -81,7 +81,7 @@ share: true
 >Uricosuric agents (e.g., probenecid) increase the excretion of uric acid, which can accelerate the formation of stones.
 ## Cystine stones
 ### Etiology
-- <span style="background:rgba(240, 200, 0, 0.2)">Autosomal recessive defect in cystine-reabsorbing PCT transporter</span> → impaired proximal renal tubular absorption of <span style="background:rgba(240, 200, 0, 0.2)">dibasic amino acids</span> → [[../Biochemistry/cystinuria|cystinuria]] → cystine stone formation (as cystine is poorly soluble)
+- <span style="background:rgba(240, 200, 0, 0.2)">Autosomal recessive defect in cystine-reabsorbing PCT transporter</span> → impaired proximal renal tubular absorption of <span style="background:rgba(240, 200, 0, 0.2)">dibasic amino acids</span> → [[../Biochemistry/Cystinuria|Cystinuria]] → cystine stone formation (as cystine is poorly soluble)
 - Develop in <span style="background:rgba(240, 200, 0, 0.2)">persistently acidic urine</span>
 ### Clinical features
 <span style="background:rgba(240, 200, 0, 0.2)">Recurrent kidney stones (manifesting with e.g., flank pain) starting <u>in childhood</u></span>

@@ -5,7 +5,6 @@ modified: 2024-01-24 14:22
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
@@ -37,7 +36,7 @@ share: true
 	- IV fluids
 	- Parenteral antiemetics: e.g., metoclopramide, prochlorperazine
 ### Mild to moderate headache
-- First-line treatment consists of NSAIDs, acetaminophen, acetylsalicylic acid, or combinations including caffeine.
+- First-line treatment consists of NSAIDs, [[../Pharmacology/Non-opioid analgesics|acetaminophen]], acetylsalicylic acid, or combinations including caffeine.
 ### Moderate to severe headache
 - Parenteral antidopaminergics
 	- Metoclopramide

@@ -6,7 +6,6 @@ aliases:
   - OA
 share: true
 ---
-
 # Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Obesity</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Excessive joint loading or overuse (mechanical stress)</span>
@@ -26,7 +25,7 @@ Follow a stepwise approach to treatment: Start with nonpharmacological managemen
 - Nonpharmacological management: e.g., <span style="background:rgba(240, 200, 0, 0.2)">exercise and weight loss</span>
 - Pharmacotherapy
 	- <span style="background:rgba(240, 200, 0, 0.2)">First line: e.g., topical or oral NSAIDs</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Second line: e.g., acetaminophen or intraarticular glucocorticoid injections</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Second line: e.g., [[../Pharmacology/Non-opioid analgesics|acetaminophen]] or intraarticular glucocorticoid injections</span>
 - Surgical management: e.g., complete or partial joint replacement (arthroplasty) using an endoprosthesis
 >[!tip] 
 >Pharmacotherapy should only be used as a short-term treatment in symptomatic patients; long-term therapy is associated with many adverse effects.

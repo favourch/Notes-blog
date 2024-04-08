@@ -5,7 +5,6 @@ modified: 2024-02-09 15:31
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
@@ -31,7 +30,7 @@ Mutation in the HGD gene
 		- Cartilage: arthritis (ochronotic osteoarthropathy)
 			- May manifest with arthralgias due to accumulation of homogentisic acid, which attacks cartilage, in the joints
 			- Degenerative changes in the vertebral column
-		- Kidneys: nephrolithiasis
+		- Kidneys: [[../Renal/Nephrolithiasis|nephrolithiasis]]
 
 ---
 # Diagnostics

@@ -6,7 +6,6 @@ aliases:
   - GPA
 share: true
 ---
-
 # Epidemiology
 
 
@@ -38,7 +37,7 @@ share: true
 # Diagnostics
 - Routine studies
 	- microscopic hematuria
-	- nephritic sediment (dysmorphic RBC and RBC casts)
+	- nephritic sediment (dysmorphic RBC and RBC [[../Renal/Urine sediment|casts]])
 - Serology: ANCA (positive in ∼ 90% of patients) 
 	- <span style="background:rgba(240, 200, 0, 0.2)">PR3-ANCA</span> (aka c-ANCA)
 - Obtain a chest X-ray or CT chest

@@ -14,7 +14,7 @@ Chronic tubulointerstitial nephritis (CTIN) is a condition of chronic inflammati
 	- Associated with an increased risk of urothelial carcinoma; can progress to ESRD
 # Etiology
 - Medications
-	- Analgesic nephropathy: combination analgesics , NSAIDs, and acetaminophen
+	- Analgesic nephropathy: combination analgesics , NSAIDs, and [[../Pharmacology/Non-opioid analgesics|acetaminophen]]
 # Clinical features
 - Painless hematuria, pyuria, oliguria, or polyuria
 - Colicky flank pain

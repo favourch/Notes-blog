@@ -6,7 +6,6 @@ aliases:
   - CD
 share: true
 ---
-
 # Epidemiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Typical age of onset: bimodal distribution with one peak at 15–35 years and another one at 55–70 years</span>
 >[!tip] 
@@ -19,7 +18,7 @@ share: true
 # Etiology
 - Risk factors
 	- Familial aggregation
-	- Genetic predisposition (e.g., mutation of the NOD2 gene, <span style="background:rgba(240, 200, 0, 0.2)">HLA-B27 association</span>)
+	- Genetic predisposition (e.g., mutation of the NOD2 gene, <span style="background:rgba(240, 200, 0, 0.2)">[[../Immunology/HLA system|HLA-B27]] association</span>)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Tobacco smoke</span>
 
 >[!tip] 
@@ -89,7 +88,7 @@ CD most <span style="background:rgba(240, 200, 0, 0.2)">commonly affects the ter
 
 ---
 # Treatment
-
+![[../../assets/img/Pasted image 20240405101530.png|Pasted image 20240405101530.png]]
 
 ---
 # Complications

@@ -18,7 +18,7 @@ The most common form of congenital LQTS (LQTS type 1) is caused by a <mark st
 		- Class Ia (e.g., quinidine, disopyramide, procainamide)
 		- Class III (e.g., sotalol; uncommonly, amiodarone)
 	- Antibiotics (e.g., macrolides, fluoroquinolones)
-	- Antihistamines (e.g., diphenhydramine)
+	- [[../Immunology/Antihistamines|Antihistamines]] (e.g., diphenhydramine)
 	- [[../Psychiatry/Antidepressants|Antidepressants]] (most tricyclic [[../Psychiatry/Antidepressants|antidepressants]] and tetracyclic [[../Psychiatry/Antidepressants|antidepressants]], some [[../Psychiatry/Antidepressants|SSRIs]], lithium)
 	- [[../Psychiatry/Antipsychotics|Antipsychotics]] (e.g., haloperidol, ziprasidone)
 	- [[../GI/Antiemetics|Antiemetics]] (ondansetron)

@@ -7,7 +7,6 @@ aliases:
   - Marfan syndrome
 share: true
 ---
-
 # Epidemiology
 
 
@@ -32,7 +31,7 @@ share: true
 
 ---
 # Diagnostics
-
+![[../../assets/img/Pasted image 20240402223058.png|Pasted image 20240402223058.png]]
 
 ---
 # Treatment

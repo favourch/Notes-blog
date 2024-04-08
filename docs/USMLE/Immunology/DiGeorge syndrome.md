@@ -10,7 +10,7 @@ share: true
 - Etiology: autosomal dominant; <span style="background:rgba(240, 200, 0, 0.2)">microdeletion at chromosome 22 (22q11.2)</span>
 - Clinical features ![[../../assets/img/Pasted image 20231217165656.png|Pasted image 20231217165656.png]]
 	- Cardiac anomalies
-		- Conotruncal abnormalities (e.g., tetralogy of Fallot or persistent truncus arteriosus)
+		- Conotruncal abnormalities (e.g., [[../Cardiology/Tetralogy of Fallot|tetralogy of Fallot]] or persistent truncus arteriosus)
 		- Ventricular septal defect (VSD)
 		- Atrial septal defect (ASD)
 	- Anomalous face

@@ -6,9 +6,8 @@ aliases: Untitled
 share: true
 ---
 
-
 # Etiology
-- Most likely genetic predisposition to autoimmune reaction (associated with HLA-DR3 and HLA-DQ2)
+- Most likely genetic predisposition to autoimmune reaction (associated with [[../Immunology/HLA system|HLA-DR3]] and [[../Immunology/HLA system|HLA-DQ2]])
 - <span style="background:rgba(240, 200, 0, 0.2)">Associated with [[../GI/Celiac disease|celiac disease]]</span> and sensitivity to potassium iodide (e.g., contrast medium)
 # Clinical features
 - Tense, grouped subepidermal vesicles, papules, and/or bullae (herpetiform appearance) 
