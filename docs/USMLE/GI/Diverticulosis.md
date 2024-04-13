@@ -6,7 +6,6 @@ aliases:
   - Diverticula
 share: true
 ---
-
 # Definition
 - Diverticula: blind pouches that protrude from the gastrointestinal wall and communicate with the lumen 
 	- <span style="background:rgba(240, 200, 0, 0.2)">True diverticulum</span>: a type of diverticulum that affects all layers of the intestinal wall.

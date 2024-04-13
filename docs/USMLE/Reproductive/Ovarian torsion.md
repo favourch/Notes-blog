@@ -6,7 +6,6 @@ aliases:
   - Adnexal torsion
 share: true
 ---
-
 # Epidemiology
 
 

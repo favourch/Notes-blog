@@ -7,4 +7,3 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-

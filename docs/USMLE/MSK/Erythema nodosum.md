@@ -5,7 +5,6 @@ modified: 2023-11-01 09:48
 aliases: Untitled
 share: true
 ---
-
 # Epidemiology
 
 
@@ -14,8 +13,8 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Idiopathic (most common)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Infection (e.g. streptococcal pharyngitis, [[../Infective disease/Histoplasmosis|histoplasmosis]], coccidioidomycosis, TB, leprosy)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Autoimmune diseases (e.g. [[../Respiratory/Sarcoidosis|sarcoidosis]], [[../GI/Crohn disease|Crohn disease]], [[../GI/Ulcerative colitis|ulcerative colitis]], [[./Behcet disease|Behcet syndrome]])</span>
-- Drugs (oral contraceptives, sulfonamides, iodide)
-- Pregnancy
+- Drugs (oral [[../Reproductive/Contraception|contraceptives]], sulfonamides, iodide)
+- [[../Reproductive/Pregnancy|Pregnancy]]
 - Malignancy
 
 ---

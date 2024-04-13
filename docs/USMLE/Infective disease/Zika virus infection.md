@@ -6,7 +6,6 @@ aliases:
   - Zika virus
 share: true
 ---
-
 # Epidemiology
 - Worldwide geographical distribution
 	- Outbreaks most commonly occur in <span style="background:rgba(240, 200, 0, 0.2)">tropical and subtropical regions</span>.

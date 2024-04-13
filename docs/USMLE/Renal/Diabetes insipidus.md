@@ -65,7 +65,7 @@ Urine concentrating capacity is assessed during a period of dehydration; desmopr
 - Mechanism
 	- <span style="background:rgba(240, 200, 0, 0.2)">Compulsive water intake</span>
 - Etiology
-	- Psychiatric diseases (e.g., schizophrenia, obsessive-compulsive disorder)
+	- Psychiatric diseases (e.g., schizophrenia, [[../Psychiatry/Obsessive-compulsive disorder|obsessive-compulsive disorder]])
 	- Lesions in the hypothalamic thirst center
 - Features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hyponatremia</span>

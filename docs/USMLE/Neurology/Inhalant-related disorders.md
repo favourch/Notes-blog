@@ -6,7 +6,6 @@ aliases:
   - Inhalants
 share: true
 ---
-
 - Substances: hydrocarbon-based inhalants (e.g., glue, paint thinners, fuel, nitrous oxide, alkyl nitrites)
 - Epidemiology: <span style="background:rgba(240, 200, 0, 0.2)">most prevalent in high-school-aged individuals</span>
 - Mechanism of action: Inhalants generally work by<span style="background:rgba(240, 200, 0, 0.2)"> depressing the CNS</span>. 

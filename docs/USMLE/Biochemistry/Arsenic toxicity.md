@@ -5,7 +5,6 @@ modified: 2023-11-17 17:25
 aliases: Untitled
 share: true
 ---
-
 - Sources of exposure: metal smelting, pesticides, herbicides
 - Pathophysiology
 	- Has direct toxic effects on endothelial cells

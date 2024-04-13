@@ -8,7 +8,6 @@ aliases:
   - leiomyoma
 share: true
 ---
-
 # Epidemiology
 
 

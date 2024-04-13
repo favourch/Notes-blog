@@ -6,7 +6,6 @@ aliases:
   - HAV
 share: true
 ---
-
 # Epidemiology
 - 50% acquired during travels abroad
 
@@ -22,7 +21,7 @@ share: true
 # Clinical features
 HAV infection in children is typically asymptomatic
 - Incubation period: 2–6 weeks
-- Phases of acute viral hepatitis [2][4]
+- Phases of acute viral hepatitis 
 	- Prodromal phase: 1–2 weeks
 		- <span style="background:rgba(240, 200, 0, 0.2)">Right upper quadrant pain, tender hepatomegaly</span>
 		- Fever, malaise

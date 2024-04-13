@@ -5,7 +5,6 @@ modified: 2023-12-16 15:25
 aliases: []
 share: true
 ---
-
 - Description: [[./Anemia|anemia]] caused by defective heme metabolism, which leads to iron trapping inside the mitochondria
 - Etiology
 	- Inherited: X-linked sideroblastic [[./Anemia|anemia]] due to a δ-ALA-synthase gene defect

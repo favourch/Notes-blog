@@ -8,7 +8,6 @@ aliases:
   - Juvenile myoclonic epilepsy
 share: true
 ---
-
 # Childhood absence epilepsy
 ## Treatment
 - 1st line: ethosuximide

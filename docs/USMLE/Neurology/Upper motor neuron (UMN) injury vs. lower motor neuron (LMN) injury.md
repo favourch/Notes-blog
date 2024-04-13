@@ -7,7 +7,6 @@ aliases:
   - LMN leision
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231015105728.png|Pasted image 20231015105728.png]]
 >[!tip] 
 >Fasciculations are caused by the spontaneous discharges produced by the damaged lower motor neurons.

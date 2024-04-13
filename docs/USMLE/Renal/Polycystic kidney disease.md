@@ -5,10 +5,9 @@ modified: 2023-08-24 15:19
 aliases: PKD
 share: true
 ---
-
 It is classified into two distinct disorders: autosomal recessive PKD (ARPKD) and autosomal dominant PKD (ADPKD).
 # Epidemiology
-ADPKD: The most common inherited cause of chronic kidney disease
+ADPKD: The most common inherited cause of [[./Chronic kidney disease|chronic kidney disease]]
 
 ---
 # Etiology
@@ -37,21 +36,21 @@ formation and expansion of cysts in the renal cortex and medulla → <span style
 	- <span style="background:rgba(240, 200, 0, 0.2)">Recurrent [[./Urinary tract infections|urinary tract infections]]</span>
 	- [[./Nephrolithiasis|Nephrolithiasis]]
 	- Kidneys might be palpable and enlarged on abdominal exam (they are usually normal at birth)
-	- Signs of chronic kidney disease (e.g., hypertension, fluid overload, uremia)
+	- Signs of [[./Chronic kidney disease|chronic kidney disease]] (e.g., hypertension, fluid overload, uremia)
  - Extrarenal manifestations 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Multiple benign hepatic cysts</span> (prevalence increases with age)
 	- Cysts may also occur in the <span style="background:rgba(240, 200, 0, 0.2)">pancreas</span>, spleen, ovary, and testicles. 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Cerebral berry aneurysm</span> (∼8%) [14]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cerebral berry aneurysm</span> (∼8%)
 		- The risk is higher in patients with a family history positive of ADPKD.
-		- May rupture and cause subarachnoid hemorrhage (the risk for growth and rupture is the same in patients with ADPKD as in the general population)
+		- May rupture and cause [[../Neurology/Intracranial hemorrhage|subarachnoid hemorrhage]] (the risk for growth and rupture is the same in patients with ADPKD as in the general population)
 - Cardiovascular 
 	- Signs of <span style="background:rgba(240, 200, 0, 0.2)">arterial hypertension</span> (e.g., morning [[../Neurology/Headaches|headaches]]) through increased renin production
 	- Heart valve defects (particularly <span style="background:rgba(240, 200, 0, 0.2)">[[../Cardiology/Mitral valve prolapse|mitral valve prolapse]]</span>)
-- Colon diverticula (diverticulosis)
+- Colon [[../GI/Diverticulosis|diverticula]] ([[../GI/Diverticulosis|diverticulosis]])
 ## ARPKD
 - Symptom onset: Symptoms most commonly manifest <span style="background:rgba(240, 200, 0, 0.2)">in infancy or childhood</span>.
 - Renal manifestations
-	- <span style="background:rgba(240, 200, 0, 0.2)">Protruding abdomen (nontender abdominal mass)</span> due to bilateral renal enlargement and/or hepatomegaly
+	- <span style="background:rgba(240, 200, 0, 0.2)">Protruding abdomen (nontender abdominal mass)</span> due to bilateral renal enlargement and/or [[../GI/Hepatomegaly|hepatomegaly]]
 	- Chronic renal failure: frequently hematuria, proteinuria, and oliguria
 	- Severe in-utero renal impairment → oliguria in utero → maternal [[../Reproductive/Oligohydramnios|oligohydramnios]] → [[./Potter sequence|Potter sequence]]
  - Extrarenal manifestation

@@ -5,7 +5,6 @@ modified: 2024-03-04 11:30
 aliases: []
 share: true
 ---
-
 # Predominantly vomiting
 ![[../../assets/img/Pasted image 20240304113050.png|Pasted image 20240304113050.png]]
 # [[./Staphylococcus aureus|Staphylococcus aureus]] food poisoning

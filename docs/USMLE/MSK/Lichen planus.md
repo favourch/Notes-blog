@@ -5,7 +5,6 @@ modified: 2024-02-28 10:30
 aliases: []
 share: true
 ---
-
 <span style="background:rgba(240, 200, 0, 0.2)">Lichen planus is a chronic inflammatory disease of unknown origin</span>, which most commonly affects individuals between 30–60 years of age and is characterized by different types of lesions involving the skin and mucosa.
 # Epidemiology
 ---
@@ -39,8 +38,8 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Hyperkeratosis</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Wedge-shaped hypergranulosis </span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Irregular acanthosis (saw-tooth appearance) </span>
-- Band-like lymphocytic infiltrate at the dermal-epidermal junction 
-![[../../assets/img/Pasted image 20240228104307.png|Pasted image 20240228104307.png]]
+- Band-like lymphocytic infiltrate at the dermal-epidermal junction![[../../assets/img/L76059.png|L76059.png]]
+
 # Differential Diagnostics
 ---
 vs [[./Psoriasis|Psoriasis]]![[../../assets/img/Pasted image 20240228105319.png|Pasted image 20240228105319.png]]

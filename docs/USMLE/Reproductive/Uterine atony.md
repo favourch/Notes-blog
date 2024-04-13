@@ -5,7 +5,6 @@ modified: 2024-03-11 20:16
 aliases: []
 share: true
 ---
-
 <span style="background:rgba(240, 200, 0, 0.2)">Failure of the uterus to effectively contract after complete or incomplete delivery of the placenta</span>, which can lead to severe postpartum bleeding from the myometrial vessels
 # Epidemiology
 ---

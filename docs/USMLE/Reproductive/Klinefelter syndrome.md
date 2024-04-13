@@ -5,7 +5,6 @@ modified: 2024-02-07 16:39
 aliases: []
 share: true
 ---
-
 # Epidemiology
 - One of the most common causes of <span style="background:rgba(240, 200, 0, 0.2)">male hypogonadism</span>
 

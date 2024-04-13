@@ -5,7 +5,6 @@ modified: 2024-03-11 17:19
 aliases: []
 share: true
 ---
-
 # Neonatal soft tissue injuries
 Soft tissue injuries of the scalp in infants are mostly caused by shearing forces during vacuum or forceps delivery.![[../../assets/img/Pasted image 20240311172349.png|Pasted image 20240311172349.png]]
 - Head molding 

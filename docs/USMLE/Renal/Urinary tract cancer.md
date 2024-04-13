@@ -5,7 +5,6 @@ modified: 2023-08-18 15:14
 aliases: Untitled
 share: true
 ---
-
 Urinary tract cancer most commonly involves the bladder, although it may also occur in the renal pelvis, ureters, and, rarely, the urethra.
 # Epidemiology
 - Cancer sites

@@ -6,7 +6,6 @@ aliases:
   - Diabetic nerve damage
 share: true
 ---
-
 # Epidemiology
 - Diabetic polyneuropathy is the most common form of polyneuropathy in high-income countries.
 

@@ -5,7 +5,6 @@ modified: 2023-08-26 15:01
 aliases: MPGN
 share: true
 ---
-
 >[!tip] 
 >Membranoproliferative = mesangial cell proliferate
 - Primary disease occurs mainly in children

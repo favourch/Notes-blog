@@ -7,5 +7,4 @@ aliases:
   - PTH-related protein
 share: true
 ---
-
 A protein produced by malignant cells that has the same function as parathyroid hormone. Production of PTHrP is the most common cause of [[../Cardiology/Hypercalcemia|hypercalcemia]] of malignancy.

@@ -5,7 +5,6 @@ modified: 2024-01-13 11:24
 aliases: []
 share: true
 ---
-
 | 1   | <font color="#ffc000">C</font>ome   | <font color="#ffc000">C</font>ribiform plate          |
 |-----|--------|--------------------------|
 | 2   | <font color="#ffc000">O</font>n     | <font color="#ffc000">O</font>ptic Canal              |

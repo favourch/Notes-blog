@@ -28,6 +28,7 @@ share: true
 - **[[./Malabsorption|Malabsorption]] symptoms**: fatigue, weight loss, vitamin deficiency, iron deficiency [[../Blood/Anemia|anemia]], [[../MSK/Osteoporosis|osteoporosis]], hypocalcemia
 - In children: failure to thrive, growth failure, delayed puberty, secondary [[../Endocrine/Hyperparathyroidism|hyperparathyroidism]]
 - Dermatologic associations: **[[../MSK/Dermatitis herpetiformis|dermatitis herpetiformis]]**
+	- Transglutaminases play a role in forming extensively cross-linked proteins (e.g., elastin, coagulation by factor XIII).
 - Neuropsychiatric symptoms: peripheral neuropathies (numbness, burning and tingling of the hands and feet) , headache, ataxia, depression, irritability
 
 ---

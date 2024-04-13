@@ -6,7 +6,6 @@ aliases:
   - ALS
 share: true
 ---
-
 a neurodegenerative disease with upper and lower motor neuron dysfunction.
 # Epidemiology
 - Mean age of onset is 65 years.
@@ -36,7 +35,7 @@ a neurodegenerative disease with upper and lower motor neuron dysfunction.
 - Split hand sign: a wasting pattern in which the muscles of the thenar eminence atrophy due to degeneration of the lateral portion of the anterior horn of the spinal cord
 ## Late symptoms
 - Cognitive impairment (approx. 15% of ALS patients meet the criteria for [[./Frontotemporal dementia|frontotemporal dementia]])
-- Autonomic symptoms (e.g., constipation, bladder dysfunction) may develop; the mechanism of development is unclear. [1]
+- Autonomic symptoms (e.g., constipation, bladder dysfunction) may develop; the mechanism of development is unclear. 
 - Life-threatening symptoms
 	- Respiratory failure due to paralysis of respiratory muscles
 	- Dysphagia due to bulbar weakness or [[./Bulbar palsy|pseudobulbar palsy]]

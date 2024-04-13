@@ -7,7 +7,6 @@ aliases:
   - β-hCG
 share: true
 ---
-
 # hCG physiology
 - The role of hCG is to:  
 	- <span style="background:rgba(240, 200, 0, 0.2)">Stimulate progesterone secretion by the corpus luteum during the first 3–6 weeks of gestation to maintain pregnancy</span>  

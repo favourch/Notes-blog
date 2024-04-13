@@ -5,7 +5,6 @@ modified: 2024-02-21 11:34
 aliases: []
 share: true
 ---
-
 <span style="background:rgba(240, 200, 0, 0.2)">Myositis ossificans (heterotopic ossification) is a benign, heterotopic ossification of soft tissue and/or skeletal muscle that either occurs </span>congenitally or, more commonly, following soft tissue or muscle injury
 - Etiology
 	- <span style="background:rgba(240, 200, 0, 0.2)">Posttraumatic: especially after implantation of an artificial hip joint or after blunt muscle trauma</span>

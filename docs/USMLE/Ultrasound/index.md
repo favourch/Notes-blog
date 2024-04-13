@@ -7,7 +7,6 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-
 # Transducer types
 phased array, curvilinear (curved, convex) array, linear array
 ![[../../assets/img/Pasted image 20230628223422.png|Pasted image 20230628223422.png]]

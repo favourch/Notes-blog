@@ -6,7 +6,6 @@ modified: 2023-07-20 15:15
 aliases: Untitled
 share: true
 ---
-
 # Classic presentation
 - HiIar lymphadenopathy
 - Cough, dyspnea

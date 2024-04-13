@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2023-07-29 15:30
 modified: 2023-07-29 15:30
-aliases: []
+aliases:
+  - Eczema
 share: true
 ---
 # Epidemiology
@@ -56,6 +57,7 @@ The pathogenesis of atopic dermatitis involves immune dysregulation and genetica
 
 ---
 # Treatment
-
+- Topical steroids (preferred)
+- Topical [[../Immunology/Immunosuppressants|calcineurin inhibitors]]
 
 ---

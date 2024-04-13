@@ -7,7 +7,6 @@ aliases:
   - Wernicke encephalopathy
 share: true
 ---
-
 # Epidemiology
 
 

@@ -5,7 +5,6 @@ modified: 2024-03-08 11:33
 aliases: []
 share: true
 ---
-
 ![[../../assets/img/highresdefault_L15834.jpg|highresdefault_L15834.jpg]]
 # Clinical features
 - Triad of Horner syndrome 

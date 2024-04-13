@@ -5,7 +5,6 @@ modified: 2024-02-01 10:27
 aliases: []
 share: true
 ---
-
 - Definition
 	- A highly malignant gestational trophoblastic disease characterized by invasive, highly vascular, and anaplastic trophoblastic tissue without villi.
 	- Has the tendency to metastasize to the lungs, vagina, CNS, liver, pelvis, GI tract, and kidneys

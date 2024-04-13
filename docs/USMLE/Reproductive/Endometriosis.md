@@ -6,7 +6,6 @@ aliases:
   - Adenomyosis
 share: true
 ---
-
 # Epidemiology
 
 

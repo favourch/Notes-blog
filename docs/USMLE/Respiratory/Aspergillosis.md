@@ -5,7 +5,6 @@ modified: 2023-08-05 17:32
 aliases: Untitled
 share: true
 ---
-
 # Definition
 - <span style="background:rgba(240, 200, 0, 0.2)">Allergic bronchopulmonary aspergillosis (ABPA): a hypersensitivity reaction caused by exposure to Aspergillus that mostly occurs in patients with [[../Biochemistry/Cystic fibrosis|cystic fibrosis]] or [[./Asthma|asthma]]</span>
 - Chronic pulmonary aspergillosis: a long-term Aspergillus infection of the lung which can manifest as:

@@ -7,7 +7,6 @@ aliases:
   - Trichomoniasis
 share: true
 ---
-
 # Bacterial vaginosis
 - Epidemiology: <span style="background:rgba(240, 200, 0, 0.2)">most common</span> vaginal infection in women (22–50% of all cases) 
 - Pathogen: <span style="background:rgba(240, 200, 0, 0.2)">Gardnerella vaginalis</span> (a pleomorphic, gram-variable rod) 

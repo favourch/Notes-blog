@@ -4,9 +4,9 @@ created: 2023-12-12 16:44
 modified: 2023-12-12 16:44
 aliases:
   - Pituitary neuroendocrine tumor
+  - Prolactinoma
 share: true
 ---
-
 # Epidemiology
 
 
@@ -32,7 +32,7 @@ share: true
 
 ---
 # Clinical features
-
+See [[./Hyperprolactinemia|Hyperprolactinemia]]
 
 ---
 # Diagnostics

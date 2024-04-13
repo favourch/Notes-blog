@@ -6,7 +6,6 @@ aliases:
   - Gallstone
 share: true
 ---
-
 - Cholesterol stones (∼ 80% of cases)
 	- Radiolucent with radiopaque areas due to calcifications (< 20%)
 	- Composed of cholesterol and calcium carbonate

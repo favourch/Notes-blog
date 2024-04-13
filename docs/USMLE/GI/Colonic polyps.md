@@ -7,7 +7,6 @@ aliases:
   - PJS
 share: true
 ---
-
 - See [[../Pathology/Hereditary cancer syndromes|Hereditary cancer syndromes]]
 # Adenomatous polyps
 - High malignant potential![[../../assets/img/Pasted image 20231215205130.png|Pasted image 20231215205130.png]]

@@ -5,7 +5,6 @@ modified: 2024-02-16 09:18
 aliases: []
 share: true
 ---
-
 # Epidemiology
 Peak incidence: neonatal period (first 30 days of life) and during puberty (10–14 years)
 

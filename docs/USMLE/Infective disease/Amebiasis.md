@@ -6,7 +6,6 @@ aliases:
   - Entamoeba
 share: true
 ---
-
 # Epidemiology
 ---
 

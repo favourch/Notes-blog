@@ -6,7 +6,6 @@ aliases:
   - Heat stroke
 share: true
 ---
-
 Heatstroke: a life-threatening condition that presents with <span style="background:rgba(240, 200, 0, 0.2)">hyperthermia > 40°C (104°F) and central nervous system dysfunction (e.g., altered mental status).</span>
 # Epidemiology
 ---

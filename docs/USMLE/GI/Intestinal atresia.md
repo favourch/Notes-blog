@@ -6,7 +6,6 @@ aliases:
   - Duodenal atresia
 share: true
 ---
-
 # Duodenal atresia
 - Definitions
 	- Duodenal atresia is the <span style="background:rgba(240, 200, 0, 0.2)">complete occlusion or absence of the duodenal lumen.</span>

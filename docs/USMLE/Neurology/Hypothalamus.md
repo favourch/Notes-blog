@@ -5,7 +5,6 @@ modified: 2024-01-01 15:36
 aliases: []
 share: true
 ---
-
 # Thermoregulation
 The anterior and posterior hypothalamic nuclei work to regulate body temperature by cooling down and heating up the body, respectively.
 >[!Mnemonic] 

@@ -6,7 +6,6 @@ aliases:
   - PSC
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231016163207.png|Pasted image 20231016163207.png]]
 # Epidemiology
 - Sex: ♂ > ♀ (2:1)
@@ -50,7 +49,7 @@ Progressive chronic inflammation of <span style="background:rgba(240, 200, 0, 0.
 	- ↑ [[../Blood/Alkaline phosphatase|ALP]]
 	- ↑ GGT
 	- Normal or ↑ conjugated bilirubin 
-- Transaminases: normal or moderately elevated (approx. 2–3× ULN) AST and ALT  [3]
+- Transaminases: normal or moderately elevated (approx. 2–3× ULN) AST and ALT  
 - Lipid profile: ↑ total cholesterol
 
 >[!Mnemonic] 

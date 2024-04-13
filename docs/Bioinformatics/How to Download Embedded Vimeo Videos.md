@@ -6,7 +6,6 @@ aliases: Untitled
 share: true
 ---
 
-
 1. Open the webpage where the video is embedded
 2. Right-click anywhere on the page and select “Inspect”
 3. Select the “Network” tab

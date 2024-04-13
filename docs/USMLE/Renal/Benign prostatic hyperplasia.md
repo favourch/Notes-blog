@@ -48,9 +48,9 @@ share: true
 
 ---
 # Complications
-- Recurrent UTI 
-	- BPH → incomplete voiding → urinary stasis → predisposition to UTIs
+- Recurrent [[./Urinary tract infections|UTI]] 
+	- BPH → incomplete voiding → urinary stasis → predisposition to [[./Urinary tract infections|UTIs]]
 - Urinary retention with bladder distension and bladder wall thickening (hypertrophy)
 - Bladder calculi
 - <span style="background:rgba(240, 200, 0, 0.2)">Hydronephrosis</span>
-- Chronic kidney disease
+- [[./Chronic kidney disease|Chronic kidney disease]]

@@ -5,7 +5,6 @@ modified: 2024-02-06 10:04
 aliases: []
 share: true
 ---
-
 ## Exceptions to the requirement of parental consent
 - Emergency and/or life-saving interventions (e.g., severe trauma, suicidal ideation, blood [[../Blood/Transfusion|transfusion]] for life-threatening hemorrhage).  
 - The minor is legally emancipated.

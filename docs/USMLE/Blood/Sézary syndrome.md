@@ -5,7 +5,6 @@ modified: 2023-08-24 14:05
 aliases: Untitled
 share: true
 ---
-
 # Definition
 a cutaneous T-cell lymphoma with leukemic dissemination of mutated T cells
 

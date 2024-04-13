@@ -8,7 +8,6 @@ aliases:
   - PCOS
 share: true
 ---
-
 <span style="background:rgba(240, 200, 0, 0.2)">Characterized by hyperandrogenism, oligoovulation/anovulation, and/or the presence of polycystic ovaries</span>
 # Epidemiology
 - Prevalence: 6–12% of women in their reproductive years in the US

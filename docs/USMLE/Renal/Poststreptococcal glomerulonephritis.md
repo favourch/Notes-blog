@@ -11,11 +11,14 @@ share: true
 
 ---
 # Etiology
-Prior infection with group A beta-hemolytic streptococci (GAS, S pyogenes)
+- Prior infection with group A beta-hemolytic streptococci (GAS, S pyogenes)
+	- In children
+		- Infection of the mouth and pharynx (tonsillitis, pharyngitis): PSGN typically arises 1–2 weeks following infection.
+		- <span style="background:rgba(240, 200, 0, 0.2)">Soft tissue infections (erysipelas, impetigo): PSGN typically arises 4–6 weeks following infection.</span>
 
 ---
 # Pathophysiology
-Infection with nephritogenic strains of group A beta-hemolytic streptococci → <span style="background:rgba(240, 200, 0, 0.2)">immune complexes</span> containing the streptococcal antigen deposit within the <span style="background:rgba(240, 200, 0, 0.2)">glomerular basement membrane (Type III hypersensitivity reaction)</span> → <span style="background:rgba(240, 200, 0, 0.2)">[[../Immunology/Complement system|complement]] activation</span> (↑ consumption of [[../Immunology/Complement system|complement]] factors) → destruction of the glomeruli → immune complex-mediated glomerulonephritis and [[./Nephritic syndrome|nephritic syndrome]]
+Infection with nephritogenic strains of group A beta-hemolytic streptococci → <span style="background:rgba(240, 200, 0, 0.2)">immune complexes</span> containing the streptococcal antigen deposit within the <span style="background:rgba(240, 200, 0, 0.2)">glomerular basement membrane ([[../Immunology/Type III hypersensitivity reactions|Type III hypersensitivity reaction]])</span> → <span style="background:rgba(240, 200, 0, 0.2)">[[../Immunology/Complement system|complement]] activation</span> (↑ consumption of [[../Immunology/Complement system|complement]] factors) → destruction of the glomeruli → immune complex-mediated glomerulonephritis and [[./Nephritic syndrome|nephritic syndrome]]
 
 ---
 # Clinical features
@@ -34,7 +37,7 @@ Approx. 50% of patients remain asymptomatic. Symptoms occur approximately 1–6 
 - Urinalysis with microscopy: nephritic sediment
 - C3 [[../Immunology/Complement system|complement]], C4 [[../Immunology/Complement system|complement]] levels: <span style="background:rgba(240, 200, 0, 0.2)">classically shows ↓ C3 [[../Immunology/Complement system|complement]] with normal C4 [[../Immunology/Complement system|complement]]</span>
 >[!tip] 
->If both C3 and C4 [[../Immunology/Complement system|complement]] levels are decreased, consider other causes of glomerulonephritis with low serum complement levels and possible nonrenal causes of low complement levels (e.g., liver failure, nonrenal protein-losing conditions).
+>If both C3 and C4 [[../Immunology/Complement system|complement]] levels are decreased, consider other causes of glomerulonephritis with low serum [[../Immunology/Complement system|complement]] levels and possible nonrenal causes of low complement levels (e.g., liver failure, nonrenal protein-losing conditions).
 
 ## Evidence of preceding GAS infection
 - <span style="background:rgba(240, 200, 0, 0.2)">Antistreptococcal antibody titers</span>

@@ -6,7 +6,6 @@ aliases:
   - Pseudobulbar palsy
 share: true
 ---
-
 - Bulbar palsy is a lower motor neuron palsy that affects the nuclei of the IX<sup>th</sup>, X<sup>th</sup>, XI<sup>th</sup>, and XII<sup>th</sup> cranial nerves. 
 - Pseudobulbar palsy is an upper motor neuron palsy that affects the corticobulbar tracts of the V<sup>th</sup>, VII<sup>th</sup>, IX<sup>th</sup>, X<sup>th</sup>, XI<sup>th</sup>, and XII<sup>th</sup> cranial nerves.
 # Bulbar palsy

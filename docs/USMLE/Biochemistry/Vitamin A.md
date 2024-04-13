@@ -5,7 +5,6 @@ modified: 2023-11-03 10:54
 aliases: Untitled
 share: true
 ---
-
 # Functions
 ![[../../assets/img/Pasted image 20231103105448.png|Pasted image 20231103105448.png]]
 - Vision: component of rhodopsin as 11-cis-retinal

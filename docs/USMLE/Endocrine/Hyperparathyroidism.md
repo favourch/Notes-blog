@@ -5,7 +5,6 @@ modified: 2023-10-03 16:18
 aliases: Untitled
 share: true
 ---
-
 # Primary hyperparathyroidism
 ## Etiology
 - Parathyroid gland adenoma (∼ 85%): benign tumor of the parathyroid glands

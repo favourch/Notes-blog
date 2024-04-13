@@ -8,7 +8,6 @@ aliases:
 share: true
 ---
 
-
 ![[../../assets/img/Pasted image 20230623160626.png|Pasted image 20230623160626.png]]
 # Etiology
 - Primary ITP: idiopathic (most common) 

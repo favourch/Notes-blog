@@ -7,7 +7,6 @@ aliases:
   - Inhaled anesthetics
 share: true
 ---
-
 - Onset of action
 	- Blood:gas partition coefficient (↑higher = slower)
 		- The ratio of anesthetic concentrations in the blood and alveolar space when partial pressures in the two compartments are equal. <span style="background:rgba(240, 200, 0, 0.2)">Higher blood-gas partition coefficients of an inhalational anesthetic correspond to higher solubility in the blood.</span>

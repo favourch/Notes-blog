@@ -8,7 +8,6 @@ aliases:
 share: true
 ---
 
-
 ![[../../assets/img/Pasted image 20231011150953.png|Pasted image 20231011150953.png]]
 ![[../../assets/img/Pasted image 20240308102313.png|Pasted image 20240308102313.png]]
 # [[./Epidural hematoma|Epidural hematoma]]

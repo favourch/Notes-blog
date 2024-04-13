@@ -5,7 +5,6 @@ modified: 2023-08-28 14:20
 aliases: Untitled
 share: true
 ---
-
 # Epidemiology
 - Beta thalassemia:<font color="#ffc000"></font> most commonly seen in people of Mediterranean descent
 - <span style="background:rgba(240, 200, 0, 0.2)">Alpha thalassemia: most commonly seen in people of Asian and African descent</span>

@@ -5,7 +5,6 @@ modified: 2023-08-30 21:52
 aliases: []
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20230909221338.png|Pasted image 20230909221338.png]]
 ![[../../assets/img/Pasted image 20230909164109.png|Pasted image 20230909164109.png]]
 # Mitotic inhibitors (M phase)

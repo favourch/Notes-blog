@@ -6,7 +6,6 @@ aliases:
   - Ovarian tumor
 share: true
 ---
-
 # Epidemiology
 - Incidence 
 	- Second most common gynecological cancer (after endometrial cancer)

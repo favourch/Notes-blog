@@ -7,7 +7,6 @@ aliases:
   - Carcinoid syndrome
 share: true
 ---
-
 # Epidemiology
 
 

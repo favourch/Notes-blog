@@ -9,7 +9,6 @@ aliases:
   - CN III
 share: true
 ---
-
 # Function
 ## Motor (somatic)
 - Eyelid opening (indirect): levator palpebrae superioris muscle 

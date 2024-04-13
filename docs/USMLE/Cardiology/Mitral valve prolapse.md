@@ -6,7 +6,6 @@ aliases:
   - MVP
 share: true
 ---
-
 # Epidemiology
 ---
 

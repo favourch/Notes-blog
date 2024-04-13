@@ -6,7 +6,6 @@ aliases:
   - FHH
 share: true
 ---
-
 A genetic disorder that is characterized by decreased urinary calcium excretion and (usually asymptomatic) [[../Cardiology/Hypercalcemia|hypercalcemia]]. PTH levels are normal in most patients. Caused by an autosomal dominant mutation of a <span style="background:rgba(240, 200, 0, 0.2)">calcium-sensing receptor</span> in the kidneys and parathyroid gland (CaSR gene).![[../../assets/img/Pasted image 20231209111151.png|Pasted image 20231209111151.png]]
 - Clinical features
 	- Usually asymptomatic

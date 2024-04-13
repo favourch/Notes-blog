@@ -44,7 +44,7 @@ A. <span style="background:rgba(240, 200, 0, 0.2)">Five or more of the nine symp
 3. <font color="#ffc000">G</font>uilt or feelings of worthlessness
 4. ↓ <font color="#ffc000">E</font>nergy
 5. ↓ <font color="#ffc000">C</font>oncentration
-6. <font color="#ffc000">A</font>ppetite/weight changes
+6. <font color="#ffc000">A</font>ppetite/weight changes <span style="background:rgba(240, 200, 0, 0.2)">(either gain or loss)</span>
 7. <font color="#ffc000">P</font>sychomotor retardation or agitation
 8. <font color="#ffc000">S</font>uicidal ideation
 
@@ -52,6 +52,9 @@ A. <span style="background:rgba(240, 200, 0, 0.2)">Five or more of the nine symp
 ><font color="#ffc000">SAGE CAPS</font>
 >Imagined a very sad wizard in a fancy hat.
 ><font color="#ffc000">2 weeks = too blue</font>![[../../assets/img/Pasted image 20240315195825.png|Pasted image 20240315195825.png]]
+
+>[!tip] 
+>Some individuals with MDD do not report feeling depressed due to <span style="background:rgba(240, 200, 0, 0.2)">poor recognition or concerns of stigma</span> and may come to their primary care physicians with excessive worry over physical health, pain symptoms (eg, muscle aches, abdominal cramps, [[../Neurology/Headaches|headaches]]), and other [[./Somatic symptom and related disorders|somatic symptoms]] (eg, fatigue, sleep disturbance, appetite change).
 ## Further assessment
 ### Suicide risk
 - Screen all patients with MDD for suicidality.

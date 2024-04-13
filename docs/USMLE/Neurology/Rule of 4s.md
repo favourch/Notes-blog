@@ -6,7 +6,6 @@ aliases: []
 share: true
 ---
 
-
 - 4 CNs in:
 	- Medulla
 	- Pons

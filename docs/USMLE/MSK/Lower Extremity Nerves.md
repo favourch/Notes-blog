@@ -6,7 +6,6 @@ aliases:
   - Lower Extremity Nerve
 share: true
 ---
-
 # Iliohypogastric nerve
 ![[../../assets/img/Pasted image 20231223095230.png|Pasted image 20231223095230.png]]
 

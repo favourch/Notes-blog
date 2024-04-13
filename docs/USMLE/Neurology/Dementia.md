@@ -5,7 +5,6 @@ modified: 2024-01-14 15:18
 aliases: []
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240114151854.png|Pasted image 20240114151854.png]]
 - [[../Psychiatry/Alzheimer disease|Alzheimer disease]]
 - [[./Frontotemporal dementia|Frontotemporal dementia]]

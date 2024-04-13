@@ -6,6 +6,7 @@ aliases:
   - Beta antagonists
   - Beta antagonist
   - Beta blocker
+  - beta-blockers
 share: true
 ---
 # β1

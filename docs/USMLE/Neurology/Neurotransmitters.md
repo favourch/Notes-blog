@@ -30,6 +30,7 @@ share: true
 	- Decreased levels
 		- Depression
 		- [[./Parkinson disease|Parkinson disease]]
+		- [[../Psychiatry/Neuroleptic malignant syndrome|Neuroleptic malignant syndrome]] (D2 receptor blocked)
 
 >[!Mnemonic] Functions of dopamine
 ><font color="#ffc000">D</font> rugs
@@ -65,7 +66,6 @@ share: true
 - Glutamate
 	- <span style="background:rgba(240, 200, 0, 0.2)">Excitatory in the brain, opposite to GABA</span>
 		- Gluta<font color="#ffc000">MATE</font>![[../../assets/img/Pasted image 20240315213851.png|Pasted image 20240315213851.png]]
-	- <span style="background:rgba(240, 200, 0, 0.2)">Glutamate-induced excitotoxicity</span>
-		- ![[../../assets/img/highresdefault_L74653.jpg|highresdefault_L74653.jpg]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Glutamate-induced excitotoxicity</span>![[../../assets/img/highresdefault_L74653.jpg|highresdefault_L74653.jpg]]
 - Glycine
 	- Inhibitory in the spine

@@ -7,7 +7,6 @@ aliases:
   - Starvation
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231203094317.png|Pasted image 20231203094317.png]]2. Free fatty acids -> <font color="#ffc000">three</font> fatty acids
 ![[../../assets/img/Pasted image 20231203100107.png|Pasted image 20231203100107.png]]
 ![[../../assets/img/Pasted image 20231203100119.png|Pasted image 20231203100119.png]]

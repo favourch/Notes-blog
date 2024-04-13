@@ -5,7 +5,6 @@ modified: 2024-03-12 20:25
 aliases: []
 share: true
 ---
-
 - Sources of exposure
 	- Organometallic methylmercury in fish
 - Clinical features

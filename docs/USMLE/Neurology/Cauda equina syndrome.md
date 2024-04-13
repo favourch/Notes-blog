@@ -5,7 +5,6 @@ modified: 2024-03-03 21:58
 aliases: []
 share: true
 ---
-
 # Etiology
 ---
 - Damage to or compression of the <span style="background:rgba(240, 200, 0, 0.2)">cauda equina (nerve fibers L3–S5) located below L2 </span>

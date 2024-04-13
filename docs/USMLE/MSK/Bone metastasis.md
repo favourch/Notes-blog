@@ -5,7 +5,6 @@ modified: 2024-02-07 09:25
 aliases: []
 share: true
 ---
-
 - Classification: based on radiological findings 
 - <span style="background:rgba(240, 200, 0, 0.2)">Osteoblastic metastasis</span>
 	- New bone formation by osteoblasts outweighs osteolytic processes → increase in radiographic density

@@ -5,14 +5,13 @@ modified: 2023-11-26 17:24
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
 ---
 # Etiology
 ## Primary osteoporosis (most common)
-- Type I (postmenopausal osteoporosis): postmenopausal women [2][3]
+- Type I (postmenopausal osteoporosis): postmenopausal women 
 	- Estrogen stimulates osteoblasts and inhibits osteoclasts.
 	- <span style="background:rgba(240, 200, 0, 0.2)">The decreased estrogen levels following [[../Reproductive/Menopause|menopause]] lead to increased bone resorption.</span>
 - Type II (senile osteoporosis): gradual loss of bone mass as patients age (especially > 70 years)

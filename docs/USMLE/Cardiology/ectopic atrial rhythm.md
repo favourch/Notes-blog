@@ -7,5 +7,4 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-
 Could be inverted P wave in lead II, which is normally upward.

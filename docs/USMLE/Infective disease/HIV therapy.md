@@ -6,7 +6,6 @@ aliases: []
 share: true
 ---
 
-
 Left part is for HIV, right part is for other virus.![[../../assets/img/Pasted image 20240114163028.png|Pasted image 20240114163028.png]]
 # NRTIs (Nucleoside reverse transcriptase inhibitors)
 - Medications in class

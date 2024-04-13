@@ -6,7 +6,6 @@ aliases:
   - Yolk sac tumor
 share: true
 ---
-
 # Germ cell tumors
 ## Seminoma
 - Malignant tumor that has slow growth and late metastases

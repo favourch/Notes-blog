@@ -5,14 +5,13 @@ modified: 2024-01-08 10:57
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
 ---
 # Etiology
 - Associated conditions
-	- ADHD and/or OCD (most common)
+	- ADHD and/or [[./Obsessive-compulsive disorder|OCD]] (most common)
 
 ---
 # Pathophysiology

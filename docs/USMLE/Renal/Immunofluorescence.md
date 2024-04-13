@@ -17,7 +17,7 @@ share: true
 ---
 # [[./Nephritic syndrome|Nephritic syndrome]]
 ## [[./Poststreptococcal glomerulonephritis|Poststreptococcal glomerulonephritis]]
-Characteristic by granular (​lumpy-bumpy​) pattern of staining of the GBM![[../../assets/img/Pasted image 20231210144605.png|Pasted image 20231210144605.png]]![[../../assets/img/Pasted image 20230826151448.png|Pasted image 20230826151448.png]]![[../../assets/img/Pasted image 20230826154120.png|Pasted image 20230826154120.png]]
+Characteristic by granular (​lumpy-bumpy​) pattern of staining of the GBM![[../../assets/img/Pasted image 20231210144605.png|Pasted image 20231210144605.png]]![[../../assets/img/Pasted image 20230826151448.png|Pasted image 20230826151448.png]]![[../../assets/img/L71881.png|L71881.png]]![[../../assets/img/Pasted image 20230826154120.png|Pasted image 20230826154120.png]]
 ## [[./Membranoproliferative glomerulonephritis|Membranoproliferative glomerulonephritis]]
 ![[../../assets/img/Pasted image 20230825152436.png|Pasted image 20230825152436.png]]
 ### Type I [[./Membranoproliferative glomerulonephritis|MPGN]]:

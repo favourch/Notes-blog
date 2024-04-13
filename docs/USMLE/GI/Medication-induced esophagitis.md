@@ -7,7 +7,6 @@ aliases:
 share: true
 ---
 
-
 - Etiology: direct mucosal injury caused by prolonged contact with a certain drug 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Antibiotics (e.g., tetracycline, doxycycline, and clindamycin)</span>
 	- Antiinflammatory drugs, NSAIDs, aspirin

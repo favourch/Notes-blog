@@ -6,7 +6,6 @@ aliases:
   - Tocopherol
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231103105718.png|Pasted image 20231103105718.png]]
 # Vitamin E deficiency
 - Deficiency is very rare.

@@ -5,7 +5,6 @@ modified: 2024-02-03 09:29
 aliases: []
 share: true
 ---
-
 ## Normalization
 
 The first step in the DE analysis workflow is count normalization, which is necessary to make accurate comparisons of gene expression between samples.

@@ -30,5 +30,16 @@ share: true
 ### Adverse effects
 - Rash, exfoliative dermatitis, <span style="background:rgba(240, 200, 0, 0.2)">[[../MSK/Stevens-Johnson syndrome|Stevens-Johnson syndrome]] (slow titration is necessary to prevent skin and mucous membrane reactions)</span>
 - Hemophagocytic lymphohistiocytosis
+## Gabapentinoids
+- <span style="background:rgba(240, 200, 0, 0.2)">Pregabalin</span>
+	- Drug combination for long-term treatment of focal seizures
+	- <span style="background:rgba(240, 200, 0, 0.2)">Neuropathic pain</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Neuralgia after herpes infection</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Gabapentin</span>
+	- Second-line treatment for focal seizures
+	- Postherpetic neuralgia
+	- <span style="background:rgba(240, 200, 0, 0.2)">Peripheral (poly)neuropathy</span>
+### Mechanism of action
+- <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of presynaptic</span> P/Q-type <span style="background:rgba(240, 200, 0, 0.2)">Ca2+ channels</span> via action on the α2δ-subunit → ↓ Ca2+ intracellular flow → <span style="background:rgba(240, 200, 0, 0.2)">↓ glutamate release</span>
 # Pregnancy and breastfeeding
 - <span style="background:rgba(240, 200, 0, 0.2)">Classic anticonvulsants (especially carbamazepine and sodium valproate!) should be avoided if possible → [[../Reproductive/Teratogenesis|teratogenic]] effects</span>

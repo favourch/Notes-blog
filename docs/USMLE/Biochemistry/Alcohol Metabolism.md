@@ -7,7 +7,6 @@ aliases:
 share: true
 ---
 
-
 >[!tip] Key Point 
 ><font color="#ffc000">Ethanol metabolism increase NADH/NAD+, which further downregulate [[./Gluconeogenesis|gluconeogenesis]] and [[./TCA cycle|TCA cycle]], and increase lactate.</font>
 

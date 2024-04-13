@@ -6,7 +6,6 @@ aliases:
   - Nitrate
 share: true
 ---
-
 # Adverse effects
 - Circulatory dysregulation: hypotension, reflex sympathetic activity → reflex tachycardia → nitrate syncope
 	- Beta blockers can be applied to counter this mechanism

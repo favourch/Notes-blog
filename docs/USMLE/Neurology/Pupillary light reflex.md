@@ -5,7 +5,6 @@ modified: 2023-12-30 15:07
 aliases: []
 share: true
 ---
-
 1. Retinal ganglion cell neurons (first-order)
 	- Impulses from the retina travel in the afferent optic nerve (CN II) to the optic chiasm
 	- At the optic chiasm

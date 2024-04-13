@@ -7,5 +7,4 @@ aliases:
   - Stop codons
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240206103328.png|Pasted image 20240206103328.png]]

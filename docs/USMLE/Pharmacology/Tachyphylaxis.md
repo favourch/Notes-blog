@@ -5,7 +5,6 @@ modified: 2024-03-02 09:31
 aliases: []
 share: true
 ---
-
 - The underlying mechanism responsible for the <span style="background:rgba(240, 200, 0, 0.2)">decreased effect of a drug involves depletion of the body's stores of an endogenous mediator and downregulation of receptors.</span>
 - Cannot be overcome by increasing the drug dose.
 - Develops quickly (within a few hours of dosing)

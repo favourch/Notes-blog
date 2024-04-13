@@ -5,7 +5,6 @@ modified: 2023-12-22 21:32
 aliases: []
 share: true
 ---
-
 - Normal intracranial ammonia physiology
 	- Glutamate and ammonia exist in a chemical equilibrium with glutamine, mediated by the enzyme glutamine synthetase.
 	- Glutamate serves as a substrate for glutamate decarboxylase to form [[../Neurology/Neurotransmitters|GABA]].

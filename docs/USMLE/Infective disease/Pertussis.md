@@ -7,7 +7,6 @@ aliases:
   - 100-day cough
 share: true
 ---
-
 # Epidemiology
 ---
 

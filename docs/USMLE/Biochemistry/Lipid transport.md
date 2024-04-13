@@ -5,7 +5,6 @@ modified: 2023-10-12 16:20
 aliases: []
 share: true
 ---
-
 See also [[../Cardiology/Lipid-lowering agents|Lipid-lowering agents]]
 >[!tip] Key Points
 >- TG 

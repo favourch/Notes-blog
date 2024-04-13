@@ -5,7 +5,6 @@ modified: 2024-02-11 15:39
 aliases: []
 share: true
 ---
-
 Sequencing Depth/Sequencing Coverage/Depth of Coverage/Read Depth is the average number of times that a particular nucleotide is represented in a collection of random raw sequences ([https://www.nature.com/articles/nrg3642](https://www.nature.com/articles/nrg3642)). Basically, the average number of times you sequenced a nucleotide in the genome or transcript. This is an indication of accuracy. While mostly relevant for genomic sequencing, it can be important in RNA-seq if you are looking for different types of variation. I would recommend reading that linked review.
 Breadth of Coverage refers to what proportion of the bases of a reference genome have a specified depth (i.e., Depth of Coverage)([https://www.metagenomics.wiki/pdf/definition/coverage-read-depth](https://www.metagenomics.wiki/pdf/definition/coverage-read-depth)). The examples given, 90% of the genome is covered at 1X depth - so that means 90% of the full sequence of the genome has been sequence at least once. If it was 70% covered at 5X, then 70% of the nucleotides in the genome have been sequenced five times.
 

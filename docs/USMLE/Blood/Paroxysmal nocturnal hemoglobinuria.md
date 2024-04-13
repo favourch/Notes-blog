@@ -39,7 +39,7 @@ An acquired genetic defect of the hematopoietic stem cell characterized by <span
 # Diagnostics
 - CBC: anemia, thrombocytopenia, and/or pancytopenia ; usually ↑ reticulocytes
 - Hemolysis workup: ↓ haptoglobin
-- Direct Coombs test: negative  [5]
+- Direct Coombs test: negative  
 	- [[../Immunology/Complement system|complement]]-mediated RBC destruction
 - Flow cytometry of peripheral blood (confirmatory test for PNH): can show deficiency of GPI-linked proteins on the surface of RBCs and WBCs (e.g., CD55, CD59) 
 

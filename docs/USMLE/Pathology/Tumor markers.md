@@ -5,7 +5,6 @@ modified: 2024-03-11 15:59
 aliases: []
 share: true
 ---
-
 # Immunohistochemical markers
 - Vimentin	
 	- Intermediate filament in the [[./Cytoskeleton|cytoskeleton]] of <span style="background:rgba(240, 200, 0, 0.2)">mesenchymal cells (e.g., macrophages, fibroblasts, endothelial cells)</span>
@@ -16,7 +15,7 @@ share: true
 			- Chondrosarcoma
 			- Soft tissue sarcomas (e.g., GIST, angiosarcoma, liposarcoma)
 		- Endometrial carcinoma
-		- [[../../../Renal cell carcinoma|Renal cell carcinoma]]
+		- [[../Renal/Renal cell carcinoma|Renal cell carcinoma]]
 		- [[../Neurology/Meningioma|Meningioma]]
 		- [[../../../Mesothelioma|Mesothelioma]]
 - Desmin	

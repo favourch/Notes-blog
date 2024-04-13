@@ -6,7 +6,6 @@ aliases:
   - Trisomy 21
 share: true
 ---
-
 # Epidemiology
 - Most common viable autosomal chromosome aberration (∼ 1:700 live births) and most common genetic cause of cognitive impairment
 - <span style="background:rgba(240, 200, 0, 0.2)">The risk of a Down syndrome pregnancy increases with maternal age.</span>
@@ -37,9 +36,9 @@ share: true
 ## Facial and cranial features (craniofacial dysmorphia)
 - Eyes
 	- Upward-slanting palpebral fissures
-	- <span style="background:rgba(240, 200, 0, 0.2)">Epicanthal folds</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Epicanthal folds</span>![[../../assets/img/Pasted image 20240412111650.png|Pasted image 20240412111650.png]]
 	- Ocular hypertelorism: a distance between the eyes greater than the 95th percentile
-	- <span style="background:rgba(240, 200, 0, 0.2)">Brushfield spots: an aggregation of connective tissue in the periphery of the iris, visible as white or grayish-brown spots.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Brushfield spots: an aggregation of connective tissue in the periphery of the iris, visible as white or grayish-brown spots.</span>![[../../assets/img/Pasted image 20240412111721.png|Pasted image 20240412111721.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Hypoplastic nasal bones, broad and flat nasal bridge</span>
 # Extremities, soft tissue, and skeletal features
 - Extremities

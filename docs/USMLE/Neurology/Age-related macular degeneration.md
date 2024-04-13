@@ -6,7 +6,6 @@ aliases:
   - AMD
 share: true
 ---
-
 # Epidemiology
 - AMD is the leading cause of blindness in individuals > 65 years in developed countries.
 	- Age of onset: usually > 55 years

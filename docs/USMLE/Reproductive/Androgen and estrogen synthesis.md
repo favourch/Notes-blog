@@ -8,7 +8,6 @@ aliases:
 share: true
 ---
 
-
 # Androgen
 - Four types of androgen: testosterone, dihydrotestosterone (DHT), androstenedione, dehydroepiandrosterone (DHEA)
 - <span style="background:rgba(240, 200, 0, 0.2)">Androstenedione and dehydroepiandrosterone (DHEA) are substrate in testosterone and estrogen synthesis</span>
@@ -28,6 +27,9 @@ Although the majority of testosterone is produced by the Leydig cells in the tes
 - <span style="background:rgba(240, 200, 0, 0.2)">Enzymatic pathways trigger DHEA and androstenedione production in the zona reticularis.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Androstenedione is converted into testosterone, which is then transformed into dihydrotestosterone via 5α-reductase.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Aromatase converts testosterone into estradiol and androstenedione, which is then transformed into estrone.</span>
+>[!Mnemonic] 
+>Girls' body are more <font color="#ffc000">fragrant</font>...So <font color="#ffc000">aromatase</font> converts from andro- to estrogen.
+
 >[!tip] 
 >The testosterone and estrogen precursors DHEA and androstenedione are produced in the adrenal cortex in both male and female individuals. Testosterone is produced by Leydig cells in the testicles and, to a lesser degree, by the theca interstitial cells in the ovaries.
 # Estrogen

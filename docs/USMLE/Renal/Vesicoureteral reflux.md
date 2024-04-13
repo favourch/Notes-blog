@@ -14,7 +14,7 @@ share: true
 <span style="background:rgba(240, 200, 0, 0.2)">Short intramural ureter</span> → vesicoureteric junction (VUJ) fails to close completely during bladder contraction → VUR![[../../assets/img/highresdefault_L87924.jpg|highresdefault_L87924.jpg]]
 ## Secondary VUR
 - Bladder outlet obstruction (anatomic/functional): high pressure within the bladder → reflux of urine through the VUJ![[../../assets/img/Pasted image 20230823172334.png|Pasted image 20230823172334.png]]
-- Anatomic: posterior urethral valves ; urethral meatal stenosis
+- Anatomic: [[./Posterior urethral valves|posterior urethral valves]] ; urethral meatal stenosis
 
 ---
 # Pathophysiology

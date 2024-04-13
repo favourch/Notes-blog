@@ -6,7 +6,6 @@ aliases:
   - Benzodiazepines
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240315154449.png|Pasted image 20240315154449.png]]
 # Benzodiazepines
 ## Agents

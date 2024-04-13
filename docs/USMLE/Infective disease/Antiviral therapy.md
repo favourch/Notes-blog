@@ -5,7 +5,6 @@ modified: 2023-12-22 09:10
 aliases: []
 share: true
 ---
-
 Left part is for HIV, right part is for other virus.![[../../assets/img/Pasted image 20240114163028.png|Pasted image 20240114163028.png]]
 >[!tip] 
 >See [[./HIV therapy|HIV therapy]] for NRTIs and NNRTIs...

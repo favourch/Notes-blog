@@ -8,7 +8,6 @@ aliases:
 share: true
 ---
 
-
 # Etiology
 - <mark style="background: #FFF3A34A;">Premature birth</mark>
 - <mark style="background: #FFF3A34A;">[[../Reproductive/Diabetes mellitus in pregnancy|Maternal diabetes]] mellitus: leads to ↑ fetal insulin, which inhibits surfactant synthesis</mark>

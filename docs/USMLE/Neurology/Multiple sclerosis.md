@@ -5,7 +5,6 @@ modified: 2023-09-07 16:46
 aliases: Untitled
 share: true
 ---
-
 >[!tip] Key points
 >- Multiple sclerosis (MS) is a <span style="background:rgba(240, 200, 0, 0.2)">chronic degenerative disease of the CNS characterized by demyelination and axonal degeneration in the brain and spinal cord, which are caused by an immune-mediated inflammatory process.</span>
 >- <span style="background:rgba(240, 200, 0, 0.2)">Impaired vision (due to retrobulbar neuritis) is usually the first manifestation of MS</span>; other neurological deficits appear as the disease progresses. The most common clinical course is characterized by <span style="background:rgba(240, 200, 0, 0.2)">exacerbations followed by periods of complete or incomplete remission.</span>

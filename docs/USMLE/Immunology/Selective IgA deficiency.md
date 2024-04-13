@@ -7,7 +7,6 @@ aliases:
   - IgA deficiency
 share: true
 ---
-
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">most common primary immunodeficiency</span> that is characterized by a near or total absence of serum and secretory IgA
 - Clinical features
 	- Often asymptomatic

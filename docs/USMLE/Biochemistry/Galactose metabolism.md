@@ -7,7 +7,6 @@ aliases:
   - Galactosemia
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231203113815.png|Pasted image 20231203113815.png]]Galactitol accumulates if diet has galactose.![[../../assets/img/Pasted image 20231203113736.png|Pasted image 20231203113736.png]]
 
 ---

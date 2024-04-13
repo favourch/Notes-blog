@@ -5,7 +5,6 @@ modified: 2024-03-12 16:47
 aliases: []
 share: true
 ---
-
 <span style="background:rgba(240, 200, 0, 0.2)">Defective decidual layer of the placenta leading to abnormal attachment and separation during postpartum period</span>![[../../assets/img/Pasted image 20240312164749.png|Pasted image 20240312164749.png]]
 # Epidemiology
 ---

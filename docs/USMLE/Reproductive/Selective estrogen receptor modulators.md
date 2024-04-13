@@ -10,7 +10,6 @@ aliases:
   - Clomiphene
 share: true
 ---
-
 # Tamoxifen
 ## Mechanism of action
 - Competitive <span style="background:rgba(240, 200, 0, 0.2)">antagonist on the estrogen receptors of the breast</span> → ↓ breast cancer cell growth

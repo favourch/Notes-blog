@@ -7,7 +7,6 @@ aliases:
 share: true
 ---
 
-
 >[!Mnemonic] 
 >W for Wabbit, with the tuning fork like rabbit ears
 

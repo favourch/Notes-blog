@@ -5,7 +5,6 @@ modified: 2024-03-08 17:01
 aliases: []
 share: true
 ---
-
 # Epidemiology
 ---
 - The most common autosomal recessive ataxia

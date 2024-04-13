@@ -5,7 +5,6 @@ modified: 2024-03-01 20:38
 aliases: []
 share: true
 ---
-
 # Secondary amenorrhea
 - Etiology
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Pregnancy|Pregnancy]]: most common cause of secondary amenorrhea</span>

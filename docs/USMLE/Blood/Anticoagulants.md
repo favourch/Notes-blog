@@ -7,7 +7,6 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-
 # Physiologic anticoagulants
 - Inhibit intrinsic pathway: 
 	- Antithrombin (with heparin): inhibit factor 2(thrombin), 9, 10, 11, 12

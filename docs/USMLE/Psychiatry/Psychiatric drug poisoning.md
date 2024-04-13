@@ -5,7 +5,6 @@ modified: 2024-03-11 15:17
 aliases: []
 share: true
 ---
-
 # Antidepressant overdose
 ## Tricyclic antidepressant overdose
 ### Mechanism of action

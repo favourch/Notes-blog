@@ -7,7 +7,6 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-
 ![[../../assets/img/Pasted image 20230701151905.png|Pasted image 20230701151905.png]]
 
 | Pathogen                                             |                         | Reservoir                | Characteristics                                                                                                                                                                                                                  | Virulence factors and resistances                                                                                                                                                                                                                                                                                                                                                                       | Diseases                                                                                                                                                                                           |                                                                                                                                                       | Antibiotic of choice                                                                                                      |

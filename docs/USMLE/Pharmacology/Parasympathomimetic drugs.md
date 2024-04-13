@@ -7,7 +7,6 @@ aliases:
 share: true
 ---
 
-
 # Indirect parasympathomimetics
 Inhibit AchE → ↓ breakdown of ACh → ↑ ACh levels
 - Neostigmine

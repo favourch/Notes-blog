@@ -5,7 +5,6 @@ modified: 2024-03-01 21:29
 aliases: []
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240301212953.png|Pasted image 20240301212953.png]]
 Normal squamous epithelial cells are present. 
 - The cells with blue (cyanophilic) cytoplasm on the left of the image are intermediate cells (marked by blue dotted line). 

@@ -6,7 +6,6 @@ aliases:
   - Diaper dermatitis
 share: true
 ---
-
 # Epidemiology
 Typically seen in infants
 

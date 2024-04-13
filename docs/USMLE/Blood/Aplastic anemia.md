@@ -6,7 +6,6 @@ aliases:
   - Fanconi anemia
 share: true
 ---
-
 - Description
 	- <span style="background:rgba(240, 200, 0, 0.2)">Pancytopenia caused by bone marrow insufficiency </span>
 	- Should not be confused with aplastic crisis, a condition in which erythropoiesis is temporarily suppressed (e.g., due to parvovirus B19 infection in patients with hemolytic anemias)

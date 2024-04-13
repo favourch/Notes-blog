@@ -7,7 +7,6 @@ aliases:
   - Frontotemporal lobar degeneration
 share: true
 ---
-
 # Epidemiology
 - Age of onset: usually between 40 and 60 years <span style="background:rgba(240, 200, 0, 0.2)">(typically younger than in [[../Psychiatry/Alzheimer disease|Alzheimer disease]])</span>
 

@@ -6,7 +6,6 @@ aliases:
   - Cancer syndromes
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240310204817.png|Pasted image 20240310204817.png]]
 - [[../GI/Lynch syndrome|Lynch syndrome]]
 - [[../GI/Colonic polyps|Colon polyps]]

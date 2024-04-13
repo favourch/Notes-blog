@@ -26,6 +26,7 @@ share: true
 	- Cortical atrophy with associated problems with concentration and reasoning
 	- <span style="background:rgba(240, 200, 0, 0.2)">Seizures </span>
 		- As a result of dehydration and electrolyte imbalances
+	- <span style="background:rgba(240, 200, 0, 0.2)">Depressed mood, fatigue, and poor concentration</span>
 - Cardiac	
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hypotension</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cardiac arrhythmia (bradycardia)</span>
@@ -43,7 +44,7 @@ share: true
 	- Growth retardation in children and adolescents
 - Skin and hair	
 	- Dry skin
-	- Wound healing disorders
+	- [[../Pathology/Wound healing|Wound healing]] disorders
 	- Hair loss
 	- Lanugo body hair
 

@@ -5,7 +5,6 @@ modified: 2023-12-06 22:09
 aliases: []
 share: true
 ---
-
 Diabetic gastroparesis is a complication of long-term [[./Diabetes mellitus|diabetes]] characterized by <span style="background:rgba(240, 200, 0, 0.2)">delayed gastric emptying that is not associated with mechanical obstruction.</span>
 # Epidemiology
 

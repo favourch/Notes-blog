@@ -5,7 +5,6 @@ modified: 2023-08-31 21:06
 aliases: Wilms tumor
 share: true
 ---
-
 # Epidemiology
 - Peak incidence: between 2 and 5 years 
 - Most common malignant neoplasm of the kidney in children
@@ -14,7 +13,7 @@ share: true
 # Etiology
 Can be associated with loss-of-function mutations of tumor suppressor genes WT1 or WT2 on chromosome 11 (W11ms tumor).
 ## Associated syndromes
-- <span style="background:rgba(240, 200, 0, 0.2)">WAGR syndrome</span>: Deletion of the 11p13 band leads to the deletion of the WT1 gene and other genes, such as PAX6. [6]
+- <span style="background:rgba(240, 200, 0, 0.2)">WAGR syndrome</span>: Deletion of the 11p13 band leads to the deletion of the WT1 gene and other genes, such as PAX6. 
 	- Nephroblastoma
 	- Aniridia 
 	- Genitourinary anomalies

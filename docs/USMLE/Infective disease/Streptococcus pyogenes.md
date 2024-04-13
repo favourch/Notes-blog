@@ -5,7 +5,6 @@ modified: 2023-12-15 10:46
 aliases: []
 share: true
 ---
-
 # Virulence factors and resistances
 - Toxins
 	- <span style="background:rgba(240, 200, 0, 0.2)">Erythrogenic exotoxin A</span>

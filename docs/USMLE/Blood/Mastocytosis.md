@@ -5,7 +5,6 @@ modified: 2023-12-20 17:02
 aliases: []
 share: true
 ---
-
 <span style="background:rgba(240, 200, 0, 0.2)">Mast cell: Originate from same precursor as basophils; contain basophilic granules</span>![[../../assets/img/Pasted image 20231220170536.png|Pasted image 20231220170536.png]]
 a rare disorder characterized by abnormal mast cell proliferation and accumulation in tissues.
 - Subtypes

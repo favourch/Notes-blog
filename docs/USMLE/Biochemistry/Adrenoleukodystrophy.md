@@ -5,7 +5,6 @@ modified: 2023-11-27 17:25
 aliases: []
 share: true
 ---
-
 - Definition: a rare X-linked neurological disease usually seen in young men
 >[!Mnemonic] 
 >The name adrenoleukodystrophy means dystrophy (tissue wasting) of the adrenals and the white matter (leuko) of the nervous system.

@@ -6,7 +6,6 @@ aliases:
   - AIP
 share: true
 ---
-
 # Epidemiology
 
 

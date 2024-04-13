@@ -5,7 +5,6 @@ modified: 2024-02-20 10:56
 aliases: []
 share: true
 ---
-
 - Epidemiology
 	- Found primarily in <span style="background:rgba(240, 200, 0, 0.2)">tropical and subtropical regions</span> (e.g., Central and South America, Caribbean, sub-Saharan Africa, Southern and Western Asia, and Europe)
 - Etiology

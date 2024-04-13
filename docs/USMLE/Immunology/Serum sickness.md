@@ -5,7 +5,6 @@ modified: 2024-02-25 16:21
 aliases: []
 share: true
 ---
-
 Serum sickness is a classic example of a <span style="background:rgba(240, 200, 0, 0.2)">type III hypersensitivity reaction</span>, which usually develops as a complication of antitoxin or antivenom administration.
 # Epidemiology
 

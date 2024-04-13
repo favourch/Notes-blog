@@ -5,7 +5,6 @@ modified: 2023-12-18 16:20
 aliases: []
 share: true
 ---
-
 # Etiology
 - Genetic factors
 	- Medullary carcinoma: associated with MEN2 (RET gene mutations) or familial medullary carcinoma

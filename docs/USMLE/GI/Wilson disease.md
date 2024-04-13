@@ -6,7 +6,6 @@ aliases:
   - Hepatolenticular degeneration
 share: true
 ---
-
 - <span style="background:rgba(240, 200, 0, 0.2)">Impaired copper excretion causes copper to accumulate in the body. </span>
 - Early-stage Wilson disease is characterized by the presence of copper deposits in the liver. 
 - As the disease progresses, copper accumulates in other organs as well, most importantly in the brain and cornea.

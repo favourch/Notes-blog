@@ -5,7 +5,6 @@ modified: 2024-02-09 17:54
 aliases: []
 share: true
 ---
-
 # Physiological changes during pregnancy
 ## Renal system
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Renal plasma flow → ↑ GFR</span> → ↓ BUN and creatinine

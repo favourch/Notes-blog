@@ -6,7 +6,6 @@ aliases:
   - Trisomy
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231228163326.png|Pasted image 20231228163326.png]]
 # [[./Down syndrome|Down syndrome]]
 # Edwards syndrome

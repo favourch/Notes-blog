@@ -7,7 +7,6 @@ aliases:
 share: true
 ---
 
-
 # Anaphylactic [[./Transfusion|transfusion]] reaction
 - Pathophysiology
 	- [[../Immunology/Type I hypersensitivity reaction|Type I hypersensitivity reaction]] in which <span style="background:rgba(240, 200, 0, 0.2)">preformed IgE antibodies on the surface of mast cells bind to donor plasma proteins (commonly donor IgA in recipients with [[../Immunology/Selective IgA deficiency|IgA deficiency]])</span>, leading to mast cell degranulation

@@ -7,7 +7,6 @@ aliases:
   - APS
 share: true
 ---
-
 Antiphospholipid syndrome (APS) is an autoimmune disease associated with <span style="background:rgba(240, 200, 0, 0.2)">increased risk of thrombosis due to the presence of procoagulatory antibodies.</span>
 # Etiology
 - Primary

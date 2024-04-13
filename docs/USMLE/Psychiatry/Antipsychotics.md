@@ -58,6 +58,9 @@ share: true
 # Second-generation antipsychotics (SGAs)
 ## Clozapine
 - <span style="background:rgba(240, 200, 0, 0.2)">Most effective antipsychotic</span>
+- Indications
+	- <span style="background:rgba(240, 200, 0, 0.2)">Treatment-resistant schizophrenia</span>
+	- Schizophrenia associated with <span style="background:rgba(240, 200, 0, 0.2)">suicidality</span>
 - Clozapine can cause agranulocytosis and lowers the seizure threshold
 >[!Mnemonic] 
 >You must watch <font color="#ffc000">cloz</font>apine <font color="#ffc000">cloz</font>ely to monitor for agranulocytosis!![[../../assets/img/Pasted image 20240315151042.png|Pasted image 20240315151042.png]]

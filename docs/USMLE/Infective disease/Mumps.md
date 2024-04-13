@@ -5,7 +5,6 @@ modified: 2023-11-01 10:29
 aliases: Untitled
 share: true
 ---
-
 # Epidemiology
 
 
@@ -31,7 +30,7 @@ share: true
 # Complications
 ## <span style="background:rgba(240, 200, 0, 0.2)">Orchitis</span>
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">inflammation of the testis</span>
-- Epidemiology: most common complication of mumps in postpubertal male individuals (20–30% in unvaccinated postpubertal and 6–7% in vaccinated males) [6][9]
+- Epidemiology: most common complication of mumps in postpubertal male individuals (20–30% in unvaccinated postpubertal and 6–7% in vaccinated males) 
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Sudden onset of fever, nausea, vomiting</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Swollen and tender affected testicle(s)</span>; primarily unilateral, although bilateral in ∼ 15% of cases

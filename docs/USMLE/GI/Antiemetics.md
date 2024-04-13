@@ -6,5 +6,4 @@ aliases:
   - Antiemetic
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240305165724.png|Pasted image 20240305165724.png]]

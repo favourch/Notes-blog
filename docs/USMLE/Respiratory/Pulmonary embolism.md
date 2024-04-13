@@ -7,7 +7,6 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-
 # ECG
 ECG changes may be due to right ventricular strain and pressure overload.
 Most common findings 

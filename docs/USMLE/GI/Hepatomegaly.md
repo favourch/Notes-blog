@@ -6,7 +6,6 @@ aliases: []
 share: true
 ---
 
-
 # Causes of tender hepatomegaly
 ## Acute hepatitis
 - Infection (eg, [[./Hepatitis A|hepatitis A]] virus, hepatitis E virus, bacterial, parasitic)

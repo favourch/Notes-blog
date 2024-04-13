@@ -5,7 +5,6 @@ modified: 2024-03-15 16:21
 aliases: []
 share: true
 ---
-
 # Epidemiology
 ---
 
@@ -23,7 +22,7 @@ share: true
 # Clinical features
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">Mental status changes (encephalopathy)</span>
-	- Delirium (e.g., reduced vigilance)
+	- [[./Delirium|Delirium]] (e.g., reduced vigilance)
 	- Confusion
 	- Stupor
 	- Catatonia

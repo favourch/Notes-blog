@@ -11,7 +11,7 @@ share: true
 >1. Cluster A (weird) will <font color="#ffc000">pass</font> the party
 >2. Cluster B (wild) will come to the party, but they are likely getting <font color="#ffc000">banned </font>from future parties
 >3. Cluster C (worried) will come to the party, but the party will be <font color="#ffc000">dead on arrival</font>, because they will drag down the spirit
-# Cluster A personalities
+# Cluster A
 ## Paranoid personality disorder
 Don't trust others
 ## Schizoid personality disorder
@@ -19,6 +19,8 @@ Don't trust others
 - Comfortable with social isolation (unlike in avoidant personality disorder)
 >[!Mnemonic] 
 >Schiz-<font color="#ffc000">avoid</font>
+## Schizotypal personality disorder
+Unusual/magical thoughts, perceptions & behavior
 # Cluster B
 <span style="background:rgba(240, 200, 0, 0.2)">Antisocial and borderline tend to be severely socially disabling (e.g. cannot find a job or maintain a relationship), while histrionic and narcissistic are mild.</span>
 ## Borderline personality disorder
@@ -32,3 +34,8 @@ Attention-seeking
 ## Narcissistic personality disorder
 - Excessive sense of self-importance (e.g., exaggerates achievements)
 - Exploitation of others to achieve their own goals
+# Cluster C
+- Avoidant: avoidance due to fears of criticism & rejection
+	- <span style="background:rgba(240, 200, 0, 0.2)">But they strongly desire relationships and social acceptance, different from schizoid</span>
+- Dependent: submissive, clingy, needs to be taken care of
+- Obsessive-compulsive: rigid, controlling, perfectionistic

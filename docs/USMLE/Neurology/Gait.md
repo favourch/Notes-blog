@@ -7,7 +7,6 @@ aliases:
 share: true
 ---
 
-
 # Ataxic gait
 - Unsteady and wide-based gait with irregular, uncoordinated movements
 ## Cerebellar ataxic gait

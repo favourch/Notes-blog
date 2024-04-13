@@ -5,7 +5,6 @@ modified: 2023-12-12 16:57
 aliases: []
 share: true
 ---
-
 # Epidemiology
 
 
@@ -18,16 +17,16 @@ share: true
 - Drugs
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[../Neurology/Neurotransmitters|Dopamine]] antagonists: </span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[../GI/Antiemetics|Antiemetics]]: metoclopramide, domperidone </span>
-		- <span style="background:rgba(240, 200, 0, 0.2)">Antipsychotics (e.g., haloperidol, risperidone)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[../Psychiatry/Antipsychotics|Antipsychotics]] (e.g., haloperidol, risperidone)</span>
 	- Certain tricyclic [[../Psychiatry/Antidepressants|antidepressants]]: e.g., clomipramine
-- Physiological causes: stress, pregnancy, lactation, nipple stimulation, crying baby, sexual orgasm, sleep, exercise
+- Physiological causes: stress, [[../Reproductive/Pregnancy|pregnancy]], lactation, nipple stimulation, crying baby, sexual orgasm, sleep, exercise
 >[!tip] 
 >The dopamine-prolactin pathway ([[../Neurology/Dopaminergic pathway|tuberoinfundibular pathway]]) is unique among other pathways, as dopamine inhibits prolactin.
 
 ---
 # Pathophysiology
 - ↑ Prolactin → galactorrhea
-- <span style="background:rgba(240, 200, 0, 0.2)">↑ Prolactin → suppression of GnRH → ↓ LH, ↓ FSH → ↓ estrogen, ↓ testosterone → hypogonadotropic hypogonadism</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Prolactin → suppression of GnRH → ↓ LH, ↓ FSH → ↓ [[../Reproductive/Androgen and estrogen synthesis|estrogen]], ↓ testosterone → hypogonadotropic hypogonadism</span>
 
 ---
 # Clinical features
@@ -40,6 +39,9 @@ share: true
 
 >[!tip] 
 >Patients with hyperprolactinemia due to a [[./Pituitary adenoma|pituitary adenoma]] may also present with bitemporal hemianopsia and headache.
+## Female
+- Premenopausal women: oligomenorrhea/[[../Reproductive/Amenorrhea|amenorrhea]], infertility, galactorrhea, hot flashes, decreased bone density
+- Postmenopausal women: mass-effect symptoms (headache, visual field defects)
 
 ---
 # Diagnostics

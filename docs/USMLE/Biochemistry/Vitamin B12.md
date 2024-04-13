@@ -8,7 +8,6 @@ aliases:
   - subacute combined degeneration
 share: true
 ---
-
 # Functions
 - Cofactor for enzymes:
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Methionine|Methionine]] synthase: Methylcobalamin is required for the transfer of methyl groups (e.g., in DNA synthesis).</span>![[../../assets/img/Pasted image 20231225210715.png|Pasted image 20231225210715.png]]
@@ -25,7 +24,7 @@ share: true
 		- Atrophic gastritis due to
 			- Autoimmune atrophic gastritis: most common cause of vitamin B12 deficiency
 			- H. pylori infection
-		- Gastrectomy [1]
+		- Gastrectomy 
 	- Reduced uptake of IF-vitamin B12 complex in terminal ileum due to:
 		- Alcohol use disorder
 		- [[../GI/Crohn disease|Crohn disease]], [[../GI/Celiac disease|celiac disease]]
@@ -65,7 +64,7 @@ share: true
 
 ---
 # Clinical features
-- Signs of anemia (e.g., fatigue, pallor) [3]
+- Signs of anemia (e.g., fatigue, pallor) 
 - Neurological disturbances are generally symmetrical
 	- Peripheral neuropathy: tingling, numbness, pins-and-needles sensation, coldness (especially in the lower extremities)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Subacute combined degeneration of spinal cord: symmetrical demyelination of the spinal cord tracts occurs in vitamin B12 deficiency due to insufficient vitamin B12-dependent fatty acid synthesis and production/maintenance of myelin</span>

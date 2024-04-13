@@ -5,7 +5,6 @@ modified: 2024-03-12 16:09
 aliases: []
 share: true
 ---
-
 Condition in which the <span style="background:rgba(240, 200, 0, 0.2)">fetal vessels are located in the membranes near the internal os of the cervix</span>, putting them at risk of injury if the membranes rupture
 # Epidemiology
 ---

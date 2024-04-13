@@ -5,7 +5,6 @@ modified: 2024-02-27 14:21
 aliases: []
 share: true
 ---
-
 - Definition
 	- Physiological preovulatory pain in female individuals of reproductive age
 	- Also referred to as ovulatory or midcycle pain

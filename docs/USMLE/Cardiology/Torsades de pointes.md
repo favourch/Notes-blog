@@ -36,7 +36,7 @@ share: true
 ---
 # Treatment
 - Hemodynamically unstable patients: Defibrillation plus CPR. 
-- Hemodynamically stable patients: Administer IV magnesium sulfate. [3]
+- Hemodynamically stable patients: Administer IV magnesium sulfate. 
 - Identify and treat the underlying etiology of QT prolongation.
 
 ---

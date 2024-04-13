@@ -7,7 +7,6 @@ aliases:
   - MNG
 share: true
 ---
-
 # Epidemiology
 
 

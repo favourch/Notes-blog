@@ -5,7 +5,6 @@ modified: 2024-02-07 15:45
 aliases: []
 share: true
 ---
-
 - Etiology
 	- Congenital![[../../assets/img/Pasted image 20240207154742.png|Pasted image 20240207154742.png]]
 		- Intrinsic: malformation of the smooth muscle of a ureteral segment and consecutive impairment of peristalsis (functional stenosis)

@@ -7,7 +7,6 @@ aliases:
   - Hypertensive crisis
 share: true
 ---
-
 # Epidemiology
 ---
 

@@ -28,6 +28,11 @@ share: true
 	- Disorganized speech
 	- Grossly disorganized or catatonic behavior
 	- Negative symptoms
+		- Apathy: lack of motivation
+		- Social withdrawal
+		- Flat affect: emotional flattening/monotone speech
+		- Poverty (lack) of speech
+		- Anhedonia: inability to experience pleasure
 - The above symptoms <span style="background:rgba(240, 200, 0, 0.2)">persist for ≥ 1 month.</span>
 - There are <span style="background:rgba(240, 200, 0, 0.2)">continuous cognitive or affective disturbances for ≥ 6 months.</span>
 - Symptoms must cause social, occupational, or personal functional impairment lasting ≥ 6 months.

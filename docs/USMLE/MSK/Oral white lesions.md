@@ -9,7 +9,6 @@ aliases:
   - Oral lichen planus
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231207103929.png|Pasted image 20231207103929.png]]
 # Leukoplakia
 - Persistent white plaques that cannot be scraped off

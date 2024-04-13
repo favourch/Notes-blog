@@ -6,7 +6,6 @@ aliases:
   - Babesia
 share: true
 ---
-
 # Epidemiology
 ---
 

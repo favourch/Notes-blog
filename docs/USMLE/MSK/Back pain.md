@@ -17,7 +17,7 @@ share: true
 	- Relieved by spinal flexion
 - Spondyloarthropathy
 	- <span style="background:rgba(240, 200, 0, 0.2)">Young men</span>
-	- HLA-B27
+	- [[../Immunology/HLA system|HLA-B27]]
 	- Relieved with exercise
 	- <span style="background:rgba(240, 200, 0, 0.2)">Prolonged morning stiffness</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Spinal metastasis</span>

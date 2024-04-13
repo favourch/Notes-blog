@@ -5,12 +5,12 @@ modified: 2023-08-07 17:05
 aliases: Untitled
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20230807170545.png|Pasted image 20230807170545.png]]
 # Virulence factors
 - Antiphagocytic capsule
 	- B. anthracis is the only bacterium that is capable of forming a polypeptide capsule 
 	- Contains poly-D-glutamate
+
   >[!tip] 
 >The capsule protects the bacterium from lysis following phagocytosis. B. anthracis is not infectious if not encapsulated.
 

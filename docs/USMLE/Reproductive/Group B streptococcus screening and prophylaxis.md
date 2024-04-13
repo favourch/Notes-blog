@@ -6,7 +6,6 @@ aliases:
   - GBS
 share: true
 ---
-
 Maternal colonization with group B streptococcus (GBS) is the most significant risk factor for early-onset neonatal GBS infections.
 # Prenatal screening for GBS
 ## Indications

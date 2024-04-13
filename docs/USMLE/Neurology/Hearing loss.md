@@ -6,7 +6,6 @@ aliases:
   - presbycusis
 share: true
 ---
-
 # Subtypes and variants
 ## Presbycusis
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">age-related, sensorineural hearing loss</span>

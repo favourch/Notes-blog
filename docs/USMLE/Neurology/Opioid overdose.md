@@ -5,7 +5,6 @@ modified: 2023-12-24 17:05
 aliases: []
 share: true
 ---
-
 # Epidemiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Opioid overdose is the most common cause of [[../Psychiatry/Psychoactive drug intoxication and withdrawal|drug overdose]] death.</span>
 

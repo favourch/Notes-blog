@@ -7,7 +7,6 @@ aliases:
   - Maternal diabetes
 share: true
 ---
-
 # Pathophysiology
 - Human placental lactogen (HPL, aka human chorionic somatomammotropin): a hormone synthesized by syncytiotrophoblasts of the placenta, which promotes the production of insulin-like growth factors.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Causes insulin resistance to supply growing fetus with glucose and amino acids.</span>

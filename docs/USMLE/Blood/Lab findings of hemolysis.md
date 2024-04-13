@@ -7,5 +7,4 @@ aliases:
   - extravascular hemolysis
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231209103354.png|Pasted image 20231209103354.png]]

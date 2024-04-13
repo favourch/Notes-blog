@@ -5,7 +5,6 @@ modified: 2024-01-06 10:35
 aliases: []
 share: true
 ---
-
 - Broca area in inferior frontal gyrus of frontal lobe. Associated with defective language production, aka expressive aphasia. Patients appear frustrated, insight intact.
 >[!Mnemonic] 
 >Think of a pull string doll that will talk when you pull on its string.

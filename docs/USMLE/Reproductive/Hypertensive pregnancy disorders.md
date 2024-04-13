@@ -6,7 +6,6 @@ aliases:
   - Eclampsia
 share: true
 ---
-
 # Definition
 ---
 - Preeclampsia: new-onset gestational hypertension with proteinuria or end-organ dysfunction 

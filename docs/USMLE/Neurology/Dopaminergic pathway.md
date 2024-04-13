@@ -9,7 +9,6 @@ aliases:
   - Mesocortical pathway
 share: true
 ---
-
 # Mesolimbic pathway
 - Controls the motivation and reward systems of the brain (e.g., pleasure, positive reinforcement)
 - Stimulation causes positive symptoms (e.g., hallucinations)

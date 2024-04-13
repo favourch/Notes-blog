@@ -6,7 +6,6 @@ aliases:
   - VSD
 share: true
 ---
-
 # Epidemiology
 
 

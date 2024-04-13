@@ -6,7 +6,6 @@ aliases:
   - Angle-closure glaucoma
 share: true
 ---
-
 # Angle-closure glaucoma
 ## Epidemiology
 

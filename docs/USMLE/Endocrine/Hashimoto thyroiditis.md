@@ -5,7 +5,6 @@ modified: 2023-12-02 10:34
 aliases: []
 share: true
 ---
-
 # Epidemiology
 - Hashimoto disease is <span style="background:rgba(240, 200, 0, 0.2)">the most common form of thyroiditis and the most frequent cause of [[../Biochemistry/Hypothyroidism|hypothyroidism]] in the US.</span>
 - Iodine deficiency is the most common cause of [[../Biochemistry/Hypothyroidism|hypothyroidism]] worldwide.

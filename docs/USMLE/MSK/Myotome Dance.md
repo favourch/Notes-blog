@@ -6,7 +6,6 @@ aliases:
   - Myotome
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240221111701.png|Pasted image 20240221111701.png]]
 ![[../../assets/img/Pasted image 20240221111729.png|Pasted image 20240221111729.png]]
 ![[../../assets/img/Pasted image 20240221111746.png|Pasted image 20240221111746.png]]

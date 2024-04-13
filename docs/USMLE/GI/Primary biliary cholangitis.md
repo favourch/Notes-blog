@@ -7,7 +7,6 @@ aliases:
   - PBC
 share: true
 ---
-
 ## Etiology
 - PBC is considered an autoimmune disease
 - Often associated with other autoimmune conditions, e.g.: 

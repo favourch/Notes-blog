@@ -5,7 +5,6 @@ modified: 2024-03-09 15:29
 aliases: []
 share: true
 ---
-
 - Etiology
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cavernous sinus thrombosis (e.g., due to [[../Respiratory/Sinusitis|sinusitis]] and contiguous spread of infection)</span>![[../../assets/img/Pasted image 20240309153334.png|Pasted image 20240309153334.png]]
 	- Carotid-cavernous fistula

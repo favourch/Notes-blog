@@ -7,7 +7,6 @@ aliases:
   - UTIs
 share: true
 ---
-
 # Etiology
 ## Pathogens
 - <span style="background:rgba(240, 200, 0, 0.2)">Escherichia coli: leading cause of UTI (approx. 80%) </span>

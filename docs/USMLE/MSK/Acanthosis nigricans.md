@@ -5,7 +5,6 @@ modified: 2023-12-04 11:18
 aliases: []
 share: true
 ---
-
 - Definition: a condition characterized by velvety, hyperpigmented plaques on the skin that most frequently involve intertriginous sites such as the axillae and neck
 	- <span style="background:rgba(240, 200, 0, 0.2)">Acanthosis: velvety, thickening</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">nigricans: hyperpigmentation</span>

@@ -5,7 +5,6 @@ modified: 2023-12-15 19:32
 aliases: []
 share: true
 ---
-
 # Epidemiology
 - Incidence: following skin cancer (i.e., [[../MSK/Melanoma|melanoma]] and nonmelanoma combined) <span style="background:rgba(240, 200, 0, 0.2)">most common cancer in men</span> in the US
 - Mortality: in 2020, <span style="background:rgba(240, 200, 0, 0.2)">second leading cause of cancer deaths</span> in men in the US (after [[../Respiratory/Lung cancer|lung cancer]])

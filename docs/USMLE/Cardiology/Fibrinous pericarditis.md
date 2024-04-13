@@ -7,5 +7,4 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-
 Most common cause is [[uremia|uremia]]（尿毒症）

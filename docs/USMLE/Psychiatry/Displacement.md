@@ -6,7 +6,6 @@ aliases:
   - Projection
 share: true
 ---
-
   
 在精神病学和心理分析中，"displacement"（转移）和"projection"（投射）都是心理防御机制，人们使用这些机制来处理内心的冲突、压力或不适感。
 

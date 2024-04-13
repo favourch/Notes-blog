@@ -36,12 +36,12 @@ mutations in SERPINA1 gene
 ---
 # Diagnostics
 - Serum: decreased antitrypsin protein levels
-- Electrophoresis: decreased alpha-1 peak  [5]
+- Electrophoresis: decreased alpha-1 peak  
 - Chest x-ray 
 	- Low and flat diaphragm
 	- Widened intercostal spaces
 	- Hyperinflation and increased basilar radiolucency of both lungs with rarification of peripheral pulmonary vessels
-- Chest CT [6]
+- Chest CT 
 	- [[./Chronic obstructive pulmonary disease|Panacinar emphysema]] (in contrast to centriacinar emphysema in smoking-related emphysema)
 	- [[./Bronchiectasis|Bronchiectasis]]
 	- Bullae

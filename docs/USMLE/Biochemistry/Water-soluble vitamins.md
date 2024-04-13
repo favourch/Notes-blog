@@ -7,7 +7,6 @@ aliases:
 share: true
 ---
 
-
 | Vitamin                           | Primary function                                                        | Deficiency                                                                                                                             |
 | --------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | [[./Vitamin B1\|Thiamine]] (B1)     | Decarboxylation of α-keto acids (carbohydrate metabolism)               | - Beriberi (peripheral neuropathy, heart failure)<br>- [[../Neurology/Wernicke encephalopathy and Korsakoff syndrome\|Wernicke-Korsakoff syndrome]] |

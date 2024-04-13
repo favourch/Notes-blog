@@ -5,7 +5,6 @@ modified: 2024-01-09 15:01
 aliases: []
 share: true
 ---
-
 - Used for standardized clinical assessment of newborns at <span style="background:rgba(240, 200, 0, 0.2)">1 and 5 minutes</span> after birth
 - Assessment of the Apgar score at 5 minutes: infants with <span style="background:rgba(240, 200, 0, 0.2)">scores &lt; 7</span> may require further intervention
 	- <span style="background:rgba(240, 200, 0, 0.2)">Reassuring: 7–10</span>

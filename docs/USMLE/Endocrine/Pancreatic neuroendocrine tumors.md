@@ -6,7 +6,6 @@ aliases:
   - Islet cell tumors
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231127143520.png|Pasted image 20231127143520.png]]
 # Glucagonoma
 - <span style="background:rgba(240, 200, 0, 0.2)">Definition: rare neuroendocrine tumor of the pancreatic α-cells that secretes glucagon</span>

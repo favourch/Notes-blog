@@ -7,7 +7,6 @@ aliases:
   - Intraparenchymal hemorrhage
 share: true
 ---
-
 # Epidemiology
 
 

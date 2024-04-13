@@ -5,7 +5,6 @@ modified: 2023-12-22 15:25
 aliases: []
 share: true
 ---
-
 - Description
 	- <span style="background:rgba(240, 200, 0, 0.2)">Intrinsic defect of erythroid progenitor cells → ↑ apoptosis</span>
 	- Usually autosomal dominant inheritance or associated with impaired ribosome synthesis mutations

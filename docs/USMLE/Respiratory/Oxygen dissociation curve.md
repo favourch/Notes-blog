@@ -16,7 +16,7 @@ share: true
 	- ↓ Partial pressure of carbon dioxide (PCO2)
 	- ↓ Body temperature
 	- ↓ H<sup>+</sup> (↑ pH)
-	- ↓ 2,3-BPG (e.g., due to mutations in the BPGM gene on chromosome 7) [4]
+	- ↓ 2,3-BPG (e.g., due to mutations in the BPGM gene on chromosome 7) 
 	- ↑ CO
 	- ↑ Methemoglobin
 	- ↑ Fetal hemoglobin (HbF)

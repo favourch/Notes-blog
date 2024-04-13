@@ -7,7 +7,6 @@ aliases:
   - Factor V Leiden
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240304110536.png|Pasted image 20240304110536.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Tissue factor pathway inhibitor</span>: inhibits tissue factor
 - <span style="background:rgba(240, 200, 0, 0.2)">Protein C and protein S: Activated protein C and its cofactor protein S form the activated protein-C complex (APC complex), which inhibits factors Va and VIIIa.</span>

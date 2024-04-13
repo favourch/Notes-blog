@@ -6,7 +6,6 @@ aliases:
   - Osteonecrosis
 share: true
 ---
-
 # Epidemiology
 - Trauma (e.g., proximal scaphoid fractures)
 - Cellular toxicity (e.g., chemotherapy, radiotherapy, thermal injury, smoking, alcohol)

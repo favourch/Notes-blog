@@ -7,6 +7,7 @@ aliases:
   - SSRI
   - SSRIs
   - Bupropion
+  - TCA
 share: true
 ---
 # Selective [[../Neurology/Neurotransmitters|serotonin]] reuptake inhibitors (SSRI)
@@ -21,7 +22,7 @@ share: true
 - Indications
 	- [[./Major depressive disorder|Major depressive disorder]] (first-line therapy)
 	- Generalized anxiety disorder (GAD)
-	- Obsessive-compulsive disorder (OCD)
+	- [[./Obsessive-compulsive disorder|Obsessive-compulsive disorder]] ([[./Obsessive-compulsive disorder|OCD]])
 	- Post-traumatic stress disorder (PTSD)
 	- Panic disorder
 	- Premature ejaculation
@@ -138,7 +139,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Neuropathic pain (e.g., peripheral neuropathy, [[../Endocrine/Diabetic neuropathy|diabetic neuropathy]], postherpetic neuralgia)</span>
 	- Chronic pain (including [[../MSK/Fibromyalgia|fibromyalgia]])
 	- [[../Neurology/Migraine|Migraine]] prophylaxis
-	- Clomipramine specifically: OCD
+	- Clomipramine specifically: [[./Obsessive-compulsive disorder|OCD]]
 	- Imipramine specifically: nocturnal enuresis (limited use due to side effects)
 - Side effects
 	- Orthostatic hypotension 

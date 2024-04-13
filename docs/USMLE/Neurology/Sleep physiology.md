@@ -2,10 +2,11 @@
 author: Harvey Guo
 created: 2024-01-09 21:29
 modified: 2024-01-09 21:29
-aliases: []
+aliases:
+  - REM
+  - NREM
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240109212934.png|Pasted image 20240109212934.png]]
 >[!tip]
 >Alert and REM are both Beta waves. 

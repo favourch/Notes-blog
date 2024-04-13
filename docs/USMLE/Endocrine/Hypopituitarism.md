@@ -6,7 +6,6 @@ aliases:
   - Sheehan syndrome
 share: true
 ---
-
 # Epidemiology
 
 

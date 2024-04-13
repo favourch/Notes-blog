@@ -19,7 +19,7 @@ share: true
 - Diagnostics
 	- Voiding cystourethrogram (diagnostic study of choice) demonstrates
 		- Dilation/elongation of the posterior urethra during voiding
-		- Signs of vesicoureteral reflux (if present)
+		- Signs of [[./Vesicoureteral reflux|vesicoureteral reflux]] (if present)
 	- Prenatal ultrasound of the upper urinary tract may demonstrate:
 		- <span style="background:rgba(240, 200, 0, 0.2)">Distended and/or thick-walled bladder, due to increased force to overcome pressure</span>
 		- Bilateral hydroureters

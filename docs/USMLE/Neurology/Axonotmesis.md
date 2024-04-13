@@ -7,7 +7,6 @@ aliases:
   - Wallerian degeneration
 share: true
 ---
-
 The axon is damaged but the perineurium and epineurium remain intact.![[../../assets/img/Pasted image 20240203103631.png|Pasted image 20240203103631.png]]
 # Leads to central chromatolysis 
 - Definition: the reaction of a neuronal cell body in response to an axonal injury

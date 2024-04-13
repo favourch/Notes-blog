@@ -5,7 +5,6 @@ modified: 2023-12-28 15:53
 aliases: []
 share: true
 ---
-
 # Epidemiology
 - Peak incidence: 1st decade
 - <span style="background:rgba(240, 200, 0, 0.2)">Most common malignant pediatric [[./Brain tumors|brain tumor]]</span>

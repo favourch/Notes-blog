@@ -4,6 +4,7 @@ created: 2024-03-26 17:40
 modified: 2024-03-26 17:40
 aliases:
   - Cannabis
+  - marijuana
 share: true
 ---
 # Cannabis intoxication

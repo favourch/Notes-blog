@@ -5,7 +5,6 @@ modified: 2023-12-10 17:18
 aliases: []
 share: true
 ---
-
 # Epidemiology
 - Adenocarcinoma: most common type of esophageal cancer in the US (67%)
 - Squamous cell carcinoma (SCC): most common type of esophageal cancer worldwide (90%)

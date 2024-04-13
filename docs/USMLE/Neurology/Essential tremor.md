@@ -5,7 +5,6 @@ modified: 2023-09-12 15:48
 aliases: []
 share: true
 ---
-
 # Epidemiology
 - Most common form of tremor
 

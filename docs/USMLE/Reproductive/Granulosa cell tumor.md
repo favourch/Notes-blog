@@ -5,7 +5,6 @@ modified: 2024-02-02 16:53
 aliases: []
 share: true
 ---
-
 # Epidemiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Most common type of sex cord-stromal malignancy (∼ 90%)</span>
 - Peak age: 50–55 years

@@ -10,7 +10,6 @@ aliases:
   - MEN2
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20231218162957.png|Pasted image 20231218162957.png]]
 - MEN 1
 	- Mutation of the <span style="background:rgba(240, 200, 0, 0.2)">MEN1 gene</span> (located on chromosome 11) → altered expression of <span style="background:rgba(240, 200, 0, 0.2)">menin protein</span>

@@ -8,7 +8,6 @@ aliases:
   - Intracranial tumor
 share: true
 ---
-
 ![[../../assets/img/Pasted image 20240114153452.png|Pasted image 20240114153452.png]]
 # Adult tumors
 ## Glioblastoma multiforme

@@ -11,6 +11,8 @@ share: true
 # Stimulants
 >[!warning] 
 >Stimulants can trigger <span style="background:rgba(240, 200, 0, 0.2)">substance-induced psychosis</span>, especially in individuals with high-dose, daily use, and/or other risk factors for psychosis.
+
+<span style="background:rgba(240, 200, 0, 0.2)">Decreased appetite and insomnia are the most common adverse effects of stimulant medications</span>
 ## Caffeine
 - Has [[./Antidepressants|MAOI]] effects → ↑ levels of epinephrine, norepinephrine, serotonin, and dopamine
 ## Nicotine
@@ -25,8 +27,12 @@ share: true
 >[!Mnemonic] 
 >Vare<font color="#ffc000">nic</font>line helps to quit <font color="#ffc000">nic</font>otine.
 ## [[../Neurology/MDMA|MDMA]]
+## Cocaine
+- Famously was the "Coca" in Coca-Cola
 >[!tip] 
 >Withdrawal from stimulants will not cause morbidity or morality. However, withdrawal from depressants like benzodiazepines or alcohol will. 
+>Common withdrawal symptoms:
+>- <span style="background:rgba(240, 200, 0, 0.2)">Increased appetite, hypersomnia, fatigue</span>, intense psychomotor retardation, severe depression ("crash")
 # Depressants
 ## [[../Pharmacology/Opioids|Opioids]]
 ### [[./Opioid withdrawal|Opioid withdrawal]]

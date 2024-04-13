@@ -6,7 +6,6 @@ aliases:
   - IBS
 share: true
 ---
-
 # Epidemiology
 
 

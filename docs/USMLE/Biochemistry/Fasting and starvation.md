@@ -6,5 +6,4 @@ aliases: Untitled
 share: true
 ---
 
-
 ![[../../assets/img/Pasted image 20231107152615.png|Pasted image 20231107152615.png]]

@@ -7,7 +7,6 @@ aliases:
   - teratogenic
 share: true
 ---
-
 # Medications
 ## [[../Neurology/Anticonvulsant drugs|Antiepileptic drugs]]
 - Neural tube defects, cardiac defects, cleft palate, skeletal abnormalities (eg, phalanx/nail hypoplasia, facial dysmorphism). 

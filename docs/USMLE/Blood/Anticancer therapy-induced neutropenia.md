@@ -5,7 +5,6 @@ modified: 2023-12-22 11:36
 aliases: []
 share: true
 ---
-
 - Cell count
 	- Absolute neutrophil count < 1500 cells/mm3
 	- Severe infections typical when < 500 cells/mm3

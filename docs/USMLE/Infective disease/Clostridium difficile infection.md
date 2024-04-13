@@ -8,7 +8,6 @@ aliases:
   - C. difficile
 share: true
 ---
-
 # Epidemiology
 ---
 

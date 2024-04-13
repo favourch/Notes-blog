@@ -8,7 +8,6 @@ aliases:
   - Subacute lymphocytic thyroiditis
 share: true
 ---
-
 # Epidemiology
 
 

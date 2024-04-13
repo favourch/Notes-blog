@@ -26,6 +26,7 @@ share: true
 >[!Mnemonic] 
 >Any diseases with a hyphen in the name will presents with Cherry-Red Macula.
 
+# Niemann-Pick disease
 ---
 ![[../../assets/img/Pasted image 20231111093052.png|Pasted image 20231111093052.png]]Sphinger -> finger
 

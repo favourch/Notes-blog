@@ -6,7 +6,6 @@ aliases:
   - Hereditary nonpolyposis colorectal cancer
 share: true
 ---
-
 # Epidemiology
 - Prevalence
 	- Most common cause of inherited CRC

@@ -7,7 +7,6 @@ aliases: <% tp.file.title %>
 share: true
 ---
 
-
 # Tachycardia DDx
 ![[../../assets/img/Pasted image 20230620213926.png|800]]
 The differential diagnosis of a regular narrow tachycardia in general includes 5 major mechanisms: 
@@ -21,7 +20,7 @@ The differential diagnosis of a regular narrow tachycardia in general includes 5
 #  Whenever you see a negative P wave and QRS complex in lead I the likely diagnosis is limb [[lead reversal|lead reversal]].
 # Multifocal atrial rhythm
 ![Multifocal Atrial Tachycardia (MAT) • At least 3 different ... | GrepMed](https://img.grepmed.com/uploads/5407/multifocal-tachycardia-ecg-cardiology-diagnosis-original.png)
-**Differentiate from <mark style="background: #FFF3A34A;">[[./ectopic atrial rhythm|ectopic atrial rhythm]]</mark>.** In [[./ectopic atrial rhythm|ectopic atrial rhythm]], the P-wave morphology remains consistent as the PACs originate from a single ectopic focus. In contrast, multifocal atrial rhythm shows varying P-wave morphologies from beat to beat, reflecting the random discharge of multiple ectopic atrial foci [4].
+**Differentiate from <mark style="background: #FFF3A34A;">[[./ectopic atrial rhythm|ectopic atrial rhythm]]</mark>.** In [[./ectopic atrial rhythm|ectopic atrial rhythm]], the P-wave morphology remains consistent as the PACs originate from a single ectopic focus. In contrast, multifocal atrial rhythm shows varying P-wave morphologies from beat to beat, reflecting the random discharge of multiple ectopic atrial foci .
 #  Early repolarization
 ![[../../assets/img/Pasted image 20230617214946.png|Pasted image 20230617214946]]
 on the LEFT, the T wave repolarization looks like a continuation of the S wave. This is not ST elevation and is seen often in young adults. It is called benign early repolarization. On the right, you clearly see the completion of the S wave and a clear ST Segment which allows you to do an accurate ST Elevation measurement.
@@ -86,7 +85,7 @@ Under normal conditions, subsidiary pacemakers are suppressed by the more rapid 
 	- ST depression 
 	- Prolonged PR interval
 - Moderate to severe hypokalemia
-	- Presence of U waves: small waveform following the T wave that is often absent but becomes more pronounced in hypokalemia or bradycardia  [2]
+	- Presence of U waves: small waveform following the T wave that is often absent but becomes more pronounced in hypokalemia or bradycardia  
 	- T and U wave fusion
 	- QT prolongation  [13]
 - Dysrhythmias

@@ -5,7 +5,6 @@ modified: 2024-01-16 20:58
 aliases: []
 share: true
 ---
-
 # Epidemiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Most common in females 20–50 years old.</span>
 

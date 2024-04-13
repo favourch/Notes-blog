@@ -6,7 +6,6 @@ aliases:
   - Biotin
 share: true
 ---
-
 # Functions
 Coenzyme for various carboxylase enzyme complexes, which all add a 1-carbon group
 - <span style="background:rgba(240, 200, 0, 0.2)">Fatty acid synthesis: acetyl-CoA carboxylase</span>

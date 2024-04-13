@@ -6,7 +6,6 @@ aliases: []
 share: true
 ---
 
-
 ![[../../assets/img/Pasted image 20231113173155.png|Pasted image 20231113173155.png]]![[../../assets/img/Pasted image 20231107143619.png|Pasted image 20231107143619.png]]
 # [[../Endocrine/Alkaptonuria|Alkaptonuria]]
 - [[../Renal/Urine color|Dark urine]]
@@ -18,6 +17,7 @@ share: true
 - Decreased PRODUCTION of Melanin
 - ![[../../assets/img/Pasted image 20231107150236.png|Pasted image 20231107150236.png]]
 ![[../../assets/img/Pasted image 20231107144232.png|Pasted image 20231107144232.png]]
++ Translucent, hypopigmented blue, grey, or green irides
 # [[./Phenylketonuria|Phenylketonuria]]
 ![[../../assets/img/Pasted image 20231113173304.png|Pasted image 20231113173304.png]]
 ![[../../assets/img/Pasted image 20231107144314.png|Pasted image 20231107144314.png]]

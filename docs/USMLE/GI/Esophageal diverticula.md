@@ -6,7 +6,6 @@ aliases:
   - Esophageal pouches
 share: true
 ---
-
 # Epidemiology
 - Peak incidence: older male individuals (70-80 y)
 - Zenker diverticulum is the most common type.
@@ -22,7 +21,7 @@ share: true
 	- Common sites
 		- Upper esophageal sphincter (UES) → pharyngoesophageal pulsion diverticulum (e.g., <span style="background:rgba(240, 200, 0, 0.2)">Zenker diverticulum</span>)
 		- Lower esophageal sphincter (LES) → epiphrenic pulsion diverticulum
-- <span style="background:rgba(240, 200, 0, 0.2)">Inflammation of the mediastinum with scarring and retraction</span> (e.g., secondary to tuberculosis or fungal infection) → traction diverticulum [5]
+- <span style="background:rgba(240, 200, 0, 0.2)">Inflammation of the mediastinum with scarring and retraction</span> (e.g., secondary to tuberculosis or fungal infection) → traction diverticulum 
 	- Usually true diverticulum
 	- Common site: the middle esophagus
 ![[../../assets/img/Pasted image 20231019213910.png|Pasted image 20231019213910.png]]

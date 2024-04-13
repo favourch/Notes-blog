@@ -7,7 +7,6 @@ aliases:
   - ketogenesis
 share: true
 ---
-
 - Ketone bodies
 	- <span style="background:rgba(240, 200, 0, 0.2)">Water-soluble molecules that are produced by the liver and used by peripheral tissues</span> (e.g., heart, brain, skeletal muscle) as <span style="background:rgba(240, 200, 0, 0.2)">an energy source when glucose is not readily available</span> (e.g., during prolonged [[./Metabolic fuel use|starvation]], in [[../Endocrine/Hyperglycemic crises|diabetic ketoacidosis]], or chronic heavy drinking)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Three ketone bodies: acetoacetate, β-hydroxybutyrate, and acetone (acetone is a breakdown product of acetoacetate and β-hydroxybutyrate; has a fruity smell)</span>

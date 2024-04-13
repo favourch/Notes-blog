@@ -7,7 +7,6 @@ aliases:
   - Elective abortion
 share: true
 ---
-
 # Procedure/application
 ## First trimester (≤ 12 weeks' gestation)
 ## Medical abortion

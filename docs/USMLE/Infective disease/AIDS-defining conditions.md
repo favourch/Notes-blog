@@ -5,7 +5,6 @@ modified: 2023-12-18 15:10
 aliases: []
 share: true
 ---
-
 # CD4+ cell count < 500/mm<sup>3</sup>
 - [[../MSK/Kaposi sarcoma|Kaposi sarcoma]] (typically occurs at CD4 count < 500)
 - Lymphoma
