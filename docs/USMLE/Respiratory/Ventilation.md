@@ -15,7 +15,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">VD is the sum of the anatomic dead space and the alveolar dead space.</span>
 		- Anatomic dead space: the volume of air in the conducting zone, e.g., mouth, trachea (approx. ⅓ of the resting tidal volume)
 		- <span style="background:rgba(240, 200, 0, 0.2)">Alveolar dead space: the sum of the volumes of alveoli that do not participate in gas exchange (mainly apex of the lungs); These alveoli are ventilated but not perfused.</span>
-	- Bohr equation determines the physiologic dead space: VD = VT x (PaCO2 - PeCO2)/(PaCO2) 
+	- Bohr equation determines the physiologic dead space: VD = VT x (PaCO<sub>2</sub> - PeCO<sub>2</sub>)/(PaCO<sub>2</sub>) 
 	- In a healthy lung, VD equals the anatomic dead space (normal value: approx. 150 mL/breath).
 - Alveolar ventilation (VA)
 	- Volume of gas that reaches the alveoli each minute

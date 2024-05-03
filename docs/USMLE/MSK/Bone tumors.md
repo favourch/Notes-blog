@@ -19,4 +19,5 @@ share: true
 # Malignant bone tumors
 All with "sarcoma"
 ![[../../assets/img/Pasted image 20231018163111.png|Pasted image 20231018163111.png]]
+- [[./Ewing sarcoma|Ewing sarcoma]]
 - Chondrosarcoma![[../../assets/img/Pasted image 20240220100634.png|Pasted image 20240220100634.png]]

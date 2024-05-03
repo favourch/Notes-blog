@@ -13,7 +13,7 @@ share: true
 
 ---
 # Etiology
-Association with giant cell arteritis (GCA): Approx. 10% of individuals with polymyalgia rheumatica also have GCA.
+Association with [[./Giant cell arteritis|giant cell arteritis]] (GCA): Approx. 10% of individuals with polymyalgia rheumatica also have GCA.
 
 ---
 # Pathophysiology
@@ -34,7 +34,8 @@ Association with giant cell arteritis (GCA): Approx. 10% of individuals with pol
 - ↑ ESR, specifically > 50 mm/h
 - ↑ CRP
 - Normochromic anemia
-- Normal creatine kinase, negative rheumatoid factors, and no autoantibodies 
+- Normal creatine kinase, <span style="background:rgba(240, 200, 0, 0.2)">negative rheumatoid factors, and no autoantibodies </span>
+	- vs [[./Rheumatoid arthritis|Rheumatoid arthritis]]![[../../assets/img/Pasted image 20240415112104.png|Pasted image 20240415112104.png]]
 
 ---
 # Treatment

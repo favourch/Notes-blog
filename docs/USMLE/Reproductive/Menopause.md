@@ -34,10 +34,13 @@ share: true
 - Irregular menses that gradually decrease in frequency until complete amenorrhea
 ## Vasomotor symptoms of menopause (VMS)
 - Increased sweating
-- Hot flashes
+- <span style="background:rgba(240, 200, 0, 0.2)">Hot flashes</span>
 - Heat intolerance
 - Seen in ∼ 75% of individuals during perimenopause and menopause
 - On average, vasomotor symptoms last for ∼ 7 years.
+## Other symptoms
+- Osteoporosis
+	- <span style="background:rgba(240, 200, 0, 0.2)">Develops at least 10-15 years after cessation of menses</span>
 
 ---
 # Diagnostics

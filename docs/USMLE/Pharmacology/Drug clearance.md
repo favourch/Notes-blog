@@ -17,7 +17,7 @@ share: true
 		- RCOOH (lipid soluble) ⇄ RCOO– + H+ (trapped form)
 	- Weak basic drugs (e.g., tricyclic antidepressants, amphetamines) are trapped in an acidic environment
 		- Overdoses with these drugs can be treated via acidification of urine (ammonium chloride)
-		- RNH3+ (trapped form) ⇄ RNH2 + H+ (lipid soluble)
+		- RNH<sub>3</sub>+ (trapped form) ⇄ RNH2 + H+ (lipid soluble)
 		- The elimination of tricyclic antidepressants, which are basic, can be increased by acidification of urine, but toxicity is generally treated with sodium bicarbonate. 
 - Neutral substances can be reabsorbed.
 # Biliary elimination 

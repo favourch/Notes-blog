@@ -13,11 +13,11 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 ---
 # Pathophysiology
 ![[../../assets/img/Pasted image 20240405113532.png|Pasted image 20240405113532.png]]
-- Mutated CFTR gene → misfolded protein → retention for degradation of the defective protein in the rough endoplasmic reticulum (rER) → <span style="background:rgba(240, 200, 0, 0.2)">absence of ATP-gated chloride channel on the cell surface</span> of epithelial cells throughout the body (e.g., intestinal and respiratory epithelia, sweat glands, exocrine pancreas, exocrine glands of reproductive organs)
-- In sweat glands
+- Mutated CFTR gene → misfolded protein → retention for degradation of the defective protein in the rough endoplasmic reticulum (rER) → <span style="background:rgba(240, 200, 0, 0.2)">absence of ATP-gated chloride channel on the cell surface</span> of epithelial cells throughout the body (e.g., intestinal and respiratory epithelia, [[../MSK/Sweat glands|sweat glands]], exocrine pancreas, exocrine glands of reproductive organs)
+- In [[../MSK/Sweat glands|sweat glands]]
 	- Defective ATP-gated chloride channel →<span style="background:rgba(240, 200, 0, 0.2)"> inability to reabsorb Cl<sup>-</sup> from the lumen of the sweat glands → reduced reabsorption of Na<sup>+</sup> and H<sup>2</sup>O → excessive loss of salt and elevated levels of NaCl in sweat</span>
 - In all other exocrine glands (e.g., in the GI tract or lungs)
-	- Defective ATP-gated chloride channel → inability to transport intracellular Cl<sup>-</sup> across the cell membrane → reduced secretion of Cl<sup>-</sup> and H<sub>2</sub>O → accumulation of intracellular Cl<sup>-</sup> → ↑ Na<sup>+</sup> reabsorption (via ENaC)  → ↑ H<sub>2</sub>O reabsorption  →<mark style="background: #FFF3A34A;"> formation of hyperviscous mucus → accumulation of secretions and blockage of small passages of affected organs → chronic inflammation and remodeling </mark>→ organ damage (see “Clinical features” below) 
+	- Defective ATP-gated chloride channel → inability to transport intracellular Cl<sup>-</sup> across the cell membrane → reduced secretion of Cl<sup>-</sup> and H<sub>2</sub>O → accumulation of intracellular Cl<sup>-</sup> → ↑ Na<sup>+</sup> reabsorption (via ENaC)  → ↑ H<sub>2</sub>O reabsorption  →<mark style="background: #FFF3A34A;"> formation of hyperviscous mucus → accumulation of secretions and blockage of small passages of affected organs → chronic inflammation and remodeling </mark>→ organ damage
 	- ↑ Na<sup>+</sup> reabsorption → transepithelial potential difference between interstitial fluid and the epithelial surface increases (i.e., negative charge increases; e.g., from normal -13 mv to abnormal -25 mv)
 
 ---
@@ -40,7 +40,8 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 		- Abdominal distention 
 		- [[../GI/Diarrhea|Diarrhea]]
 		- Hypoproteinemia
-		- Deficiency of fat-soluble vitamins
+		- <span style="background:rgba(240, 200, 0, 0.2)">Deficiency of fat-soluble vitamins</span>
+			- Lack of [[./Vitamin K|Vitamin K]] -> life-threatening <span style="background:rgba(240, 200, 0, 0.2)">bleeding</span>
 - CF-related [[../Endocrine/Diabetes mellitus|diabetes mellitus]] (CFRD)
 - Liver and bile duct abnormalities
 	- Biliary [[../GI/Cirrhosis|cirrhosis]] with portal hypertension, jaundice, and/or esophageal varices
@@ -52,9 +53,9 @@ CF is a hereditary autosomal recessive disorder caused by defective <mark style=
 ## Respiratory
 - Chronic obstructive lung disease with [[../Respiratory/Bronchiectasis|bronchiectasis]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Chronic [[../Respiratory/Sinusitis|sinusitis]]: nasal polyps may eventually develop </span>
-- Recurrent or chronic productive cough and pulmonary infections
-	- S. aureus is the most common cause of recurrent pulmonary infection in infancy and childhood.
-	- P. aeruginosa is the most common cause of recurrent pulmonary infections in adulthood.
+- Recurrent or chronic productive cough and <span style="background:rgba(240, 200, 0, 0.2)">pulmonary infections</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">S. aureus</span> is the most common cause of recurrent pulmonary infection <span style="background:rgba(240, 200, 0, 0.2)">in infancy and childhood.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">P. aeruginosa</span> is the most common cause of recurrent pulmonary infections in <span style="background:rgba(240, 200, 0, 0.2)">adulthood</span>.
  - Hemoptysis (Recurrent infections lead to increased vulnerability of the lung tissue)
  - Signs of chronic respiratory insufficiency: digital clubbing
  >[!warning] 

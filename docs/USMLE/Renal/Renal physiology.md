@@ -6,6 +6,7 @@ aliases: []
 share: true
 ---
 # The nephron
+![[../../assets/img/L60470.png|L60470.png]]
 ## Proximal convoluted tubule (PCT)
 1. Bicarbonate
 	1. Don't change H<sup>+</sup>, only absorb HCO<sup>3-</sup>![[../../assets/img/Pasted image 20230829151420.png|Pasted image 20230829151420.png]]
@@ -18,14 +19,13 @@ share: true
 	- Uric acid
 	- Na<sup>+</sup>, Cl<sup>-</sup>, K<sup>+</sup>, HCO<sup>3-</sup>, PO43-, and H<sub>2</sub>O<span style="background:rgba(240, 200, 0, 0.2)"> (All together with Na<sup>+</sup> !!!)</span>![[../../assets/img/Pasted image 20230829152436.png|Pasted image 20230829152436.png]]
 ## Thick ascending loop of Henle
-1. <span style="background:rgba(240, 200, 0, 0.2)">ADH stimulates the activity of NKCC2</span>. Increased NKCC2 activity aids in water reabsorption in the collecting duct through aquaporin 2 channels by creating a hypo-osmotic filtrate.
+1. <span style="background:rgba(240, 200, 0, 0.2)">ADH stimulates the activity of Na+-K+-2Cl- cotransporter</span>. Increased NKCC2 activity aids in water reabsorption in the collecting duct through aquaporin 2 channels by creating a hypo-osmotic filtrate.
 ## Distal convoluted tubule (DCT)
 1. Magnesium and Calcium are reabsorbed paracellularly.
 2. Ca<sup>2+</sup> is reabsorbed using Ca<sup>2+</sup> channels on the luminal surface and Na<sup>+</sup>/Ca<sup>2+</sup> antiporters (exchangers) on the basolateral surface.![[../../assets/img/Pasted image 20230829155253.png|Pasted image 20230829155253.png]]
 	1. PTH up-regulates the Ca<sup>2+</sup>/Na<sup>+</sup> antiporter resulting in increased reabsorption of Ca<sup>2+</sup>.
 ## Collecting duct
 1. Principal cells
-	1. Reabsorb Na<sup>+</sup>sup>+</sup> and H<sub>2</sub>O, but secrete K<sup>+</sup>
 	2. When acted upon by ADH, principal cells will increase the number of aquaporins (water channels) on the luminal membrane → increased H<sub>2</sub>O reabsorption.![[../../assets/img/Pasted image 20230829161022.png|Pasted image 20230829161022.png]]
 	3. When acted upon by aldosterone, principal cells increase activity of Na<sup>+</sup>/K<sup>+</sup> exchangers → increased Na<sup>+</sup> reabsorption and increased K<sup>+</sup> secretion.
 		- <span style="background:rgba(240, 200, 0, 0.2)">Water follows sodium through the water channels. So aldosterone won't affect the [[./Urine osmolality|urine osmolality]]. </span>

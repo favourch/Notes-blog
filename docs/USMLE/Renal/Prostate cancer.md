@@ -40,7 +40,7 @@ share: true
 	- Locally advanced and metastatic prostate cancer: primary treatment modality
 - Options
 	- Medical castration: decreases pituitary stimulation of androgen production by the testes
-		- <span style="background:rgba(240, 200, 0, 0.2)">Gonadotropin-releasing hormone (GnRH) agonists (e.g., leuprolide)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Gonadotropin-releasing hormone (GnRH) agonists (e.g., [[../Pharmacology/Hypothalamic and pituitary drugs|leuprolide]])</span>
 	- Surgical castration: bilateral orchiectomy
 - Adverse effects
 	- <span style="background:rgba(240, 200, 0, 0.2)">Increased risk of osteoporosis and fractures</span> 

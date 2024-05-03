@@ -47,8 +47,28 @@ Symptoms depend on the number, size, and location of leiomyomas. <span style="ba
 # Diagnostics
 >[!warning] 
 >Uterine leiomyomas are extremely common (affecting 70% of women) and are often found incidentally on ultrasound; do not attribute abnormal uterine bleeding to leiomyomas until other etiologies have been ruled out!
+## Pathology
+- Macroscopic
+	- Grayish-white surface
+	- Homogeneous; tissue bundles on cross-section partly in a whorled pattern
+	- Some leiomyomas may involve regressive changes: scar formation, calcification, and cysts
+- Microscopic: <span style="background:rgba(240, 200, 0, 0.2)">Smooth muscle tissue in a whorled pattern with well-demarcated borders, consisting of monoclonal cells interspersed with connective tissue</span>
 
+
+# Differential diagnostics
 ---
+![[../../assets/img/Pasted image 20240419083604.png|Pasted image 20240419083604.png]]
+## Uterine leiomyosarcoma (uterine sarcoma)
+Rare malignant tumor arising from the smooth muscle cells of the myometrium
+- Risk factors
+	- Menopause
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Selective estrogen receptor modulators|Tamoxifen]] use</span>
+		- Because it stimulate the ER on uterine myometrium
+- Uterine findings
+	- Rapidly enlarging
+- Pathology
+	- Single lesions with areas of coagulative necrosis and/or hemorrhage
+	- Cords of polygonal cells with eosinophilic cytoplasm, <span style="background:rgba(240, 200, 0, 0.2)">abundant mitoses, and cellular atypia</span> are common.
 # Treatment
 
 

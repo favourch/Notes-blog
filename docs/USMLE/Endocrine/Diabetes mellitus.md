@@ -114,12 +114,36 @@ share: true
 # Treatment
 ![[../../assets/img/Pasted image 20231209143656.png|Pasted image 20231209143656.png]]
 ## T1DM
-- Insulin![[../../assets/img/Pasted image 20231209112442.png|Pasted image 20231209112442.png]]
+### Insulin
+- Types![[../../assets/img/Pasted image 20231209112442.png|Pasted image 20231209112442.png]]
+
 >[!Mnemonic] 
->- glu<font color="#ffc000">LI</font>sine <font color="#ffc000">Little</font> Short acting (Also use the LI to remember LIspro)
->- g<font color="#ffc000">LARGE</font>ne <font color="#ffc000">LARGEine</font> Long acting
+>- Rapid acting
+>	- Lispro: 利索
+>	- Aspart: A-speed
+>	- glulisine: glu利索
+>- Long acting
+>	- G<font color="#ffc000">larg</font>ine, <font color="#ffc000">detemi</font>r: <font color="#ffc000">larg</font>e time to <font color="#ffc000">determi</font>ne
+- Adverse effects
+	- <span style="background:rgba(240, 200, 0, 0.2)">Weight gain</span>
+		- Due to physiologic factors (increased glucose uptake and lipid synthesis) and behavioral factors (less dietary adherence and eating snacks when hypoglycemia)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Should review for changes in diet</span>
 ## T2DM
 ![[../../assets/img/Pasted image 20240229113037.png|Pasted image 20240229113037.png]]
+>[!tip] Weight-favorable?
+>- Weight-loss medications
+>	- <span style="background:rgba(240, 200, 0, 0.2)">GLP-1 agonist</span>
+>		- Decreases gastric emptying
+>		- Increases satiety (hypothalamic effect)
+>	- SGLT-2 inhibitor
+>		- Increases glucosuria
+>- Weight-neutral medications
+>	- DPP-4 inhibitor
+>		- Inhibits metabolism of GLP-1
+>	- Metformin
+>		- Suppresses hepatic gluconeogenesis
+>		- Decreases gastrointestinal glucose absorption
+
 - Metformin![[../../assets/img/Pasted image 20231209113337.png|Pasted image 20231209113337.png]]
 	- Contraindications
 		- <span style="background:rgba(240, 200, 0, 0.2)">Renal failure, heart failure (NYHA III and IV), respiratory failure, shock, sepsis</span>

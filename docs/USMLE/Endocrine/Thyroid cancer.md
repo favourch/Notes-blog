@@ -45,3 +45,7 @@ share: true
 	- Sometimes a genetic predisposition → <span style="background:rgba(240, 200, 0, 0.2)">[[./Multiple endocrine neoplasias|multiple endocrine neoplasia]] type 2 (MEN2)</span> (25% of medullary carcinomas)
 	- Sporadic (75% of medullary carcinomas)
 	- Produces [[./Calcitonin|calcitonin]]![[../../assets/img/Pasted image 20240317093756.png|Pasted image 20240317093756.png]]
+- Pathology![[../../assets/img/highresdefault_L1488.jpg|highresdefault_L1488.jpg]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Ovoid cells of C cell origin and therefore without follicle development</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Amyloid in the stroma (stains with Congo red)</span>
+		- These amyloid deposits are derived from calcitonin secreted by the neoplastic C cells

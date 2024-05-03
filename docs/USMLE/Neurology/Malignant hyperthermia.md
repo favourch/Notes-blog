@@ -19,7 +19,7 @@ share: true
 
 ---
 # Pathophysiology
-- Administration of triggering substances → <span style="background:rgba(240, 200, 0, 0.2)">calcium release from intracellular compartments or delay in its reuptake → ↑ calcium in muscle cells → ↑ contractility of the skeletal muscle → ↑ metabolism → ↑ oxygen consumption in addition to ↑ CO2 production, heat, and lactate (malignant hyperthermia) → mixed respiratory and metabolic acidosis → uncoupled oxidative phosphorylation → breakdown of the cell's energy supply → cell death</span>
+- Administration of triggering substances → <span style="background:rgba(240, 200, 0, 0.2)">calcium release from intracellular compartments or delay in its reuptake → ↑ calcium in muscle cells → ↑ contractility of the skeletal muscle → ↑ metabolism → ↑ oxygen consumption in addition to ↑ CO<sub>2</sub> production, heat, and lactate (malignant hyperthermia) → mixed respiratory and metabolic acidosis → uncoupled oxidative phosphorylation → breakdown of the cell's energy supply → cell death</span>
 >[!tip] 
 >Smooth muscle and cardiac muscle remain unaffected.
 

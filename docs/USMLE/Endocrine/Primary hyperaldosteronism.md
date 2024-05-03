@@ -20,7 +20,7 @@ share: true
 - Physiological aldosterone secretion is regulated by the renin-angiotensin-aldosterone system (RAAS) and occurs in response to the detection of low blood pressure in the kidneys (see “Renin-angiotensin-aldosterone system”).
 - ↑ Aldosterone → ↑ open Na<sup>+</sup> channels in principal cells of luminal membrane at the cortical collecting ducts of the kidneys → ↑ Na<sup>+</sup> reabsorption and retention → water retention → hypertension
 - <span style="background:rgba(240, 200, 0, 0.2)">Aldosterone escape</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Definition: Evasion of the Na<sup>+</sup>-retaining effects of inappropriately elevated aldosterone levels in conditions such as primary hyperaldosteronism or [[../Cardiology/Congestive heart failure|congestive heart failure]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Definition: Evasion of the Na<sup>+</sup>-retaining effects of inappropriately elevated aldosterone levels in primary hyperaldosteronism</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Mechanism: sodium and water retention → volume expansion → secretion of atrial natriuretic peptide (ANP) and pressure natriuresis → compensatory diuresis → “escape” from edema formation and hypernatremia</span>
 ## Hypokalemia and metabolic alkalosis
 - ↑ Na<sup>+</sup> reabsorption → electronegative lumen → electrical gradient through open K<sup>+</sup> channels → ↑ K<sup>+</sup> secretion → <span style="background:rgba(240, 200, 0, 0.2)">hypokalemia</span>

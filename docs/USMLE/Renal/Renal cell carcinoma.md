@@ -6,6 +6,7 @@ aliases:
   - Hypernephroma
   - Grawitz tumor
   - RCC
+  - kidney cancer
 share: true
 ---
 # Etiology

@@ -52,6 +52,8 @@ share: true
 
 ---
 # Treatment
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Strict, lifelong gluten-free diet </span>
+	- Abstain from products containing wheat, rye, barley, or spelt.
+	- Symptoms usually improve quickly
 
 ---

@@ -5,6 +5,7 @@ modified: 2024-03-17 22:00
 aliases:
   - Celecoxib
   - Acetaminophen
+  - NSAIDs
 share: true
 ---
 ![[../../assets/img/Pasted image 20240317220254.png|Pasted image 20240317220254.png]]
@@ -34,8 +35,9 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Strong and long-lasting</span>
 	- May affect [[../Pathology/Wound healing|wound healing]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Aspirin</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Not usually for analgesic</span>
-	- Anti-platelet
+	- Only salicylate among NSAIDs
+	- <span style="background:rgba(240, 200, 0, 0.2)">Commonly used as antiplatelet agents, instead of analgesics or anti-inflammatory agents</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">See [[./Salicylate poisoning|Salicylate poisoning]] for overdose effects</span>
 - For mild to moderate pain accompanied by swelling and inflammation, non-steroidal anti-inflammatory drugs (such as ibuprofen, aspirin, and naproxen) are more effective.
 # Selective COX-2 inhibitors
 ## Agent

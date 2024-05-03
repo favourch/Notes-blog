@@ -95,8 +95,8 @@ share: true
 ### Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Upper [[./Urinary tract infections|UTI]] with urease-producing bacteria</span> such as Proteus mirabilis, Klebsiella, Staphylococcus saprophyticus, and/or Pseudomonas
 	- <span style="background:rgba(240, 200, 0, 0.2)">These bacteria convert urea to ammonia → elevated ammonia causing alkaline urine → precipitation of the ammonium magnesium phosphate salt → crystal and stone formation</span>
-		- Urea → 2 NH3 + CO2
-		- NH3 + H<sub>2</sub>O → NH4+ + OH−
+		- Urea → 2 NH<sub>3</sub> + CO<sub>2</sub>
+		- NH<sub>3</sub> + H<sub>2</sub>O → NH<sub>4</sub><sup>+</sup> + OH<sup>−</sup>
 	- Grow rapidly into a branched staghorn calculus that fills the renal calyces and pelvis.
 	- Over time, the affected kidney can atrophy due to recurrent infection and chronic obstructive nephropathy.
 ### Treatment

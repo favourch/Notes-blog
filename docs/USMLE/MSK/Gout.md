@@ -11,7 +11,22 @@ share: true
 
 ---
 # Etiology
-
+## Risk factors
+- Increased uric acid production
+	- Dietary sources
+	- Purine-rich foods (eg, seafood, red meat)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Fructose-containing & alcoholic beverages (particularly beer)</span>
+	- ↑ Cell turnover (eg, [[../Renal/Tumor lysis syndrome|tumor lysis syndrome]])
+	- [[../Biochemistry/Lesch-Nyhan syndrome|Lesch-Nyhan syndrome]] (deficiency of HGPRT)
+	- ↑ Phosphoribosyl pyrophosphate activity
+- Decreased uric acid clearance
+	- [[../Renal/Chronic kidney disease|Chronic kidney disease]]
+	- Volume depletion
+	- [[../Pharmacology/Diuretics|Diuretics]] (eg, thiazide)
+	- Cyclosporine & [[../Immunology/Immunosuppressants|tacrolimus]]
+- Rapid decline in uric acid levels
+	- Xanthine oxidase inhibitors (eg, allopurinol)
+	- Uricosuric drugs (eg, probenecid)
 
 ---
 # Pathophysiology
@@ -39,7 +54,13 @@ share: true
 
 ---
 # Treatment
+>[!tip] 
+>- <span style="background:rgba(240, 200, 0, 0.2)">[[../Pharmacology/Non-opioid analgesics|NSAIDs]] (e.g., naproxen, indomethacin) preferred</span> if no contraindications
+>- Colchicine used as second-line therapy
 ## Acute gout flare
+### [[../Pharmacology/Non-opioid analgesics|NSAIDs]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Naproxen</span> or an alternative (e.g., indomethacin, ibuprofen)
+- <span style="background:rgba(240, 200, 0, 0.2)">Contraindicated in [[../GI/Peptic ulcer disease|PUD]]</span>
 ### Colchicine  
 - Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">binds and stabilizes tubulin subunits → inhibits microtubule polymerization → inhibits phagocytosis of urate crystals, neutrophil activation, migration, and degranulation </span>
 - Adverse effects
@@ -52,6 +73,20 @@ share: true
 	- CNS symptoms (e.g., fatigue, headache)
 
 >[!tip] 
->Colchicine is unlikely to be effective when initiated > 24–36 hours after symptom onset. Colchicine is preferable in patients who cannot tolerate NSAIDs or systemic glucocorticoids (e.g., patients with [[../GI/Peptic ulcer disease|PUD]])
+>Colchicine is unlikely to be effective when initiated > 24–36 hours after symptom onset. Colchicine is preferable in patients who cannot tolerate [[../Pharmacology/Non-opioid analgesics|NSAIDs]] or systemic glucocorticoids (e.g., patients with [[../GI/Peptic ulcer disease|PUD]])
+## Chronic gout
+- <span style="background:rgba(240, 200, 0, 0.2)">Urate-lowering therapy (ULT)</span> is recommended for chronic gout.
+	- <span style="background:rgba(240, 200, 0, 0.2)">First-line: xanthine-oxidase inhibitors (allopurinol)</span>
+	- Second-line: uricosurics (probenecid)
+	- Third-line: recombinant uricase (pegloticase)
+- Administer anti-inflammatory prophylaxis before initiating ULT as ULT may trigger, prolong, or worsen an acute gout flare. 
+	- Lowering of serum urate levels likely causes preexisting urate crystal deposits to dissolve and become mobile.
+### Uricosurics
+- <span style="background:rgba(240, 200, 0, 0.2)">Probenecid</span>
+- Mechanism of action
+	- Inhibition of uric acid reabsorption along renal proximal convoluted tubules  → increased renal elimination
+- Side effects
+	- [[../Renal/Nephrolithiasis# Uric acid stones|Nephrolithiasis >  Uric acid stones]]
+	- Hypersensitivity reactions (sulfa allergy due to being a sulfonamide derivative)
 
 ---

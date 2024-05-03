@@ -17,4 +17,5 @@ share: true
 	- Brown pigment gallstones
 		- Radiolucent
 		- Associated with infection
+
 ![[../../assets/img/Pasted image 20231216210832.png|Pasted image 20231216210832.png]]

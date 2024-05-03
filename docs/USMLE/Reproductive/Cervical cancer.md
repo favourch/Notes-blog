@@ -10,7 +10,17 @@ share: true
 
 ---
 # Etiology
-
+## Risk factors
+- <span style="background:rgba(240, 200, 0, 0.2)">For contracting [[../Infective disease/Human papillomavirus infection|HPV]] infection</span>
+	- Actions that <span style="background:rgba(240, 200, 0, 0.2)">increase the likelihood of HPV infection (strongest risk factor)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Multiple sexual partners </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Lack of barrier contraceptive</span>
+	- Early-onset of sexual activity
+	- Multiparity
+	- Immunosuppression (e.g., [[../Infective disease/Human immunodeficiency virus|HIV]] infection, post-transplantation)
+- Environmental risk factors
+	- Cigarette smoking and/or exposure to second-hand smoke (for squamous cell cancer types only) 
+	- <span style="background:rgba(240, 200, 0, 0.2)">In-utero exposure to diethylstilbestrol (DES)</span>
 
 ---
 # Pathophysiology

@@ -2,7 +2,7 @@
 author: Harvey Guo
 created: 2023-09-07 16:46
 modified: 2023-09-07 16:46
-aliases: Untitled
+aliases: []
 share: true
 ---
 >[!tip] Key points

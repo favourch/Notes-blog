@@ -12,7 +12,7 @@ share: true
 # Etiology
 - Typically idiopathic (∼ 70% of cases) 
 - Fetal anomalies
-	- Gastrointestinal (e.g., esophageal atresia, duodenal atresia and stenosis): reduced swallowing and absorption of amniotic fluid
+	- Gastrointestinal (e.g., esophageal atresia, [[../GI/Intestinal atresia|duodenal atresia]] and stenosis): reduced swallowing and absorption of amniotic fluid
 	- CNS: anencephaly (leads to impaired swallowing of amniotic fluid, leakage of cerebrospinal fluid, and increased urination due to lack of fetal ADH), meningomyelocele (due to leakage of cerebrospinal fluid)
 	- Pulmonary: cystic lung malformations
 	- Multiple pregnancy: twin-to-twin [[../Blood/Transfusion|transfusion]] syndrome 

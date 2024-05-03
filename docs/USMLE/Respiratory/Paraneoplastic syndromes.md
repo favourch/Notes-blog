@@ -19,5 +19,5 @@ share: true
 		- [[../Blood/Hodgkin lymphoma|Hodgkin lymphoma]]
 		- NHL
 	- Local osteolytic [[../Cardiology/Hypercalcemia|hypercalcemia]]: osteolytic activity at sites of skeletal metastases
-		- Multiple myeloma
+		- [[../Blood/Multiple myeloma|Multiple myeloma]]
 		- [[../Reproductive/Breast cancer|Breast cancer]]

@@ -24,11 +24,12 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Inflammation of the mediastinum with scarring and retraction</span> (e.g., secondary to tuberculosis or fungal infection) → traction diverticulum 
 	- Usually true diverticulum
 	- Common site: the middle esophagus
+
 ![[../../assets/img/Pasted image 20231019213910.png|Pasted image 20231019213910.png]]
 
 ---
 # Clinical features
-- Upper esophageal diverticula (e.g., Zenker diverticulum)
+- Upper esophageal [[./Diverticulosis|diverticula]] (e.g., Zenker diverticulum)
 - Most patients report some degree of dysphagia.
 - Additional symptoms can include:
 	- <span style="background:rgba(240, 200, 0, 0.2)">Regurgitation of undigested food</span>

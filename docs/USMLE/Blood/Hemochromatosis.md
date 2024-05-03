@@ -2,11 +2,14 @@
 author: Harvey Guo
 created: 2023-10-29 09:00
 modified: 2023-10-29 09:00
-aliases: Untitled
+aliases:
+  - Hereditary hemochromatosis
 share: true
 ---
 # Epidemiology
-
+- Age of onset: individuals > 40 years
+	- Symptoms start to show when body iron levels reach > 20 g. 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Before menopause, women lose iron via menstruation and pregnancy, which slows down iron accumulation within the body. As a result, symptom onset occurs later in women (typically postmenopausal) than in men.</span>
 
 ---
 # Etiology
@@ -37,7 +40,10 @@ HFE gene defect (homozygous) → defective binding of transferrin to its recepto
 
 ---
 # Diagnostics
-
+- Liver biopsy
+	- Hemosiderin (normally golden yellow on microscopy) appears <span style="background:rgba(240, 200, 0, 0.2)">blue with the Prussian blue stain. </span>
+	- Pattern of hereditary hemochromatosis: pronounced parenchymal siderosis (accumulation of hemosiderin within the tissue) in hepatocytes and bile duct epithelium
+	- Pattern of secondary iron overload: Kupffer cells (specialized macrophages) containing hemosiderin
 
 ---
 # Treatment

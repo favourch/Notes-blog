@@ -54,8 +54,8 @@ HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also kno
 - Chronic infection (inactive): HBsAg (+), Anti-HBc (+, IgG), Anti-HBe (+)![[../../assets/img/Pasted image 20231213111859.png|Pasted image 20231213111859.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Recovery: conversion from HBsAg (+) to Anti-Hbs (+) in chronic infection, also HBV DNA needs to be undetectable</span>
 - ![[../../assets/img/Pasted image 20231213112059.png|Pasted image 20231213112059.png]]
->[!tip] 
->During the window period, anti-HBc IgM and anti-HBe may be the only markers available to diagnose an acute HBV infection.
+>[!tip] Window period
+>During the window period, anti-HBc IgM and anti-HBe may be positive. <span style="background:rgba(240, 200, 0, 0.2)">But they don't give a clear picture of current infectiousness because they may indicate previous infection.</span>
 
 
 ---

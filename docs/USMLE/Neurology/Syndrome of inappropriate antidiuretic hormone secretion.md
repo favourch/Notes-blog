@@ -11,7 +11,15 @@ share: true
 
 ---
 # Etiology
-
+## Drugs
+- [[./Anticonvulsant drugs|Anticonvulsants]] (e.g., carbamazepine, valproate)
+- [[../Psychiatry/Antidepressants|Antidepressants]]
+	- [[../Psychiatry/Antidepressants|SSRIs]] (e.g., sertraline)
+	- MAO inhibitors
+	- TCAs (e.g., amitriptyline)
+- [[../Blood/Chemotherapeutic agents|Chemotherapeutic agents]]
+	- Mitotic inhibitors (e.g., vincristine)
+	- Alkylating agents (e.g., cyclophosphamide, cisplatin)
 
 ---
 # Pathophysiology
@@ -22,7 +30,22 @@ share: true
 
 ---
 # Clinical features
+## Symptoms of hyponatremia
+- Mild
+	- Anorexia
+	- Nausea, vomiting
+	- Headache
+	- Muscle cramps
+- Moderate
+	- Muscle weakness
+	- Lethargy
+	- Confusion
+- Severe 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Seizures</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Altered consciousness</span>
 
+>[!tip] 
+><span style="background:rgba(240, 200, 0, 0.2)">Both SIADH and [[../Endocrine/Primary hyperaldosteronism|Primary hyperaldosteronism]] have no edema.</span> A hyponatremic patient with edema should raise suspicion for other conditions (e.g. [[../Cardiology/Congestive heart failure|congestive heart failure]]).
 
 ---
 # Diagnostics
@@ -30,6 +53,6 @@ share: true
 
 ---
 # Treatment
-<% tp.file.cursor() %>
+
 
 ---

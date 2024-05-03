@@ -5,6 +5,8 @@ modified: 2024-02-29 10:12
 aliases:
   - androgen
   - estrogen
+  - Aromatase inhibitors
+  - Aromatase inhibitor
 share: true
 ---
 
@@ -33,6 +35,7 @@ Although the majority of testosterone is produced by the Leydig cells in the tes
 >[!tip] 
 >The testosterone and estrogen precursors DHEA and androstenedione are produced in the adrenal cortex in both male and female individuals. Testosterone is produced by Leydig cells in the testicles and, to a lesser degree, by the theca interstitial cells in the ovaries.
 # Estrogen
+---
 ## Ovarian estrogen synthesis
 Estrogen synthesis <span style="background:rgba(240, 200, 0, 0.2)">primarily takes place in the ovarian granulosa cells.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">LH stimulates androgen synthesis in ovarian theca cells.</span>
@@ -51,3 +54,15 @@ There are <span style="background:rgba(240, 200, 0, 0.2)">three types of estroge
 	- Estradiol and estrone: 100-fold increase
 	- <span style="background:rgba(240, 200, 0, 0.2)">Estriol: 1000-fold increase (it is secreted by the placenta as unconjugated estriol and a marker of fetal health)</span>
 		- Fetal DHEA enters the maternal serum and is converted by the placenta to unconjugated estriol, which is then rapidly conjugated by the liver to a water-soluble form that can be excreted in urine.
+# Related drugs
+---
+## Aromatase inhibitors
+- Agents
+	- Anastrozole
+	- <span style="background:rgba(240, 200, 0, 0.2)">Letrozole</span>
+	- Exemestane
+- Mechanism of action
+	- Inhibition of aromatase → ↓ conversion of androstenedione to estrone, <span style="background:rgba(240, 200, 0, 0.2)">↓ conversion of testosterone to estradiol → ↓ tumor growth</span>
+- Indications
+	- Postmenopausal estrogen receptor-positive [[./Breast cancer|breast cancer]]
+	- Letrozole: used for ovulation induction (e.g., in [[./Polycystic ovary syndrome|PCOS]])

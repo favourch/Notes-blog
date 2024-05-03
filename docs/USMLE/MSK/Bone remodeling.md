@@ -49,3 +49,5 @@ share: true
 		- <span style="background:rgba(240, 200, 0, 0.2)">Stimulates apoptosis of osteoclasts, leading to decreased bone resorption</span>
 		- Stimulates closure of the epiphyseal plate in puberty
 		- [[../Reproductive/Androgen and estrogen synthesis|Estrogen]] deficiency (e.g., postmenopausal or after bilateral oophorectomy) leads to increased bone resorption, which can result in [[./Osteoporosis|osteoporosis]].
+	- Thyroid hormone
+		- In <span style="background:rgba(240, 200, 0, 0.2)">long-standing hyperthyroidism</span>, <span style="background:rgba(240, 200, 0, 0.2)">[[./Osteoporosis|osteoporosis]]</span> due to the direct effect of T3 on osteoclastic bone resorption, fractures (in the elderly)

@@ -16,6 +16,25 @@ share: true
 
 ---
 # Pathophysiology
+## Overview
+- Carcinoid tumors are <span style="background:rgba(240, 200, 0, 0.2)">neuroendocrine tumors</span> that arise from amine precursor uptake and decarboxylation cells (APUD cells).
+	- A group of endocrine cells that secrete peptide hormones (e.g., secretin, cholecystokinin)
+	- These cells take up amine precursors (e.g., 5-hydroxytryptophan) and decarboxylate them to form amines.
+- Neuroendocrine cells (including β cells in the pancreas or enterochromaffin cells in the GI tract) belong to the APUD series and <span style="background:rgba(240, 200, 0, 0.2)">share a common biologic function</span> despite their different embryologic origins, anatomic sites, and secretory products (e.g., serotonin, histamine).
+## Tumor location
+- <span style="background:rgba(240, 200, 0, 0.2)">GI tract (55% of cases):</span>
+	- Small intestine (esp. the ileum): 45%
+	- Rectum: 20%
+	- Appendix: 17%
+- Pancreas (15% of cases)
+	- Insulinoma
+	- Glucagonoma
+- Bronchopulmonary system (10% of cases)
+	- Carcinoid lung tumor
+	- Small cell carcinoma
+- Thyroid: medullary carcinoma
+- Adrenal glands: pheochromocytoma
+## Secretory products
 - Carcinoid tumors can synthesize different hormones (most commonly [[../Neurology/Neurotransmitters|serotonin]]).
 - [[../Neurology/Neurotransmitters|Serotonin]] is degraded via the following mechanisms:
 	- First-pass metabolism in the liver
@@ -53,6 +72,11 @@ share: true
 # Diagnostics
 - ↑ 5-hydroxyindoleacetic acid (5-HIAA) in 24-hour urine collection
 	- A degradation product of serotonin metabolism. Elevated levels in 24-hour urine are seen in carcinoid tumor.
+## Biopsy 
+- Histology
+	- Can show a variety of architectural patterns (e.g., islands, nests, trabeculae)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Prominent rosettes composed of numerous small monomorphic cells with salt-and-pepper chromatin </span>![[../../assets/img/L71504.jpg|L71504.jpg]]![[../../assets/img/Pasted image 20240429202129.png|Pasted image 20240429202129.png]]
+- Immunohistochemistry: immunostaining with synaptophysin, chromogranin A, and neuron-specific enolase (NSE) to confirm neuroendocrine origin
 
 ---
 # Treatment

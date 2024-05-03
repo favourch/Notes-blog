@@ -46,7 +46,7 @@ The ulnar nerve is most commonly compressed at or near the <span style="backgrou
 		- <span style="background:rgba(240, 200, 0, 0.2)">The key is whether flexor digitorum profundus is damaged.</span>
 		- Nerves controlling flexor digitorum profundus branches out below the elbow. So it's spared in distal lesion, but included in proximal lesion. So the claw hand is more prominent in distal lesion.![[../../assets/img/Pasted image 20240221092122.png|Pasted image 20240221092122.png]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Froment sign</span> 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Flexion of the thumb at the interphalangeal joint elicited when tightly pressing together the tips of the index finger and thumb, or when tightly adducting the thumb against the 2nd metacarpal (e.g., pinching a piece of paper using the thumb)</span> ![[../../assets/img/Pasted image 20230919170423.png|Pasted image 20230919170423.png]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">Flexion of the thumb at the interphalangeal joint elicited when tightly pressing together the tips of the index finger and thumb, or when tightly adducting the thumb against the 2nd metacarpal (e.g., pinching a piece of paper using the thumb)</span> ![[../../assets/img/Pasted image 20240418172909.png|Pasted image 20240418172909.png]]![[../../assets/img/Pasted image 20230919170423.png|Pasted image 20230919170423.png]]
 	- Due to weakness of the adductor pollicis muscle and the unopposed action of flexor pollicis longus
 
 ---

@@ -10,7 +10,8 @@ share: true
 
 ---
 # Etiology
-- Biliary pancreatitis (∼ 40% of cases; mostly caused by <span style="background:rgba(240, 200, 0, 0.2)">gallstones</span>) 
+- Biliary pancreatitis (∼ 40% of cases; mostly caused by <span style="background:rgba(240, 200, 0, 0.2)">[[./Gallstones|gallstones]]</span>) 
+	- Blockage of the common bile duct and pancreatic duct
 - <span style="background:rgba(240, 200, 0, 0.2)">Alcohol-induced</span> (∼ 20% of cases)
 - Idiopathic (∼ 25% of cases)
 

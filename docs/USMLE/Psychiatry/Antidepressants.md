@@ -82,7 +82,8 @@ share: true
 	- Dry mouth
 - Drug interactions: risk of [[../Neurology/Serotonin syndrome|serotonin syndrome]] if used concomitantly with other serotonergic drugs
 >[!tip] 
->Buproprion is not associated with sexual dysfunction or weight gain. It is contraindicated in patients with seizure and eating disorders.
+><span style="background:rgba(240, 200, 0, 0.2)">Buproprion is not associated with sexual dysfunction or weight gain.</span> It is contraindicated in patients with seizure and eating disorders.
+>- Because it does not affect serotonin.
 
 >[!Mnemonic] 
 ><font color="#ffc000">Bu</font>propion + <font color="#ffc000">d</font>op<font color="#ffc000">a</font>mine + <font color="#ffc000">n</font>or<font color="#ffc000">e</font>pinephrine = bu-da-ne (butane).![[../../assets/img/Pasted image 20240315202547.png|Pasted image 20240315202547.png]]

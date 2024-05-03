@@ -12,7 +12,7 @@ share: true
 # Etiology
 ## Primary osteoporosis (most common)
 - Type I (postmenopausal osteoporosis): postmenopausal women 
-	- Estrogen stimulates osteoblasts and inhibits osteoclasts.
+	- [[../Reproductive/Androgen and estrogen synthesis|Estrogen]] stimulates [[./Bone remodeling|osteoblasts]] and inhibits [[./Bone remodeling|osteoclasts]].
 	- <span style="background:rgba(240, 200, 0, 0.2)">The decreased estrogen levels following [[../Reproductive/Menopause|menopause]] lead to increased bone resorption.</span>
 - Type II (senile osteoporosis): gradual loss of bone mass as patients age (especially > 70 years)
 ## Secondary osteoporosis
@@ -41,6 +41,6 @@ share: true
 ### PTH and [[../Renal/Parathyroid hormone-related protein|PTH-related protein]] analogues
 - Teriparatide, Abaloparatide
 - Recombinant human parathyroid hormone that increases osteoblastic activity → increased bone growth
-	- <span style="background:rgba(240, 200, 0, 0.2)">Pulsatile PTH secretion has an anabolic effect on bone metabolism, stimulating osteoblast proliferation, decreasing osteoblast apoptosis, and inducing increased formation of new bone.</span>  Recombinant PTH analogues (eg, teriparatide) are used to treat severe osteoporosis; these analogues promote bone remodeling by inducing increased resorption of old bone while stimulating a corresponding increase in new bone production, resulting in a net increase in total bone mass (ie, positive bone balance).
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pulsatile PTH secretion has an anabolic effect on bone metabolism, stimulating osteoblast proliferation, decreasing osteoblast apoptosis, and inducing increased formation of new bone.</span>  Recombinant PTH analogues (eg, teriparatide) are used to treat severe osteoporosis; these analogues promote [[./Bone remodeling|bone remodeling]] by inducing increased resorption of old bone while stimulating a corresponding increase in new bone production, resulting in a net increase in total bone mass (ie, positive bone balance).
 
 ---

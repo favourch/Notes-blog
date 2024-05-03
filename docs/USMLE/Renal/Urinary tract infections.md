@@ -32,9 +32,9 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Positive leukocyte esterase</span>: an enzyme produced by WBC
 	- ≥ 5 WBC/HPF
 - Bacteriuria: presence of bacteria in the urine
-	- <span style="background:rgba(240, 200, 0, 0.2)">Positive urinary nitrites: indicate bacteria that convert [[../Pharmacology/Nitrates|nitrates]] to nitrites (most commonly gram-negative bacteria; e.g., E.coli)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Positive urinary nitrites: indicate bacteria that convert [[../Pharmacology/Nitrates|nitrates]] to nitrites (most commonly gram-negative bacteria; e.g., E.coli</span>, Klebsiella, Proteus mirabilis)
 - Other findings
-	- Leukocyte casts may indicate [[./Pyelonephritis|pyelonephritis]].
+	- Leukocyte [[./Urine sediment|casts]] may indicate [[./Pyelonephritis|pyelonephritis]].
 	- Micro- or macroscopic hematuria may be present. 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Alkaline urine (pH > 8) and struvite crystals in sediment: indicate urease-producing organisms (e.g., Proteus, Klebsiella, Staphylococcus saprophyticus)</span>
 
@@ -43,10 +43,10 @@ share: true
 
 
 ---
-# UTI in pregnancy
-- Pregnancy may increase the risk of recurrent bacteriuria and UTIs.
+# UTI in [[../Reproductive/Pregnancy|pregnancy]]
+- [[../Reproductive/Pregnancy|Pregnancy]] may increase the risk of recurrent bacteriuria and UTIs.
 - Treatment
-	- Empiric antibiotics for ASB and lower UTI considered appropriate during pregnancy include:
+	- Empiric antibiotics for ASB and lower UTI considered appropriate during [[../Reproductive/Pregnancy|pregnancy]] include:
 		- Fosfomycin
 		- Beta-lactam antibiotics for 5–7 days
 			- Oral cephalosporins (e.g., cefpodoxime)

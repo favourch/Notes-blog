@@ -40,6 +40,7 @@ Increased production of the light chains of [[../Immunology/Immunoglobulins|immu
 ## Etiology
 <span style="background:rgba(240, 200, 0, 0.2)">AA amyloidosis is secondary to a chronic disease</span>, such as:
 - Chronic inflammatory conditions (e.g., IBD, [[../MSK/Rheumatoid arthritis|rheumatoid arthritis]], [[../Immunology/Systemic lupus erythematosus|SLE]], [[../MSK/Vasculitides|vasculitis]], familial Mediterranean fever)
+	- Currently, <span style="background:rgba(240, 200, 0, 0.2)">rheumatic diseases</span> such as rheumatoid arthritis (RA), ankylosing spondylitis (AS), psoriatic arthritis, and juvenile idiopathic arthritis <span style="background:rgba(240, 200, 0, 0.2)">are the most frequent causes (70%) of AA amyloidosis.</span>
 - Chronic infectious diseases (e.g., tuberculosis, [[../Respiratory/Bronchiectasis|bronchiectasis]], leprosy, osteomyelitis)
 
 ---

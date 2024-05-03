@@ -20,7 +20,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">Paraneoplastic [[../Endocrine/Hyperthyroidism|hyperthyroidism]]</span>: <span style="background:rgba(240, 200, 0, 0.2)">alpha subunits of [[./Human chorionic gonadotropin|HCG]] and TSH are identical</span>, enabling weak stimulation of the TSH receptor in tumors with HCG overproduction.
 ## Yolk sac tumor
 - High levels of [[./Alpha fetoprotein|AFP]]
-- Microscopy: <span style="background:rgba(240, 200, 0, 0.2)">Schiller-Duval bodies</span> (perivascular glomeruloid structures)![[../../assets/img/Pasted image 20240218112307.png|Pasted image 20240218112307.png]]![[../../assets/img/Pasted image 20240218112311.png|Pasted image 20240218112311.png]]Cuboidal cells are organized in a solid pattern. A central blood vessel (red overlay) is surrounded by germ cells (blue overlay), resulting in a glomerulus-like appearance (Schiller-Duval body).
+- Microscopy: <span style="background:rgba(240, 200, 0, 0.2)">Schiller-Duval bodies</span> (perivascular glomeruloid structures)![[../../assets/img/L70846.png|L70846.png]]Cuboidal cells are organized in a solid pattern. A central blood vessel is surrounded by germ cells, resulting in a glomerulus-like appearance (Schiller-Duval body).
 >[!tip] 
 >[[./Human chorionic gonadotropin|HCG]] is always elevated in [[./Choriocarcinoma|choriocarcinoma]] and sometimes elevated in seminoma. [[./Alpha fetoprotein|AFP]] is always elevated in yolk sac tumors. Both [[./Alpha fetoprotein|AFP]] and [[./Human chorionic gonadotropin|HCG]] may be elevated in mixed germ cell tumors.
 # Non–germ cell tumors

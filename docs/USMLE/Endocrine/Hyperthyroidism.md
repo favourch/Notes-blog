@@ -39,6 +39,8 @@ share: true
 		- Can develop acutely or several weeks to months after the onset of hyperthyroidism.
 		- Typically affects proximal muscles (e.g., hip flexors, quadriceps) more than distal muscles
 		- Serum creatine kinase levels are most often normal
+- Osteopathy: <span style="background:rgba(240, 200, 0, 0.2)">[[../MSK/Osteoporosis|osteoporosis]]</span> due to the direct effect of T3 on osteoclastic bone resorption, fractures (in the elderly)
+	- In <span style="background:rgba(240, 200, 0, 0.2)">long-standing hyperthyroidism</span>
 - Endocrinological
 	- <span style="background:rgba(240, 200, 0, 0.2)">Female: oligo/amenorrhoea, anovulatory infertility, dysfunctional uterine bleeding </span>
 		- Serum sex hormone-binding globulin (SHBG) levels are high in hyperthyroidism → low serum free (unbound) estradiol concentrations

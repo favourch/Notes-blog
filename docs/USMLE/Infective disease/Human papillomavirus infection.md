@@ -5,8 +5,18 @@ modified: 2024-04-12 22:07
 aliases:
   - HPV
   - Human papillomavirus
+  - Common warts
+  - verruca vulgaris
 share: true
 ---
+# Types
+---
+- Low-risk HPV types 6 and 11
+	- Anogenital warts (condylomata acuminata)
+- <span style="background:rgba(240, 200, 0, 0.2)">High-risk HPV</span> types 16, 18, 31, and 33
+	- [[../Reproductive/Cervical cancer|Cervical cancer]] (responsible for 70% of cases) 
+	- High risk of anogenital, oral, and oropharyngeal squamous cell carcinoma
+- HPV types 1, 2, and 4: cause skin warts, such as <span style="background:rgba(240, 200, 0, 0.2)">common warts (verruca vulgaris) and plantar warts (myrmecias)</span>
 # Pathology
 ---
 - Epidermal hyperplasia and <span style="background:rgba(240, 200, 0, 0.2)">hyperkeratosis</span>

@@ -20,7 +20,7 @@ severe malnutrition (e.g., due to alcoholism, illicit drug use, and/or psychiatr
 - Hydrophilic antioxidant
 - Conversion of dopamine to norepinephrine: coenzyme in dopamine β-hydroxylase
 - <span style="background:rgba(240, 200, 0, 0.2)">[[../Biochemistry/Collagen|Collagen]] synthesis: coenzyme in hydroxylation reaction of proline and lysine</span>
-- Facilitates iron [[../GI/Absorption|absorption]] (keeps iron in Fe2+reduced state)
+- Facilitates iron [[../GI/Absorption|absorption]] (keeps iron in Fe2+ reduced state)
 
 ---
 # Clinical features

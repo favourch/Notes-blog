@@ -81,7 +81,7 @@ Recommended method for diagnosis and disease monitoring
 # Complications
 - ↑ Risk of cancer
 	- chronic inflammation → hyperplasia → <span style="background:rgba(240, 200, 0, 0.2)">non-polypoid dysplasia</span> → neoplasia
-- [[./Toxic megacolon|Toxic megacolon]]
+- <span style="background:rgba(240, 200, 0, 0.2)">[[./Toxic megacolon|Toxic megacolon]]</span>
 - Fulminant colitis
 - Gastrointestinal bleeding (both acute and chronic)
 - Perforation

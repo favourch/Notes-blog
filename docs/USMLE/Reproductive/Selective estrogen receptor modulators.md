@@ -12,7 +12,7 @@ share: true
 ---
 # Tamoxifen
 ## Mechanism of action
-- Competitive <span style="background:rgba(240, 200, 0, 0.2)">antagonist on the estrogen receptors of the breast</span> → ↓ breast cancer cell growth
+- Competitive <span style="background:rgba(240, 200, 0, 0.2)">antagonist on the estrogen receptors of the breast</span> → ↓ [[./Breast cancer|breast cancer]] cell growth
 - <span style="background:rgba(240, 200, 0, 0.2)">Agonist on estrogen receptors in the following tissues</span>:
 	- Bone tissue → inhibition of osteoclasts → ↓ risk of [[../MSK/Osteoporosis|osteoporosis]] and fractures
 	- Endometrium → ↑ proliferation
@@ -24,6 +24,7 @@ share: true
 ## Side effects
 - Hot flashes
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of endometrial cancer</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Risk of [[./Uterine leiomyoma#Uterine leiomyosarcoma (uterine sarcoma)|Uterine leiomyoma > Uterine leiomyosarcoma (uterine sarcoma)]]</span>
 - ↑ Risk of thromboembolic events (e.g., [[../Respiratory/Pulmonary embolism|pulmonary embolism]], DVT)
 # Raloxifene
 ## Mechanism of action

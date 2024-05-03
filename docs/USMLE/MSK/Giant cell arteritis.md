@@ -27,7 +27,7 @@ share: true
 		- Can be pulse-synchronous, throbbing, dull
 		- Typically located <span style="background:rgba(240, 200, 0, 0.2)">over the temples</span>
 	- Hardened and tender temporal artery ![[../../assets/img/Pasted image 20240403193138.png|Pasted image 20240403193138.png]]
-	- Jaw claudication: jaw pain when chewing
+	- <span style="background:rgba(240, 200, 0, 0.2)">Jaw claudication: jaw pain when chewing</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Vision loss: due to inflammation and occlusion of the ophthalmic artery and its branches  </span>
 		- Scintillating scotoma
 		- Amaurosis fugax or permanent loss of vision due to anterior ischemic optic neuropathy (AION)
@@ -35,7 +35,9 @@ share: true
 
 # Diagnostics
 ---
-
+- <span style="background:rgba(240, 200, 0, 0.2)">Elevated erythrocyte sedimentation rate</span> & C-reactive protein <span style="background:rgba(240, 200, 0, 0.2)">(best initial test)</span>
+	- Highly sensitive and almost always significantly elevated in GCA.
+- Temporal artery biopsy: intimal thickening, elastic lamina fragmentation, multinucleated giant cells
 
 # Treatment
 ---

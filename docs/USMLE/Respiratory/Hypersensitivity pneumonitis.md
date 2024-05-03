@@ -11,7 +11,7 @@ share: true
 
 # Etiology
 ---
-- Combined type III hypersensitivity reaction and [[../Immunology/Type IV hypersensitivity reaction|type IV hypersensitivity reaction]] with genetic predisposition
+- Combined [[../Immunology/Type III hypersensitivity reactions|type III hypersensitivity reaction]] and [[../Immunology/Type IV hypersensitivity reaction|type IV hypersensitivity reaction]] with genetic predisposition
 - Inhalation of organic particles (< 5 microns), primarily through occupational exposure
 - Farmers are frequently affected
 

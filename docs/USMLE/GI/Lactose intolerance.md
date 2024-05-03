@@ -35,6 +35,7 @@ share: true
 
 ---
 # Treatment
-
+- Avoid or reduce intake of milk products: lactose‑free or lactose‑reduced products
+- Oral lactase supplements
 
 ---

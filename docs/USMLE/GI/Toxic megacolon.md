@@ -10,17 +10,17 @@ share: true
 
 ---
 # Etiology
-- Bacterial: C. difficile (pseudomembranous colitis), Salmonella, Shigella, Campylobacter infections
-- Inflammatory colitis: [[./Ulcerative colitis|Ulcerative colitis]], Crohn disease
+- Bacterial: [[../Infective disease/Clostridium difficile infection|C. difficile]] (pseudomembranous colitis), Salmonella, Shigella, Campylobacter infections
+- Inflammatory colitis: [[./Ulcerative colitis|Ulcerative colitis]], [[./Crohn disease|Crohn disease]]
 
 ---
 # Pathophysiology
-- Colonic accumulation of inflammatory mediators and bacteria → nitric oxide synthesis → colonic dilation [16]
+- Colonic accumulation of inflammatory mediators and bacteria → nitric oxide synthesis → colonic dilation
 - Edema and inflammation of the colonic smooth muscle → colonic dysmotility → colonic dilation
 
 ---
 # Clinical features
-- (Bloody) diarrhea and vomiting
+- (Bloody) [[./Diarrhea|diarrhea]] and vomiting
 - Abdominal distention and pain
 - Signs of sepsis (fever, tachycardia, hypotension) and dehydration
 

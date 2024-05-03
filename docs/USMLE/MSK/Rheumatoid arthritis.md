@@ -12,7 +12,7 @@ share: true
 # Etiology
 - Idiopathic inflammatory autoimmune disorder of unknown etiology
 - Risk factors include:
-	- Genetic disposition: associated with HLA-DR4 and HLA-DR1
+	- Genetic disposition: associated with [[../Immunology/HLA system|HLA-DR4]] and HLA-DR1
 	- Environmental factors (e.g., smoking)
 	- Hormonal factors (premenopausal women are at the highest risk, suggesting a predisposing role of female sex hormones)
 
@@ -20,7 +20,7 @@ share: true
 # Pathophysiology
 - Bouts of inflammation, angiogenesis, and proliferation → <span style="background:rgba(240, 200, 0, 0.2)">proliferative granulation tissue with mononuclear inflammatory cells → pannus and synovial hypertrophy → invasion, progressive destruction, and deterioration of cartilage and bone</span>
 - Antibodies against Fc portion of IgG (rheumatoid factor, RF) are produced to aid in removing autoantibodies and immune complexes.
-	- RF excess triggers formation of new immune complexes and type III HSR
+	- RF excess triggers formation of new immune complexes and [[../Immunology/Type III hypersensitivity reactions|type III HSR]]
 	- Individuals with positive RF are more likely to develop extraarticular manifestations.
 - ![[../../assets/img/Pasted image 20231014090158.png|Pasted image 20231014090158.png]]
 
@@ -61,4 +61,7 @@ share: true
 	- <span style="background:rgba(240, 200, 0, 0.2)">TNF-α inhibitors</span>: e.g., adalimumab, infliximab, <span style="background:rgba(240, 200, 0, 0.2)">etanercept</span>
 		- a receptor molecule (cept)
 
+# Complications
 ---
+- <span style="background:rgba(240, 200, 0, 0.2)">[[../Pathology/Amyloidosis#AA amyloidosis (secondary amyloidosis)|Amyloidosis > AA amyloidosis (secondary amyloidosis)]]</span>
+- Septic arthritis

@@ -17,14 +17,14 @@ share: true
 
 ---
 # Pathophysiology
-- Associations with HLA-DR3, and DR5 have been proposed.
+- Associations with [[../Immunology/HLA system|HLA-DR3]], and DR5 have been proposed.
 - Cellular (especially T cells) and humoral immune responses are activated  → active <span style="background:rgba(240, 200, 0, 0.2)">B lymphocytes produce thyroid peroxidase antibodies (TPOAbs) and thyroglobulin antibodies (TgAbs) → destruction of thyroid tissue</span>
 
 ---
 # Clinical features
 - Early-stage
 	- Primarily asymptomatic
-	- <span style="background:rgba(240, 200, 0, 0.2)">Goiter: nontender or painless</span>, rubbery thyroid with moderate and symmetrical enlargement
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Goiter|Goiter]]: nontender or painless</span>, rubbery thyroid with moderate and symmetrical enlargement
 	- Hashitoxicosis may occur: <span style="background:rgba(240, 200, 0, 0.2)">transient thyrotoxicosis</span> due to follicular rupture of hormone-containing thyroid tissue that manifests with signs of [[./Hyperthyroidism|hyperthyroidism]] (e.g., irritability, heat intolerance, [[../GI/Diarrhea|diarrhea]])
 - Late-stage
 	- Thyroid may be normal-sized or small if extensive fibrosis has occurred.

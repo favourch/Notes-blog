@@ -12,6 +12,7 @@ share: true
 # Etiology
 ## Complete mole
 - Fertilization of an <span style="background:rgba(240, 200, 0, 0.2)">empty egg that does not carry any chromosomes</span> by a single sperm
+- The (physiological) haploid chromosome set contributed by the sperm is <span style="background:rgba(240, 200, 0, 0.2)">subsequently duplicated</span>.
 - Fetal karyotypes
 	- <span style="background:rgba(240, 200, 0, 0.2)">46XX (more common; ∼ 90% of cases)</span>
 	- 46XY (less common; ∼ 10% of cases)

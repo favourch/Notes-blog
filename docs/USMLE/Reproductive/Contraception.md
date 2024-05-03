@@ -4,6 +4,7 @@ created: 2024-04-10 16:51
 modified: 2024-04-10 16:51
 aliases:
   - contraceptives
+  - OCPs
 share: true
 ---
 # Hormonal contraception

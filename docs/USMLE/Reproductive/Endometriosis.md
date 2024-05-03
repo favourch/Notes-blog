@@ -15,7 +15,8 @@ share: true
 
 ---
 # Pathophysiology
-- In endometriosis, endometrial tissue occurs outside of the uterus.
+- In endometriosis, endometrial tissue occurs <span style="background:rgba(240, 200, 0, 0.2)">outside of the uterus.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">It's adenomyosis if in uterus.</span>
 - Common locations of endometriotic implants include:
 	- Pelvic organs
 		- <span style="background:rgba(240, 200, 0, 0.2)">Ovaries: most common site; often affected bilaterally</span>
@@ -36,7 +37,7 @@ share: true
 - <span style="background:rgba(240, 200, 0, 0.2)">Chronic pelvic pain that worsens before the onset of menses</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Infertility</span>
 	- Endometriosis <span style="background:rgba(240, 200, 0, 0.2)">causes inflammation and adhesions that can change pelvic anatomy, altering egg quality and impairing implantation</span>. 25–50% of infertile women have endometriosis.
-- Dysmenorrhea
+- <span style="background:rgba(240, 200, 0, 0.2)">Dysmenorrhea</span>
 - Pre- or postmenstrual bleeding
 - Dyspareunia
 ## Intestines
@@ -56,7 +57,7 @@ share: true
 - Clinical features
 	- May be asymptomatic 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Dysmenorrhea</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Abnormal uterine bleeding</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[./Abnormal uterine bleeding|Abnormal uterine bleeding]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Chronic pelvic pain, aggravated during menses</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Globular, uniformly enlarged uterus that is soft but tender on palpation</span>
 		- Differ from [[./Uterine leiomyoma|Uterine leiomyoma]], which shows irregularly enlarged, firm uterine
@@ -77,6 +78,11 @@ share: true
 
 ---
 # Treatment
-
+- Mild to moderate pelvic pain without complications
+	- <span style="background:rgba(240, 200, 0, 0.2)">Empiric treatment with [[../Pharmacology/Non-opioid analgesics|NSAIDs]] and continuous hormonal [[./Contraception|contraceptives]]</span> 
+	- [[../Pharmacology/Non-opioid analgesics|NSAIDs]] alone if pregnancy is desired 
+	- Synthetic androgens (e.g., danazol) 
+- Severe symptoms: <span style="background:rgba(240, 200, 0, 0.2)">[[../Pharmacology/Hypothalamic and pituitary drugs|GnRH agonists]]</span> (e.g., buserelin, goserelin) and estrogen-progestin OCPs 
+	- OCPs are to avoid hypoestrogenic side effects
 
 ---

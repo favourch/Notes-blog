@@ -24,7 +24,7 @@ share: true
 
 # Diagnostics
 ---
-<% tp.file.cursor() %>
+![[../../assets/img/Pasted image 20240416210234.png|Pasted image 20240416210234.png]]
 
 # Treatment
 ---

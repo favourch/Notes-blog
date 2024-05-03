@@ -10,6 +10,7 @@ share: true
 ![[../../assets/img/Pasted image 20230920172031.png|Pasted image 20230920172031.png]]
 # Large-vessel vasculitis
 ![[../../assets/img/Pasted image 20230920162430.png|Pasted image 20230920162430.png]]
+See [[./Giant cell arteritis|Giant cell arteritis]]
 >[!Mnemonic] Takayasu arteritis
 >A japanese man get arm cut off.![[../../assets/img/Pasted image 20230920162517.png|Pasted image 20230920162517.png]]
 

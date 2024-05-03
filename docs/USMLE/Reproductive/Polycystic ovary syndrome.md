@@ -44,7 +44,7 @@ Onset of symptoms typically <span style="background:rgba(240, 200, 0, 0.2)">occu
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hirsutism</span>
 		- A condition of excessive male pattern hair growth in women (e.g., on the chin, above the upper lip, and around the umbilicus) that is most commonly idiopathic but associated with excess androgen in 10% of cases.
 	- Androgenic [[../MSK/Alopecia|alopecia]]
-	- Acne vulgaris
+	- [[../MSK/Acne vulgaris|Acne vulgaris]]
 	- Oily skin
 	- [[../MSK/Acanthosis nigricans|Acanthosis nigricans]]
 - Psychiatric conditions
@@ -60,19 +60,19 @@ Onset of symptoms typically <span style="background:rgba(240, 200, 0, 0.2)">occu
 - Target BMI < 25 kg/m<sup>2</sup> (can reduce estrone production in the adipose tissue)
 ## Patients not planning to conceive
 For patients who do not wish to conceive, the therapeutic goals are to control menstrual irregularities and hyperandrogenism, treat comorbidities, and improve quality of life.
-- <span style="background:rgba(240, 200, 0, 0.2)">Combined oral contraceptives (COCs) </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Combined oral [[./Contraception|contraceptives]] (COCs) </span>
 	- Indication: first-line treatment for hyperandrogenism and/or menstrual cycle abnormalities 
 		- Additional benefits
 			- ↓ Endometrial hyperplasia → ↓ risk of endometrial carcinoma 
 			- ↓ Menstrual bleeding
-			- ↓ Acne
+			- ↓ [[../MSK/Acne vulgaris|Acne]]
 			- Treatment of hirsutism
 				- COCs increase the production of SHBG, which binds excess androgen.
 - Metformin: improves menstrual irregularities, metabolic outcomes, and weight (especially when combined with lifestyle modifications)
 ## Patients planning to conceive
 Management of comorbidities (e.g., weight loss for overweight or obese patients) and induction of ovulation.
 - <span style="background:rgba(240, 200, 0, 0.2)">Letrozole (off-label): first-line therapy for ovulation induction </span>
-	- An aromatase inhibitor
+	- An [[./Androgen and estrogen synthesis|aromatase inhibitor]]
 	- Improves [[./Pregnancy|pregnancy]] and live birth rates in patients with anovulatory infertility with no other causes
 	- <span style="background:rgba(240, 200, 0, 0.2)">Mechanism of action: aromatase inhibition reduces estrogen production, stimulating FSH secretion and inducing ovulation</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">[[./Selective estrogen receptor modulators|Clomiphene]]</span>: alternative to letrozole
@@ -80,6 +80,6 @@ Management of comorbidities (e.g., weight loss for overweight or obese patients)
 	- Agents: exogenous FSH and human menopausal gonadotropin
 - Metformin
 	- Can be used as second-line monotherapy for fertility treatment.  
-	- <span style="background:rgba(240, 200, 0, 0.2)">Combination with clomiphene may increase pregnancy rates, especially in obese women.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Combination with [[./Selective estrogen receptor modulators|clomiphene]] may increase pregnancy rates, especially in obese women.</span>
 
 ---

@@ -2,7 +2,8 @@
 author: Harvey Guo
 created: 2024-04-12 21:13
 modified: 2024-04-12 21:13
-aliases: []
+aliases:
+  - Contact dermatitis
 share: true
 ---
 # Epidemiology

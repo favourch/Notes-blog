@@ -13,7 +13,7 @@ Abnormal uterine bleeding (AUB) is a broad term that describes irregularities in
 
 # Etiology
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">Structural causes: polyps, [[./Endometriosis|adenomyosis]], leiomyomas, and malignancy and hyperplasia (PALM)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Structural causes: polyps, [[./Endometriosis|adenomyosis]], [[./Uterine leiomyoma|leiomyomas]], and malignancy and hyperplasia (PALM)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Nonstructural causes: coagulopathy, ovulatory dysfunction, endometrial, iatrogenic, not otherwise classified (COEIN)</span>
 
 # Pathophysiology

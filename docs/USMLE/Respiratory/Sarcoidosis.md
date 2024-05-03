@@ -6,10 +6,10 @@ modified: 2023-07-20 15:15
 aliases: Untitled
 share: true
 ---
-# Classic presentation
-- HiIar lymphadenopathy
-- Cough, dyspnea
-- Often asymptomatic, detected on routine chest x-ray
+>[!tip] Classic presentation
+>- HiIar lymphadenopathy
+>- Cough, dyspnea
+>- Often asymptomatic, detected on routine chest x-ray
 # Etiology
 
 
@@ -47,7 +47,7 @@ Sarcoidosis is a systemic disorder characterized by widespread, immune-mediated 
 	- A pathognomonic manifestation of sarcoidosis characterized by extensive, violaceous skin plaques (i.e., epithelioid granulomas of the dermis) on the nose, cheeks, chin, and/or ears 
 
 Butterfly rash as seen in [[../Immunology/Systemic lupus erythematosus|systemic lupus erythematosus]]
-## Symptoms of hypercalcemia![[../Cardiology/Hypercalcemia#Clinical features|Hypercalcemia > Clinical features]]
+## Symptoms of [[../Cardiology/Hypercalcemia|hypercalcemia]]![[../Cardiology/Hypercalcemia#Clinical features|Hypercalcemia > Clinical features]]
 
 ---
 # Diagnostics
