@@ -42,6 +42,7 @@ share: true
 
 ---
 # Treatment
-
+- IV ceftriaxone for 2 weeks
+- Maintenance treatment with oral trimethoprim-sulfamethoxazole for 1 year
 
 ---
